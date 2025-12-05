@@ -1,0 +1,5973 @@
+{
+  "metadata": {
+    "title": "10-K 2024, 09.28.2024-2024-10-31-12-16",
+    "author": "anonymous",
+    "subject": "",
+    "file_name": "report.pdf",
+    "statistics": {
+      "total_entities": 510,
+      "total_relationships": 460,
+      "entity_types": {
+        "COMPANY": 41,
+        "PRODUCT": 155,
+        "LOCATION": 42,
+        "EVENT": 25,
+        "DATE": 41,
+        "NUMBER": 145,
+        "ORGANIZATION": 1,
+        "METRIC": 41,
+        "PERSON": 19
+      },
+      "relation_types": {
+        "IS_CEO_OF": 20,
+        "HAS_REVENUE": 132,
+        "LAUNCHED": 61,
+        "OPERATES": 1,
+        "OFFERS": 8,
+        "MANAGES": 5,
+        "LOCATED_IN": 89,
+        "INVESTED_IN": 1,
+        "INTRODUCED_IN": 1,
+        "EXPERIENCES": 2,
+        "IMPACTS": 8,
+        "SECURES": 2,
+        "USES": 2,
+        "DEPLOYED": 1,
+        "INDUCES": 2,
+        "ANNOUNCED": 9,
+        "IS_SUBJECT_TO": 1,
+        "FACED": 1,
+        "DEFENDED": 1,
+        "HAS_EVENT": 1,
+        "RELATIVE_TO": 1,
+        "AFFECTS": 2,
+        "EXPOSED_TO": 1,
+        "ACQUIRED": 9,
+        "HAS_SHAREHOLDERS": 1,
+        "HAS_SHAREHOLDERS_DATE": 1,
+        "Purchased_SHARES": 1,
+        "AVERAGE_PRICE_PER_SHARE": 1,
+        "TOTAL_DOLLAR_VALUE_OF_SHARES_PURCHASED": 1,
+        "AUTHORIZED_SHARE_REPURCHASE_PROGRAM": 1,
+        "UTILIZED_SHARE_REPURCHASE_PROGRAM": 1,
+        "UTILIZED_PREVIOUS_REPURCHASE_PROGRAM": 1,
+        "ANNOUNCED_SHARE_REPURCHASE_PROGRAM_DATE": 1,
+        "FISCAL_PERIOD": 2,
+        "INCREASED_BY": 19,
+        "DECREASED_BY": 10,
+        "HAS_DATE": 4,
+        "DATE": 3,
+        "FAIR_VALUE_OF_NOTES": 2,
+        "SHARES_REPURCHASED": 4,
+        "AMOUNT_SPENT_ON_SHARE_REPURCHASE": 1,
+        "SHARE_REPURCHASE_YEAR": 1,
+        "COMMON_STOCK_OUTSTANDING_BEGINNING_BALANCES": 3,
+        "COMMON_STOCK_ISSUED": 3,
+        "COMMON_STOCK_OUTSTANDING_ENDING_BALANCES": 3,
+        "FAIR_VALUE": 1,
+        "SHARES_WITHHELD": 3,
+        "PAYMENTS_TO_TAXING_AUTHORITIES": 2,
+        "UNRECOGNIZED_COMPENSATION_COST": 1,
+        "HAS_SERVED_AS_AUDITOR_SINCE": 1,
+        "REPORTS_TO": 1,
+        "TRUSTEE_OF": 1,
+        "AS_OF": 1,
+        "ISSUED_ON": 1,
+        "MATURITY_DATE": 1,
+        "INTEREST_RATE": 1,
+        "OPTIONAL_REDEMPTION": 7,
+        "TSR_PERCENTILE": 1,
+        "PERIOD": 1,
+        "HAS_PRODUCT": 2,
+        "VESTING_DATE": 1,
+        "MERGED": 1,
+        "IMPOSES_REQUIREMENTS": 1,
+        "TRADING_WINDOW": 4,
+        "DETERMINED": 1,
+        "DIRECTED": 1,
+        "RECOVER": 1
+      },
+      "top_entities": [
+        {
+          "text": "Apple Inc",
+          "type": "COMPANY",
+          "importance": 10
+        },
+        {
+          "text": "Company",
+          "type": "COMPANY",
+          "importance": 6.646341463414634
+        },
+        {
+          "text": "The Company",
+          "type": "COMPANY",
+          "importance": 2.804878048780488
+        },
+        {
+          "text": "Officer’s Certificate of the Registrant",
+          "type": "PRODUCT",
+          "importance": 1.5853658536585367
+        },
+        {
+          "text": "Apple",
+          "type": "COMPANY",
+          "importance": 1.1585365853658538
+        },
+        {
+          "text": "Asia",
+          "type": "LOCATION",
+          "importance": 1.0
+        },
+        {
+          "text": "component and product manufacturing and logistical services",
+          "type": "PRODUCT",
+          "importance": 1.0
+        },
+        {
+          "text": "artificial intelligence features",
+          "type": "PRODUCT",
+          "importance": 1.0
+        },
+        {
+          "text": "third-party software applications and services",
+          "type": "PRODUCT",
+          "importance": 1.0
+        },
+        {
+          "text": "Android",
+          "type": "PRODUCT",
+          "importance": 1.0
+        }
+      ]
+    }
+  },
+  "created_at": "2025-12-05T14:17:15.275933",
+  "entities": [
+    {
+      "text": "Apple Inc",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 10
+    },
+    {
+      "text": "Company",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 6.646341463414634
+    },
+    {
+      "text": "The Company",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 2.804878048780488
+    },
+    {
+      "text": "Officer’s Certificate of the Registrant",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.5853658536585367
+    },
+    {
+      "text": "Apple",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 1.1585365853658538
+    },
+    {
+      "text": "Asia",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "component and product manufacturing and logistical services",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "artificial intelligence features",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "third-party software applications and services",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Android",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Windows",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "PlayStation",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Nintendo",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Xbox",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "smartphone",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "personal computer",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "tablet",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "App Store",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "technology industry",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "carriers",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "wholesalers",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "retailers",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "resellers",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "cellular network carriers",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "third-party products",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Legal and Regulatory Compliance Risks",
+      "type": "EVENT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "agreements or other arrangements to settle litigation and resolve such challenges",
+      "type": "EVENT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "injury to the Company’s reputation",
+      "type": "EVENT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "foreign currency derivative instruments",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "March 25, 2024",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "June 24, 2024",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "March 21, 2024",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "U.S. District Court for the District of New Jersey",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "$16,741",
+      "type": "NUMBER",
+      "context": "revenue",
+      "importance": 1.0
+    },
+    {
+      "text": "$19,300",
+      "type": "NUMBER",
+      "context": "revenue",
+      "importance": 1.0
+    },
+    {
+      "text": "14.7%",
+      "type": "NUMBER",
+      "context": "effective tax rate",
+      "importance": 1.0
+    },
+    {
+      "text": "16.2%",
+      "type": "NUMBER",
+      "context": "effective tax rate",
+      "importance": 1.0
+    },
+    {
+      "text": "May 2024",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "FASB",
+      "type": "ORGANIZATION",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "173,752",
+      "type": "NUMBER",
+      "context": "total marketable securities as of September 28, 2024",
+      "importance": 1.0
+    },
+    {
+      "text": "162,099",
+      "type": "NUMBER",
+      "context": "total marketable securities as of September 28, 2024, excluding restricted securities",
+      "importance": 1.0
+    },
+    {
+      "text": "29,965",
+      "type": "NUMBER",
+      "context": "total marketable securities as of September 28, 2024, including restricted securities",
+      "importance": 1.0
+    },
+    {
+      "text": "31,590",
+      "type": "NUMBER",
+      "context": "total marketable securities as of September 28, 2024, including restricted securities",
+      "importance": 1.0
+    },
+    {
+      "text": "100,544",
+      "type": "NUMBER",
+      "context": "total marketable securities as of September 28, 2024, excluding restricted securities",
+      "importance": 1.0
+    },
+    {
+      "text": "$8.2 billion",
+      "type": "NUMBER",
+      "context": "depreciation expense",
+      "importance": 1.0
+    },
+    {
+      "text": "$8.5 billion",
+      "type": "NUMBER",
+      "context": "depreciation expense",
+      "importance": 1.0
+    },
+    {
+      "text": "$8.7 billion",
+      "type": "NUMBER",
+      "context": "depreciation expense",
+      "importance": 1.0
+    },
+    {
+      "text": "Other Non-Current Assets",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Deferred tax assets",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Total other non-current assets",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Other Current Liabilities",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Income taxes payable",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Total other current liabilities",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Other Non-Current Liabilities",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Total other non-current liabilities",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Deferred tax assets",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Deferred tax liabilities",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Capitalized research and development",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Tax credit carryforwards",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Accrued liabilities and other reserves",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Deferred revenue",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Lease liabilities",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Unrealized losses",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Other",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Total deferred tax assets",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Valuation allowance",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Total deferred tax assets, net",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Depreciation",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Right-of-use assets",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Minimum tax on foreign earnings",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Unrealized gains",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Total deferred tax liabilities",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Net deferred tax assets",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Uncertain Tax Positions",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "2022 Employee Stock Plan",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "2014 Employee Stock Plan",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "March 4, 2022",
+      "type": "DATE",
+      "context": "approval date of the 2022 Employee Stock Plan",
+      "importance": 1.0
+    },
+    {
+      "text": "September 25, 2021",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "$15.9 billion",
+      "type": "NUMBER",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "$18.2 billion",
+      "type": "NUMBER",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "2.4 years",
+      "type": "NUMBER",
+      "context": "period",
+      "importance": 1.0
+    },
+    {
+      "text": "management",
+      "type": "PERSON",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "San Jose",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "November 1, 2024",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Senior Vice President, Retail",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Chief Operating Officer",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Rule 10b5-1(c)",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Exchange Act",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "August 27, 2024",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "August 29, 2024",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "December 31, 2026",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "December 15, 2025",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "2025 annual meeting of shareholders",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "8/7/20",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "8/23/24",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "4/29/13",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "5/3/13",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "5/6/14",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "November 10, 2014",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Common Stock",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "November 15, 2019",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "November 15, 2025",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "May 24, 2017",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "May 24, 2025",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "0.000%",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "0.875%",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "November 15, 2031",
+      "type": "DATE",
+      "context": "maturity date",
+      "importance": 1.0
+    },
+    {
+      "text": "0.500%",
+      "type": "METRIC",
+      "context": "interest rate",
+      "importance": 1.0
+    },
+    {
+      "text": "£500,000,000",
+      "type": "NUMBER",
+      "context": "aggregate principal amount",
+      "importance": 1.0
+    },
+    {
+      "text": "July 31, 2042",
+      "type": "DATE",
+      "context": "maturity date",
+      "importance": 1.0
+    },
+    {
+      "text": "3.600%",
+      "type": "METRIC",
+      "context": "interest rate",
+      "importance": 1.0
+    },
+    {
+      "text": "Bankruptcy Law",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Custodian",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Indentures",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Shares",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Plan",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Tax-Related Items",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "national securities exchange",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Beginning Price",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Ending Price",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "dividends and other distributions",
+      "type": "METRIC",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Subsidiary",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Retirement",
+      "type": "EVENT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Termination of Service",
+      "type": "EVENT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Disability",
+      "type": "EVENT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Death",
+      "type": "EVENT",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Award Date",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Severance Date",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "October 2, 2023",
+      "type": "DATE",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "Nasdaq Stock Market",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 1.0
+    },
+    {
+      "text": "September 28, 2024",
+      "type": "DATE",
+      "context": "",
+      "importance": 0.853658536585366
+    },
+    {
+      "text": "2024",
+      "type": "DATE",
+      "context": "announced share repurchase program date",
+      "importance": 0.6707317073170732
+    },
+    {
+      "text": "RSUs",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.6707317073170732
+    },
+    {
+      "text": "3.050% 2029 Notes",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.6707317073170732
+    },
+    {
+      "text": "Japan",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.4878048780487805
+    },
+    {
+      "text": "Americas",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.426829268292683
+    },
+    {
+      "text": "Europe",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.426829268292683
+    },
+    {
+      "text": "Greater China",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.426829268292683
+    },
+    {
+      "text": "Rest of Asia Pacific",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.426829268292683
+    },
+    {
+      "text": "September 30, 2023",
+      "type": "DATE",
+      "context": "",
+      "importance": 0.426829268292683
+    },
+    {
+      "text": "iPhone",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.426829268292683
+    },
+    {
+      "text": "Services",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.36585365853658536
+    },
+    {
+      "text": "Mac",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.36585365853658536
+    },
+    {
+      "text": "iPad",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.36585365853658536
+    },
+    {
+      "text": "The Bank of New York Mellon Trust Company, N.A.",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.36585365853658536
+    },
+    {
+      "text": "2042 Notes",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.36585365853658536
+    },
+    {
+      "text": "Participant",
+      "type": "PERSON",
+      "context": "",
+      "importance": 0.36585365853658536
+    },
+    {
+      "text": "Committee",
+      "type": "PERSON",
+      "context": "",
+      "importance": 0.36585365853658536
+    },
+    {
+      "text": "Committee",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.36585365853658536
+    },
+    {
+      "text": "Tim Cook",
+      "type": "PERSON",
+      "context": "",
+      "importance": 0.3048780487804878
+    },
+    {
+      "text": "Ireland",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.24390243902439024
+    },
+    {
+      "text": "0.875% 2025 Notes",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.24390243902439024
+    },
+    {
+      "text": "German government bond",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.24390243902439024
+    },
+    {
+      "text": "$95.3 billion",
+      "type": "NUMBER",
+      "context": "revenue",
+      "importance": 0.18292682926829268
+    },
+    {
+      "text": "California",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.18292682926829268
+    },
+    {
+      "text": "Commission",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.18292682926829268
+    },
+    {
+      "text": "$97.3 billion",
+      "type": "NUMBER",
+      "context": "outstanding fixed-rate notes",
+      "importance": 0.18292682926829268
+    },
+    {
+      "text": "$10.0 billion",
+      "type": "NUMBER",
+      "context": "commercial paper outstanding",
+      "importance": 0.18292682926829268
+    },
+    {
+      "text": "1.375% 2029 Notes",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.18292682926829268
+    },
+    {
+      "text": "2031 Notes",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.18292682926829268
+    },
+    {
+      "text": "Comparison Group member",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.18292682926829268
+    },
+    {
+      "text": "South Korea",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "outsourcing partners",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "customers",
+      "type": "PERSON",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "hardware products",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "customers",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "third parties",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "gross margins",
+      "type": "METRIC",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "investment portfolio",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "$2.0 billion",
+      "type": "NUMBER",
+      "context": "payable within 12 months for fixed lease payment obligations",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "Timothy D. Cook",
+      "type": "PERSON",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "93,736",
+      "type": "NUMBER",
+      "context": "net income",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "96,995",
+      "type": "NUMBER",
+      "context": "net income",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "99,803",
+      "type": "NUMBER",
+      "context": "net income",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "25%",
+      "type": "NUMBER",
+      "context": "deferred revenue realization",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "15,550,061",
+      "type": "NUMBER",
+      "context": "common stock outstanding, beginning balances",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "15,943,425",
+      "type": "NUMBER",
+      "context": "common stock outstanding, beginning balances",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "Ernst & Young LLP",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "Deirdre O'Brien",
+      "type": "PERSON",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "Registrant",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "U.S. dollars",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "2026 Notes",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "2027 Notes",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "United Kingdom government bond",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "Dividend Equivalent Rights",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "TSR Percentile",
+      "type": "METRIC",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "Performance Period",
+      "type": "DATE",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "Vesting Date",
+      "type": "DATE",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "People and Compensation Committee",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "Covered Executive",
+      "type": "PERSON",
+      "context": "",
+      "importance": 0.12195121951219512
+    },
+    {
+      "text": "AppleCare",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Cloud Services",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Digital Content",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Arcade",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Fitness+",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Music",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple News+",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple TV+",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Card",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Pay",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "164,000 full-time equivalent employees",
+      "type": "NUMBER",
+      "context": "employees",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "China mainland",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "India",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Taiwan",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Vietnam",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "U.S.",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Global markets",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Global smartphone, personal computer and tablet markets",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "patents, trademarks and copyrights",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "R&D",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Sophisticated operating system software",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "health",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "third-party software developers",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Chief Executive Officer",
+      "type": "PERSON",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "executive team",
+      "type": "PERSON",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Silicon Valley",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "malicious attacks",
+      "type": "EVENT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "unauthorized access",
+      "type": "EVENT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "confidential information",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "stock price",
+      "type": "METRIC",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "commercial relationships",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "litigation",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "government investigations",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "geopolitical tensions",
+      "type": "EVENT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "personal information",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "information technology systems",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "sensitive data",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "encryption",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "authentication technologies",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "multifactor authentication",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "employees",
+      "type": "PERSON",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "unfavorable results of legal proceedings or government investigations",
+      "type": "EVENT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "various claims, legal proceedings and government investigations",
+      "type": "EVENT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "patent claims relating to its cellular-enabled products",
+      "type": "EVENT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "technology and other patent-holding companies",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "vigorously defending infringement actions",
+      "type": "EVENT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "expensive, time-consuming and disruptive to the Company’s operations",
+      "type": "EVENT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "U.S. dollar",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "local currencies",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "non–U.S. dollar–denominated sales",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "foreign currency–denominated sales",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "credit risk",
+      "type": "METRIC",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "U.S. Internal Revenue Service",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Board",
+      "type": "PERSON",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Cupertino",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Digital Markets Act Investigations",
+      "type": "EVENT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Article 5(4) of the DMA",
+      "type": "EVENT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Article 6(3) of the DMA",
+      "type": "EVENT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "U.S. Department of Justice",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "AAPL",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "23,301",
+      "type": "NUMBER",
+      "context": "shareholders of record",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "October 18, 2024",
+      "type": "DATE",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "35,697",
+      "type": "NUMBER",
+      "context": "shares purchased",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "224.11",
+      "type": "NUMBER",
+      "context": "average price per share",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "89,074",
+      "type": "NUMBER",
+      "context": "total dollar value of shares purchased",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "110 billion",
+      "type": "NUMBER",
+      "context": "authorized share repurchase program",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "20.9 billion",
+      "type": "NUMBER",
+      "context": "utilized share repurchase program",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "4.1 billion",
+      "type": "NUMBER",
+      "context": "utilized previous repurchase program",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "MacBook Pro 14-in.",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "MacBook Pro 16-in.",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "iMac",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "MacBook Air 13-in.",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "MacBook Air 15-in.",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "iPad Air",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "iPad Pro",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "iOS 18",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "macOS Sequoia",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "iPadOS 18",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "watchOS 11",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "vision OS 2",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "tvOS 18",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Intelligence™",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "iPhone 16",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "iPhone 16 Plus",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "iPhone 16 Pro",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "iPhone 16 Pro Max",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Watch Series 10",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "AirPods 4",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Wearables, Home and Accessories",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$29,749",
+      "type": "NUMBER",
+      "context": "revenue",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "24.1%",
+      "type": "NUMBER",
+      "context": "effective tax rate",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "21%",
+      "type": "NUMBER",
+      "context": "statutory federal income tax rate",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$10.2 billion",
+      "type": "NUMBER",
+      "context": "one-time income tax charge",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$140.8 billion",
+      "type": "NUMBER",
+      "context": "unrestricted cash, cash equivalents and marketable securities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$10.9 billion",
+      "type": "NUMBER",
+      "context": "payable within 12 months for outstanding fixed-rate notes",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$38.5 billion",
+      "type": "NUMBER",
+      "context": "future interest payments for outstanding fixed-rate notes",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$2.6 billion",
+      "type": "NUMBER",
+      "context": "payable within 12 months for future interest payments",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$15.6 billion",
+      "type": "NUMBER",
+      "context": "fixed lease payment obligations",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "€14.2 billion",
+      "type": "NUMBER",
+      "context": "tax payable",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$15.8 billion",
+      "type": "NUMBER",
+      "context": "tax payable",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Capital Return Program",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "share repurchase program",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "quarterly cash dividend",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "ASU 2023-09",
+      "type": "EVENT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "ASU 2023-07",
+      "type": "EVENT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "U.S. interest rates",
+      "type": "METRIC",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "100 basis points",
+      "type": "NUMBER",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "term debt",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "September 24, 2022",
+      "type": "DATE",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$93,736 million",
+      "type": "NUMBER",
+      "context": "net income",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$96,995 million",
+      "type": "NUMBER",
+      "context": "net income",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$99,803 million",
+      "type": "NUMBER",
+      "context": "net income",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$4,280 million",
+      "type": "NUMBER",
+      "context": "total other comprehensive income/(loss)",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$98,016 million",
+      "type": "NUMBER",
+      "context": "total comprehensive income",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$364,980 million",
+      "type": "NUMBER",
+      "context": "total assets",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$352,583 million",
+      "type": "NUMBER",
+      "context": "total assets",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$308,030 million",
+      "type": "NUMBER",
+      "context": "total liabilities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$29,943 million",
+      "type": "NUMBER",
+      "context": "cash and cash equivalents",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$35,228 million",
+      "type": "NUMBER",
+      "context": "marketable securities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$33,410 million",
+      "type": "NUMBER",
+      "context": "accounts receivable, net",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$32,833 million",
+      "type": "NUMBER",
+      "context": "vendor non-trade receivables",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$7,286 million",
+      "type": "NUMBER",
+      "context": "inventories",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$14,287 million",
+      "type": "NUMBER",
+      "context": "other current assets",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$91,479 million",
+      "type": "NUMBER",
+      "context": "marketable securities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$45,680 million",
+      "type": "NUMBER",
+      "context": "property, plant and equipment, net",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$74,834 million",
+      "type": "NUMBER",
+      "context": "other non-current assets",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$68,960 million",
+      "type": "NUMBER",
+      "context": "accounts payable",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$78,304 million",
+      "type": "NUMBER",
+      "context": "other current liabilities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$8,249 million",
+      "type": "NUMBER",
+      "context": "deferred revenue",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$9,967 million",
+      "type": "NUMBER",
+      "context": "commercial paper",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$10,912 million",
+      "type": "NUMBER",
+      "context": "term debt",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$85,750 million",
+      "type": "NUMBER",
+      "context": "term debt",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$45,888 million",
+      "type": "NUMBER",
+      "context": "other non-current liabilities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "118,254",
+      "type": "NUMBER",
+      "context": "cash generated by operating activities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "2,935",
+      "type": "NUMBER",
+      "context": "cash generated by/(used in) investing activities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "121,983",
+      "type": "NUMBER",
+      "context": "cash used in financing activities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "30,737",
+      "type": "NUMBER",
+      "context": "cash, cash equivalents, and restricted cash and cash equivalents, beginning balances",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "29,943",
+      "type": "NUMBER",
+      "context": "cash, cash equivalents, and restricted cash and cash equivalents, ending balances",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$12.8 billion",
+      "type": "NUMBER",
+      "context": "deferred revenue",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$12.1 billion",
+      "type": "NUMBER",
+      "context": "deferred revenue",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "15,343,783",
+      "type": "NUMBER",
+      "context": "shares",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "15,744,231",
+      "type": "NUMBER",
+      "context": "shares",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "16,215,963",
+      "type": "NUMBER",
+      "context": "shares",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "15,408,095",
+      "type": "NUMBER",
+      "context": "diluted shares",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "15,812,547",
+      "type": "NUMBER",
+      "context": "diluted shares",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "16,325,819",
+      "type": "NUMBER",
+      "context": "diluted shares",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "64%",
+      "type": "NUMBER",
+      "context": "deferred revenue realization",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "9%",
+      "type": "NUMBER",
+      "context": "deferred revenue realization",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "2%",
+      "type": "NUMBER",
+      "context": "deferred revenue realization",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "24 million",
+      "type": "NUMBER",
+      "context": "restricted stock units",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "2.6 billion",
+      "type": "NUMBER",
+      "context": "cash and cash equivalents held in escrow",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "13.2 billion",
+      "type": "NUMBER",
+      "context": "marketable securities held in escrow as of September 28, 2024",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "13.8 billion",
+      "type": "NUMBER",
+      "context": "marketable securities held in escrow as of September 30, 2023",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Land and buildings",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Machinery, equipment and internal-use software",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Leasehold improvements",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Depreciation expense on property, plant and equipment",
+      "type": "METRIC",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "European Commission",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "State Aid Decision",
+      "type": "EVENT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "€13.1 billion",
+      "type": "NUMBER",
+      "context": "recovery amount",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "€1.2 billion",
+      "type": "NUMBER",
+      "context": "interest",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "€12.7 billion",
+      "type": "NUMBER",
+      "context": "adjusted recovery amount",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "foreign tax credit carryforwards",
+      "type": "METRIC",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "California R&D credit carryforwards",
+      "type": "METRIC",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "gross unrecognized tax benefits",
+      "type": "METRIC",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$13.8 billion",
+      "type": "NUMBER",
+      "context": "lease costs",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$1.9 billion",
+      "type": "NUMBER",
+      "context": "fixed cash payments",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$1.0 billion",
+      "type": "NUMBER",
+      "context": "noncash activities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "September 28, 2024",
+      "type": "DATE",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "September 30, 2023",
+      "type": "DATE",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$10,234 million",
+      "type": "NUMBER",
+      "context": "right-of-use assets",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$10,661 million",
+      "type": "NUMBER",
+      "context": "right-of-use assets",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$1,069 million",
+      "type": "NUMBER",
+      "context": "right-of-use assets",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$1,015 million",
+      "type": "NUMBER",
+      "context": "right-of-use assets",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$11,303 million",
+      "type": "NUMBER",
+      "context": "total right-of-use assets",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$11,676 million",
+      "type": "NUMBER",
+      "context": "total right-of-use assets",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$1,488 million",
+      "type": "NUMBER",
+      "context": "lease liabilities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$1,410 million",
+      "type": "NUMBER",
+      "context": "lease liabilities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$10,046 million",
+      "type": "NUMBER",
+      "context": "lease liabilities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$10,408 million",
+      "type": "NUMBER",
+      "context": "lease liabilities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$12,430 million",
+      "type": "NUMBER",
+      "context": "total lease liabilities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$12,842 million",
+      "type": "NUMBER",
+      "context": "total lease liabilities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "1,820 million",
+      "type": "NUMBER",
+      "context": "lease liability maturities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "1,914 million",
+      "type": "NUMBER",
+      "context": "lease liability maturities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "1,674 million",
+      "type": "NUMBER",
+      "context": "lease liability maturities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "1,360 million",
+      "type": "NUMBER",
+      "context": "lease liability maturities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "1,187 million",
+      "type": "NUMBER",
+      "context": "lease liability maturities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "5,563 million",
+      "type": "NUMBER",
+      "context": "lease liability maturities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "13,518 million",
+      "type": "NUMBER",
+      "context": "total undiscounted liabilities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "(1,984) million",
+      "type": "NUMBER",
+      "context": "imputed interest",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "11,534 million",
+      "type": "NUMBER",
+      "context": "total lease liabilities",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "10.3 years",
+      "type": "NUMBER",
+      "context": "weighted-average remaining lease term",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "10.6 years",
+      "type": "NUMBER",
+      "context": "weighted-average remaining lease term",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$6.0 billion",
+      "type": "NUMBER",
+      "context": "commercial paper outstanding",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "9.0 months",
+      "type": "NUMBER",
+      "context": "maturity period",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "5.00%",
+      "type": "NUMBER",
+      "context": "weighted-average interest rate",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "5.28%",
+      "type": "NUMBER",
+      "context": "weighted-average interest rate",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$88.4 billion",
+      "type": "NUMBER",
+      "context": "fair value of the Company’s Notes",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$90.8 billion",
+      "type": "NUMBER",
+      "context": "fair value of the Company’s Notes",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "499 million",
+      "type": "NUMBER",
+      "context": "shares of common stock repurchased",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$95.0 billion",
+      "type": "NUMBER",
+      "context": "amount spent on share repurchase",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "16,426,786",
+      "type": "NUMBER",
+      "context": "common stock outstanding, beginning balances",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "499,372",
+      "type": "NUMBER",
+      "context": "common stock repurchased",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "471,419",
+      "type": "NUMBER",
+      "context": "common stock repurchased",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "568,589",
+      "type": "NUMBER",
+      "context": "common stock repurchased",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "66,097",
+      "type": "NUMBER",
+      "context": "common stock issued, net of shares withheld for employee taxes",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "78,055",
+      "type": "NUMBER",
+      "context": "common stock issued, net of shares withheld for employee taxes",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "85,228",
+      "type": "NUMBER",
+      "context": "common stock issued, net of shares withheld for employee taxes",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "15,116,786",
+      "type": "NUMBER",
+      "context": "common stock outstanding, ending balances",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "31 million",
+      "type": "NUMBER",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "37 million",
+      "type": "NUMBER",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "41 million",
+      "type": "NUMBER",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$5.6 billion",
+      "type": "NUMBER",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$6.4 billion",
+      "type": "NUMBER",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "$19.4 billion",
+      "type": "NUMBER",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "China",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "principal executive officer",
+      "type": "PERSON",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "principal financial officer",
+      "type": "PERSON",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Jeff Williams",
+      "type": "PERSON",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Exhibit 19.1",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Form 10-K",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "SEC",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "2025 Proxy Statement",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Floating Rate Notes due 2019",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "1.300% Notes due 2018",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "1.700% Notes due 2019",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "2.250% Notes due 2021",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "2.850% Notes due 2023",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "3.250% Notes due 2026",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "4.500% Notes due 2036",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "4.650% Notes due 2046",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Supplement No. 1 to the Officer’s Certificate of the Registrant",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Floating Rate Notes due 2020",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Floating Rate Notes due 2022",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "1.550% Notes due 2019",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "1.900% Notes due 2020",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "2.500% Notes due 2022",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "3.000% Notes due 2024",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "3.350% Notes due 2027",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "4.250% Notes due 2047",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "0.875% Notes due 2025",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "1.375% Notes due 2029",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "3.000% Notes due 2027",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "1.500% Notes due 2019",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "2.100% Notes due 2022",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "2.900% Notes due 2027",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "3.750% Notes due 2047",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "1.800% Notes due 2019",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "2.000% Notes due 2020",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "2.400% Notes due 2023",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "2.750% Notes due 2025",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Indenture",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Luca Maestri",
+      "type": "PERSON",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Board of Directors",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "€1,000,000,000",
+      "type": "NUMBER",
+      "context": "aggregate principal amount",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "€1,250,000,000",
+      "type": "NUMBER",
+      "context": "aggregate principal amount",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "0.000% 2025 Notes",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "£750,000,000",
+      "type": "NUMBER",
+      "context": "aggregate principal amount",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "July 31, 2015",
+      "type": "DATE",
+      "context": "issue date",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "July 31, 2029",
+      "type": "DATE",
+      "context": "maturity date",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "3.050%",
+      "type": "METRIC",
+      "context": "interest rate",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "pound sterling",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "euro",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "The City of New York",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "London",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "The Wall Street Journal",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "2025 Notes",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "33%",
+      "type": "NUMBER",
+      "context": "percentage",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "2013 Indenture",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "2018 Indenture",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "The Bank of New York Mellon Trust Company, N.A. and its affiliates",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Euroclear",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Clearstream",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "new parent company",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "surviving, resulting or successor entity",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "TSR",
+      "type": "METRIC",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Imposition of Other Requirements",
+      "type": "EVENT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Comparison Group",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Standard & Poor’s 500 Index",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "first-quarter results",
+      "type": "METRIC",
+      "context": "public disclosure",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "early February",
+      "type": "DATE",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "second-quarter results",
+      "type": "METRIC",
+      "context": "public disclosure",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "early May",
+      "type": "DATE",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "third-quarter results",
+      "type": "METRIC",
+      "context": "public disclosure",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "early August",
+      "type": "DATE",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "year-end results",
+      "type": "METRIC",
+      "context": "public disclosure",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "early November",
+      "type": "DATE",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "special restricted trading period",
+      "type": "EVENT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "extended restricted trading period",
+      "type": "EVENT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple’s General Counsel",
+      "type": "PERSON",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Designated Individuals",
+      "type": "PERSON",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Asia Limited",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Asia LLC",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Canada Inc.",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Computer Trading (Shanghai) Co., Ltd.",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Distribution International Limited",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple India Private Limited",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Insurance Company, Inc.",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Japan, Inc.",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Korea Limited",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Operations International Limited",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Operations Limited",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Operations Mexico, S.A. de C.V.",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Pty Limited",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Sales International Limited",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple South Asia (Thailand) Limited",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Apple Vietnam Limited Liability Company",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Braeburn Capital, Inc.",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "iTunes K.K.",
+      "type": "COMPANY",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Nevada, U.S.",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Hong Kong",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Delaware, U.S.",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Canada",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Australia",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Mexico",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Thailand",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "San Jose, California",
+      "type": "LOCATION",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Incentive-Based Compensation",
+      "type": "PRODUCT",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Covered Executives",
+      "type": "PERSON",
+      "context": "",
+      "importance": 0.06097560975609756
+    },
+    {
+      "text": "Accounting Restatement",
+      "type": "EVENT",
+      "context": "",
+      "importance": 0.06097560975609756
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tim Cook",
+      "target": "Apple Inc",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$95.3 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "AppleCare",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Cloud Services",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Digital Content",
+      "relation": "OPERATES",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Arcade",
+      "relation": "OFFERS",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Fitness+",
+      "relation": "OFFERS",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Music",
+      "relation": "OFFERS",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple News+",
+      "relation": "OFFERS",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple TV+",
+      "relation": "OFFERS",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Card",
+      "relation": "OFFERS",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Pay",
+      "relation": "OFFERS",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Americas",
+      "relation": "MANAGES",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Europe",
+      "relation": "MANAGES",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Greater China",
+      "relation": "MANAGES",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Japan",
+      "relation": "MANAGES",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Rest of Asia Pacific",
+      "relation": "MANAGES",
+      "context": ""
+    },
+    {
+      "source": "Tim Cook",
+      "target": "The Company",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "$95.3 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "164,000 full-time equivalent employees",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "September 28, 2024",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "China mainland",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "India",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "Japan",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "South Korea",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "Taiwan",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "Vietnam",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "U.S.",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Tim Cook",
+      "target": "Company",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Global markets",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Global smartphone, personal computer and tablet markets",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "patents, trademarks and copyrights",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "R&D",
+      "relation": "INVESTED_IN",
+      "context": ""
+    },
+    {
+      "source": "outsourcing partners",
+      "target": "outsourcing partners",
+      "relation": "LOCATED_IN",
+      "context": "China mainland, India, Japan, South Korea, Taiwan, Vietnam"
+    },
+    {
+      "source": "Company",
+      "target": "Sophisticated operating system software",
+      "relation": "OFFERS",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "health",
+      "relation": "INTRODUCED_IN",
+      "context": ""
+    },
+    {
+      "source": "third-party software developers",
+      "target": "hardware products",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "customers",
+      "target": "hardware products",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Chief Executive Officer",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "executive team",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Silicon Valley",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "malicious attacks",
+      "relation": "EXPERIENCES",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "unauthorized access",
+      "relation": "EXPERIENCES",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "confidential information",
+      "relation": "IMPACTS",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "customers",
+      "relation": "IMPACTS",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "stock price",
+      "relation": "IMPACTS",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "commercial relationships",
+      "relation": "IMPACTS",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "litigation",
+      "relation": "IMPACTS",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "government investigations",
+      "relation": "IMPACTS",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "geopolitical tensions",
+      "relation": "IMPACTS",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "personal information",
+      "relation": "IMPACTS",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "information technology systems",
+      "relation": "SECURES",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "sensitive data",
+      "relation": "SECURES",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "encryption",
+      "relation": "USES",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "authentication technologies",
+      "relation": "USES",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "multifactor authentication",
+      "relation": "DEPLOYED",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "third parties",
+      "relation": "INDUCES",
+      "context": ""
+    },
+    {
+      "source": "third parties",
+      "target": "employees",
+      "relation": "INDUCES",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "unfavorable results of legal proceedings or government investigations",
+      "relation": "ANNOUNCED",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "various claims, legal proceedings and government investigations",
+      "relation": "IS_SUBJECT_TO",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "patent claims relating to its cellular-enabled products",
+      "relation": "FACED",
+      "context": ""
+    },
+    {
+      "source": "technology and other patent-holding companies",
+      "target": "vigorously defending infringement actions",
+      "relation": "DEFENDED",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "expensive, time-consuming and disruptive to the Company’s operations",
+      "relation": "HAS_EVENT",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "$95.3 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "U.S. dollar",
+      "target": "local currencies",
+      "relation": "RELATIVE_TO",
+      "context": ""
+    },
+    {
+      "source": "non–U.S. dollar–denominated sales",
+      "target": "gross margins",
+      "relation": "AFFECTS",
+      "context": ""
+    },
+    {
+      "source": "foreign currency–denominated sales",
+      "target": "gross margins",
+      "relation": "AFFECTS",
+      "context": ""
+    },
+    {
+      "source": "credit risk",
+      "target": "investment portfolio",
+      "relation": "EXPOSED_TO",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "U.S. Internal Revenue Service",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Board",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "Cupertino",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "California",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Commission",
+      "target": "The Company",
+      "relation": "ACQUIRED",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "Digital Markets Act Investigations",
+      "relation": "ANNOUNCED",
+      "context": ""
+    },
+    {
+      "source": "Commission",
+      "target": "Article 5(4) of the DMA",
+      "relation": "ANNOUNCED",
+      "context": ""
+    },
+    {
+      "source": "Commission",
+      "target": "Article 6(3) of the DMA",
+      "relation": "ANNOUNCED",
+      "context": ""
+    },
+    {
+      "source": "U.S. Department of Justice",
+      "target": "The Company",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "AAPL",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "23,301",
+      "relation": "HAS_SHAREHOLDERS",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "October 18, 2024",
+      "relation": "HAS_SHAREHOLDERS_DATE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "35,697",
+      "relation": "Purchased_SHARES",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "224.11",
+      "relation": "AVERAGE_PRICE_PER_SHARE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "89,074",
+      "relation": "TOTAL_DOLLAR_VALUE_OF_SHARES_PURCHASED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "110 billion",
+      "relation": "AUTHORIZED_SHARE_REPURCHASE_PROGRAM",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "20.9 billion",
+      "relation": "UTILIZED_SHARE_REPURCHASE_PROGRAM",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "4.1 billion",
+      "relation": "UTILIZED_PREVIOUS_REPURCHASE_PROGRAM",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "2024",
+      "relation": "ANNOUNCED_SHARE_REPURCHASE_PROGRAM_DATE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "MacBook Pro 14-in.",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "MacBook Pro 16-in.",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "iMac",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "MacBook Air 13-in.",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "MacBook Air 15-in.",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "iPad Air",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "iPad Pro",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "iOS 18",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "macOS Sequoia",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "iPadOS 18",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "watchOS 11",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "vision OS 2",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "tvOS 18",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Intelligence™",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "iPhone 16",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "iPhone 16 Plus",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "iPhone 16 Pro",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "iPhone 16 Pro Max",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Watch Series 10",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "AirPods 4",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "2024",
+      "relation": "FISCAL_PERIOD",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "September 30, 2023",
+      "relation": "FISCAL_PERIOD",
+      "context": ""
+    },
+    {
+      "source": "Americas",
+      "target": "Apple Inc",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Europe",
+      "target": "Apple Inc",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Greater China",
+      "target": "Apple Inc",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Japan",
+      "target": "Apple Inc",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Rest of Asia Pacific",
+      "target": "Apple Inc",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Americas",
+      "relation": "HAS_REVENUE",
+      "context": "167,045"
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Europe",
+      "relation": "HAS_REVENUE",
+      "context": "101,328"
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Greater China",
+      "relation": "HAS_REVENUE",
+      "context": "66,952"
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Japan",
+      "relation": "HAS_REVENUE",
+      "context": "25,052"
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Rest of Asia Pacific",
+      "relation": "HAS_REVENUE",
+      "context": "30,658"
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Services",
+      "relation": "HAS_REVENUE",
+      "context": "96,169"
+    },
+    {
+      "source": "Apple Inc",
+      "target": "iPhone",
+      "relation": "HAS_REVENUE",
+      "context": "201,183"
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Mac",
+      "relation": "HAS_REVENUE",
+      "context": "29,984"
+    },
+    {
+      "source": "Apple Inc",
+      "target": "iPad",
+      "relation": "HAS_REVENUE",
+      "context": "26,694"
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Wearables, Home and Accessories",
+      "relation": "HAS_REVENUE",
+      "context": "37,005"
+    },
+    {
+      "source": "Americas",
+      "target": "Services",
+      "relation": "INCREASED_BY",
+      "context": "3%"
+    },
+    {
+      "source": "Europe",
+      "target": "Services",
+      "relation": "INCREASED_BY",
+      "context": "7%"
+    },
+    {
+      "source": "Greater China",
+      "target": "Services",
+      "relation": "DECREASED_BY",
+      "context": "8%"
+    },
+    {
+      "source": "Japan",
+      "target": "Services",
+      "relation": "INCREASED_BY",
+      "context": "3%"
+    },
+    {
+      "source": "Rest of Asia Pacific",
+      "target": "Services",
+      "relation": "INCREASED_BY",
+      "context": "4%"
+    },
+    {
+      "source": "Americas",
+      "target": "iPhone",
+      "relation": "INCREASED_BY",
+      "context": "3%"
+    },
+    {
+      "source": "Europe",
+      "target": "iPhone",
+      "relation": "INCREASED_BY",
+      "context": "7%"
+    },
+    {
+      "source": "Greater China",
+      "target": "iPhone",
+      "relation": "DECREASED_BY",
+      "context": "8%"
+    },
+    {
+      "source": "Japan",
+      "target": "iPhone",
+      "relation": "INCREASED_BY",
+      "context": "3%"
+    },
+    {
+      "source": "Rest of Asia Pacific",
+      "target": "iPhone",
+      "relation": "INCREASED_BY",
+      "context": "0%"
+    },
+    {
+      "source": "Americas",
+      "target": "Mac",
+      "relation": "INCREASED_BY",
+      "context": "2%"
+    },
+    {
+      "source": "Europe",
+      "target": "Mac",
+      "relation": "INCREASED_BY",
+      "context": "27%"
+    },
+    {
+      "source": "Greater China",
+      "target": "Mac",
+      "relation": "INCREASED_BY",
+      "context": "3%"
+    },
+    {
+      "source": "Japan",
+      "target": "Mac",
+      "relation": "INCREASED_BY",
+      "context": "27%"
+    },
+    {
+      "source": "Rest of Asia Pacific",
+      "target": "Mac",
+      "relation": "INCREASED_BY",
+      "context": "27%"
+    },
+    {
+      "source": "Americas",
+      "target": "iPad",
+      "relation": "DECREASED_BY",
+      "context": "6%"
+    },
+    {
+      "source": "Europe",
+      "target": "iPad",
+      "relation": "INCREASED_BY",
+      "context": "3%"
+    },
+    {
+      "source": "Greater China",
+      "target": "iPad",
+      "relation": "DECREASED_BY",
+      "context": "3%"
+    },
+    {
+      "source": "Japan",
+      "target": "iPad",
+      "relation": "DECREASED_BY",
+      "context": "7%"
+    },
+    {
+      "source": "Rest of Asia Pacific",
+      "target": "iPad",
+      "relation": "DECREASED_BY",
+      "context": "3%"
+    },
+    {
+      "source": "2024",
+      "target": "$29,749",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "2024",
+      "target": "24.1%",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "2024",
+      "target": "21%",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "2024",
+      "target": "$10.2 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "September 28, 2024",
+      "target": "$140.8 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "$97.3 billion",
+      "target": "$10.9 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "$97.3 billion",
+      "target": "$38.5 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "$97.3 billion",
+      "target": "$2.6 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "$10.0 billion",
+      "target": "$10.0 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "$15.6 billion",
+      "target": "$2.0 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Ireland",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "€14.2 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "$15.8 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Capital Return Program",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "share repurchase program",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "quarterly cash dividend",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "ASU 2023-09",
+      "relation": "ANNOUNCED",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "ASU 2023-07",
+      "relation": "ANNOUNCED",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Timothy D. Cook",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "U.S. interest rates",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "100 basis points",
+      "relation": "INCREASED_BY",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "September 28, 2024",
+      "relation": "HAS_DATE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "September 30, 2023",
+      "relation": "HAS_DATE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "investment portfolio",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "term debt",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "September 28, 2024",
+      "relation": "DATE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "September 30, 2023",
+      "relation": "DATE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "September 24, 2022",
+      "relation": "DATE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$93,736 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$96,995 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$99,803 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$4,280 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$98,016 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$364,980 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$352,583 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$308,030 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$29,943 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$35,228 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$33,410 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$32,833 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$7,286 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$14,287 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$91,479 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$45,680 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$74,834 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$68,960 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$78,304 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$8,249 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$9,967 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$10,912 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$85,750 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$45,888 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "93,736",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "96,995",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "99,803",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "118,254",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "2,935",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "121,983",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "30,737",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "29,943",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "iPhone",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "September 28, 2024",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "September 30, 2023",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "$12.8 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "$12.1 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "93,736",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "96,995",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "99,803",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "15,343,783",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "15,744,231",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "16,215,963",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "15,408,095",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "15,812,547",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "16,325,819",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "64%",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "25%",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "9%",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "2%",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "24 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "September 28, 2024",
+      "target": "2.6 billion",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "September 28, 2024",
+      "target": "13.2 billion",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "September 30, 2023",
+      "target": "13.8 billion",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "September 28, 2024",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "September 30, 2023",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Land and buildings",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Machinery, equipment and internal-use software",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Leasehold improvements",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Depreciation expense on property, plant and equipment",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "€13.1 billion",
+      "relation": "INCREASED_BY",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "€1.2 billion",
+      "relation": "INCREASED_BY",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "€12.7 billion",
+      "relation": "INCREASED_BY",
+      "context": ""
+    },
+    {
+      "source": "European Commission",
+      "target": "Ireland",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "State Aid Decision",
+      "relation": "ANNOUNCED",
+      "context": ""
+    },
+    {
+      "source": "September 28, 2024",
+      "target": "foreign tax credit carryforwards",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "September 28, 2024",
+      "target": "California R&D credit carryforwards",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "September 28, 2024",
+      "target": "Ireland",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "September 28, 2024",
+      "target": "California",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "2024",
+      "target": "gross unrecognized tax benefits",
+      "relation": "INCREASED_BY",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "2024",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "$2.0 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "$13.8 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "$1.9 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "$1.0 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "September 28, 2024",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "September 30, 2023",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "$10,234 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "$10,661 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "$1,069 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "$1,015 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "$11,303 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "$11,676 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "$1,488 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "$1,410 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "$10,046 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "$10,408 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "$12,430 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "$12,842 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "1,820 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "1,914 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "1,674 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "1,360 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "1,187 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "5,563 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "13,518 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "(1,984) million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "11,534 million",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "10.3 years",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Company",
+      "target": "10.6 years",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "$10.0 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "$6.0 billion",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "9.0 months",
+      "relation": "DECREASED_BY",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "5.00%",
+      "relation": "DECREASED_BY",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "5.28%",
+      "relation": "DECREASED_BY",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$88.4 billion",
+      "relation": "FAIR_VALUE_OF_NOTES",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$90.8 billion",
+      "relation": "FAIR_VALUE_OF_NOTES",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "499 million",
+      "relation": "SHARES_REPURCHASED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "$95.0 billion",
+      "relation": "AMOUNT_SPENT_ON_SHARE_REPURCHASE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "2024",
+      "relation": "SHARE_REPURCHASE_YEAR",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "15,550,061",
+      "relation": "COMMON_STOCK_OUTSTANDING_BEGINNING_BALANCES",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "15,943,425",
+      "relation": "COMMON_STOCK_OUTSTANDING_BEGINNING_BALANCES",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "16,426,786",
+      "relation": "COMMON_STOCK_OUTSTANDING_BEGINNING_BALANCES",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "499,372",
+      "relation": "SHARES_REPURCHASED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "471,419",
+      "relation": "SHARES_REPURCHASED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "568,589",
+      "relation": "SHARES_REPURCHASED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "66,097",
+      "relation": "COMMON_STOCK_ISSUED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "78,055",
+      "relation": "COMMON_STOCK_ISSUED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "85,228",
+      "relation": "COMMON_STOCK_ISSUED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "15,116,786",
+      "relation": "COMMON_STOCK_OUTSTANDING_ENDING_BALANCES",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "15,550,061",
+      "relation": "COMMON_STOCK_OUTSTANDING_ENDING_BALANCES",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "15,943,425",
+      "relation": "COMMON_STOCK_OUTSTANDING_ENDING_BALANCES",
+      "context": ""
+    },
+    {
+      "source": "RSUs",
+      "target": "2024",
+      "relation": "FAIR_VALUE",
+      "context": ""
+    },
+    {
+      "source": "RSUs",
+      "target": "31 million",
+      "relation": "SHARES_WITHHELD",
+      "context": ""
+    },
+    {
+      "source": "RSUs",
+      "target": "37 million",
+      "relation": "SHARES_WITHHELD",
+      "context": ""
+    },
+    {
+      "source": "RSUs",
+      "target": "41 million",
+      "relation": "SHARES_WITHHELD",
+      "context": ""
+    },
+    {
+      "source": "RSUs",
+      "target": "$5.6 billion",
+      "relation": "PAYMENTS_TO_TAXING_AUTHORITIES",
+      "context": ""
+    },
+    {
+      "source": "RSUs",
+      "target": "$6.4 billion",
+      "relation": "PAYMENTS_TO_TAXING_AUTHORITIES",
+      "context": ""
+    },
+    {
+      "source": "RSUs",
+      "target": "$19.4 billion",
+      "relation": "UNRECOGNIZED_COMPENSATION_COST",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Tim Cook",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "2024",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "September 28, 2024",
+      "relation": "HAS_DATE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "September 30, 2023",
+      "relation": "HAS_DATE",
+      "context": ""
+    },
+    {
+      "source": "Ernst & Young LLP",
+      "target": "Apple Inc",
+      "relation": "HAS_SERVED_AS_AUDITOR_SINCE",
+      "context": ""
+    },
+    {
+      "source": "principal executive officer",
+      "target": "Company",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "principal financial officer",
+      "relation": "HAS_REVENUE",
+      "context": "effective as of September 28, 2024"
+    },
+    {
+      "source": "Deirdre O'Brien",
+      "target": "Company",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Deirdre O'Brien",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Jeff Williams",
+      "target": "Company",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Exhibit 19.1",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Form 10-K",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "SEC",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "2025 Proxy Statement",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Ernst & Young LLP",
+      "target": "Registrant",
+      "relation": "REPORTS_TO",
+      "context": ""
+    },
+    {
+      "source": "The Bank of New York Mellon Trust Company, N.A.",
+      "target": "Registrant",
+      "relation": "TRUSTEE_OF",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "Floating Rate Notes due 2019",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "1.300% Notes due 2018",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "1.700% Notes due 2019",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "2.250% Notes due 2021",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "2.850% Notes due 2023",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "3.250% Notes due 2026",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "4.500% Notes due 2036",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "4.650% Notes due 2046",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Supplement No. 1 to the Officer’s Certificate of the Registrant",
+      "target": "Floating Rate Notes due 2020",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "Floating Rate Notes due 2022",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "1.550% Notes due 2019",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "1.900% Notes due 2020",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "2.500% Notes due 2022",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "3.000% Notes due 2024",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "3.350% Notes due 2027",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "4.250% Notes due 2047",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "0.875% Notes due 2025",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "1.375% Notes due 2029",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "3.000% Notes due 2027",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "1.500% Notes due 2019",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "2.100% Notes due 2022",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "2.900% Notes due 2027",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "3.750% Notes due 2047",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "1.800% Notes due 2019",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "2.000% Notes due 2020",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "2.400% Notes due 2023",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Officer’s Certificate of the Registrant",
+      "target": "2.750% Notes due 2025",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Indenture",
+      "target": "The Bank of New York Mellon Trust Company, N.A.",
+      "relation": "ACQUIRED",
+      "context": ""
+    },
+    {
+      "source": "Luca Maestri",
+      "target": "Apple Inc",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "Timothy D. Cook",
+      "target": "Apple Inc",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "September 28, 2024",
+      "relation": "AS_OF",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Board of Directors",
+      "relation": "LOCATED_IN",
+      "context": "California"
+    },
+    {
+      "source": "Apple Inc",
+      "target": "The Bank of New York Mellon Trust Company, N.A.",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "€1,000,000,000",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "€1,250,000,000",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "0.000% 2025 Notes",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "0.875% 2025 Notes",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "3.050% 2029 Notes",
+      "target": "£750,000,000",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "3.050% 2029 Notes",
+      "target": "July 31, 2015",
+      "relation": "ISSUED_ON",
+      "context": ""
+    },
+    {
+      "source": "3.050% 2029 Notes",
+      "target": "July 31, 2029",
+      "relation": "MATURITY_DATE",
+      "context": ""
+    },
+    {
+      "source": "3.050% 2029 Notes",
+      "target": "3.050%",
+      "relation": "INTEREST_RATE",
+      "context": ""
+    },
+    {
+      "source": "3.050% 2029 Notes",
+      "target": "pound sterling",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "2042 Notes",
+      "target": "euro",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "3.050% 2029 Notes",
+      "target": "U.S. dollars",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "2042 Notes",
+      "target": "U.S. dollars",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "3.050% 2029 Notes",
+      "target": "The City of New York",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "2042 Notes",
+      "target": "London",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "3.050% 2029 Notes",
+      "target": "The Wall Street Journal",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "2026 Notes",
+      "target": "2026 Notes",
+      "relation": "OPTIONAL_REDEMPTION",
+      "context": ""
+    },
+    {
+      "source": "2027 Notes",
+      "target": "2027 Notes",
+      "relation": "OPTIONAL_REDEMPTION",
+      "context": ""
+    },
+    {
+      "source": "3.050% 2029 Notes",
+      "target": "3.050% 2029 Notes",
+      "relation": "OPTIONAL_REDEMPTION",
+      "context": ""
+    },
+    {
+      "source": "2042 Notes",
+      "target": "2042 Notes",
+      "relation": "OPTIONAL_REDEMPTION",
+      "context": ""
+    },
+    {
+      "source": "0.875% 2025 Notes",
+      "target": "0.875% 2025 Notes",
+      "relation": "OPTIONAL_REDEMPTION",
+      "context": ""
+    },
+    {
+      "source": "1.375% 2029 Notes",
+      "target": "1.375% 2029 Notes",
+      "relation": "OPTIONAL_REDEMPTION",
+      "context": ""
+    },
+    {
+      "source": "2031 Notes",
+      "target": "2031 Notes",
+      "relation": "OPTIONAL_REDEMPTION",
+      "context": ""
+    },
+    {
+      "source": "3.050% 2029 Notes",
+      "target": "United Kingdom government bond",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "2042 Notes",
+      "target": "United Kingdom government bond",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "2025 Notes",
+      "target": "German government bond",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "0.875% 2025 Notes",
+      "target": "German government bond",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "1.375% 2029 Notes",
+      "target": "German government bond",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "2031 Notes",
+      "target": "German government bond",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "25%",
+      "target": "2013 Indenture",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "33%",
+      "target": "2018 Indenture",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "The Bank of New York Mellon Trust Company, N.A.",
+      "target": "The Bank of New York Mellon Trust Company, N.A. and its affiliates",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "The Bank of New York Mellon Trust Company, N.A.",
+      "target": "Euroclear",
+      "relation": "ACQUIRED",
+      "context": ""
+    },
+    {
+      "source": "The Bank of New York Mellon Trust Company, N.A.",
+      "target": "Clearstream",
+      "relation": "ACQUIRED",
+      "context": ""
+    },
+    {
+      "source": "Participant",
+      "target": "Apple Inc",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "California",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Participant",
+      "target": "Company",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Dividend Equivalent Rights",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "RSUs",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "TSR Percentile",
+      "relation": "TSR_PERCENTILE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Performance Period",
+      "relation": "PERIOD",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "RSUs",
+      "relation": "HAS_PRODUCT",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Dividend Equivalent Rights",
+      "relation": "HAS_PRODUCT",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Vesting Date",
+      "relation": "VESTING_DATE",
+      "context": ""
+    },
+    {
+      "source": "new parent company",
+      "target": "Comparison Group member",
+      "relation": "ACQUIRED",
+      "context": ""
+    },
+    {
+      "source": "surviving, resulting or successor entity",
+      "target": "Comparison Group member",
+      "relation": "MERGED",
+      "context": ""
+    },
+    {
+      "source": "TSR",
+      "target": "Comparison Group member",
+      "relation": "DECREASED_BY",
+      "context": ""
+    },
+    {
+      "source": "Committee",
+      "target": "Company",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Participant",
+      "target": "Company",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "RSUs",
+      "relation": "ACQUIRED",
+      "context": ""
+    },
+    {
+      "source": "RSUs",
+      "target": "Participant",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Participant",
+      "relation": "IMPOSES_REQUIREMENTS",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Imposition of Other Requirements",
+      "relation": "ANNOUNCED",
+      "context": ""
+    },
+    {
+      "source": "Participant",
+      "target": "Company",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "TSR Percentile",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Vesting Date",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Performance Period",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Comparison Group",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Company",
+      "target": "Standard & Poor’s 500 Index",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Tim Cook",
+      "target": "Apple",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "Apple",
+      "target": "first-quarter results",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple",
+      "target": "early February",
+      "relation": "TRADING_WINDOW",
+      "context": ""
+    },
+    {
+      "source": "Apple",
+      "target": "second-quarter results",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple",
+      "target": "early May",
+      "relation": "TRADING_WINDOW",
+      "context": ""
+    },
+    {
+      "source": "Apple",
+      "target": "third-quarter results",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple",
+      "target": "early August",
+      "relation": "TRADING_WINDOW",
+      "context": ""
+    },
+    {
+      "source": "Apple",
+      "target": "year-end results",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple",
+      "target": "early November",
+      "relation": "TRADING_WINDOW",
+      "context": ""
+    },
+    {
+      "source": "Apple",
+      "target": "special restricted trading period",
+      "relation": "ACQUIRED",
+      "context": ""
+    },
+    {
+      "source": "Apple",
+      "target": "extended restricted trading period",
+      "relation": "ACQUIRED",
+      "context": ""
+    },
+    {
+      "source": "Apple’s General Counsel",
+      "target": "Apple",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "Apple",
+      "target": "Designated Individuals",
+      "relation": "HAS_REVENUE",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Asia Limited",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Asia LLC",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Canada Inc.",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Computer Trading (Shanghai) Co., Ltd.",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Distribution International Limited",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple India Private Limited",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Insurance Company, Inc.",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Japan, Inc.",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Korea Limited",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Operations International Limited",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Operations Limited",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Operations Mexico, S.A. de C.V.",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Pty Limited",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Sales International Limited",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple South Asia (Thailand) Limited",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Apple Vietnam Limited Liability Company",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Braeburn Capital, Inc.",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "iTunes K.K.",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Nevada, U.S.",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Hong Kong",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Delaware, U.S.",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Canada",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "China",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Ireland",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Australia",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Mexico",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "Thailand",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "South Korea",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "San Jose, California",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "People and Compensation Committee",
+      "target": "Apple Inc",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "Apple Inc",
+      "target": "People and Compensation Committee",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Committee",
+      "target": "Apple",
+      "relation": "IS_CEO_OF",
+      "context": ""
+    },
+    {
+      "source": "Apple",
+      "target": "Committee",
+      "relation": "LOCATED_IN",
+      "context": ""
+    },
+    {
+      "source": "Apple",
+      "target": "Covered Executives",
+      "relation": "ANNOUNCED",
+      "context": ""
+    },
+    {
+      "source": "Committee",
+      "target": "Incentive-Based Compensation",
+      "relation": "LAUNCHED",
+      "context": ""
+    },
+    {
+      "source": "Apple",
+      "target": "Accounting Restatement",
+      "relation": "ACQUIRED",
+      "context": ""
+    },
+    {
+      "source": "Committee",
+      "target": "Covered Executive",
+      "relation": "DETERMINED",
+      "context": ""
+    },
+    {
+      "source": "Committee",
+      "target": "Apple",
+      "relation": "DIRECTED",
+      "context": ""
+    },
+    {
+      "source": "Apple",
+      "target": "Covered Executive",
+      "relation": "RECOVER",
+      "context": ""
+    }
+  ],
+  "stats": {
+    "num_entities": 510,
+    "num_relationships": 460
+  }
+}

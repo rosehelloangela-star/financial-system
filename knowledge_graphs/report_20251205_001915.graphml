@@ -1,0 +1,4757 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="context" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d1" for="node" attr.name="label" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="427">
+  <data key="d0">NUMBER</data>
+  <data key="d1">427</data>
+</node>
+<node id="119">
+  <data key="d0">NUMBER</data>
+  <data key="d1">119</data>
+</node>
+<node id="983">
+  <data key="d0">NUMBER</data>
+  <data key="d1">983</data>
+</node>
+<node id="1.700%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.700%</data>
+</node>
+<node id="493">
+  <data key="d0">NUMBER</data>
+  <data key="d1">493</data>
+</node>
+<node id="71.7%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">71.7%</data>
+</node>
+<node id="960">
+  <data key="d0">NUMBER</data>
+  <data key="d1">960</data>
+</node>
+<node id="4.4">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.4</data>
+</node>
+<node id="2061.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2061.8</data>
+</node>
+<node id="4.11">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.11</data>
+</node>
+<node id="4.5">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.5</data>
+</node>
+<node id="896">
+  <data key="d0">NUMBER</data>
+  <data key="d1">896</data>
+</node>
+<node id="788">
+  <data key="d0">NUMBER</data>
+  <data key="d1">788</data>
+</node>
+<node id="419">
+  <data key="d0">NUMBER</data>
+  <data key="d1">419</data>
+</node>
+<node id="09">
+  <data key="d0">NUMBER</data>
+  <data key="d1">09</data>
+</node>
+<node id="0.90">
+  <data key="d0">NUMBER</data>
+  <data key="d1">0.90</data>
+</node>
+<node id="726">
+  <data key="d0">NUMBER</data>
+  <data key="d1">726</data>
+</node>
+<node id="717">
+  <data key="d0">NUMBER</data>
+  <data key="d1">717</data>
+</node>
+<node id="$0.25">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$0.25</data>
+</node>
+<node id="044">
+  <data key="d0">NUMBER</data>
+  <data key="d1">044</data>
+</node>
+<node id="316">
+  <data key="d0">NUMBER</data>
+  <data key="d1">316</data>
+</node>
+<node id="146">
+  <data key="d0">NUMBER</data>
+  <data key="d1">146</data>
+</node>
+<node id="108">
+  <data key="d0">NUMBER</data>
+  <data key="d1">108</data>
+</node>
+<node id="4.650%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.650%</data>
+</node>
+<node id="803">
+  <data key="d0">NUMBER</data>
+  <data key="d1">803</data>
+</node>
+<node id="686">
+  <data key="d0">NUMBER</data>
+  <data key="d1">686</data>
+</node>
+<node id="793">
+  <data key="d0">NUMBER</data>
+  <data key="d1">793</data>
+</node>
+<node id="284">
+  <data key="d0">NUMBER</data>
+  <data key="d1">284</data>
+</node>
+<node id="454">
+  <data key="d0">NUMBER</data>
+  <data key="d1">454</data>
+</node>
+<node id="755">
+  <data key="d0">NUMBER</data>
+  <data key="d1">755</data>
+</node>
+<node id="325">
+  <data key="d0">NUMBER</data>
+  <data key="d1">325</data>
+</node>
+<node id="30">
+  <data key="d0">NUMBER</data>
+  <data key="d1">30</data>
+</node>
+<node id="158">
+  <data key="d0">NUMBER</data>
+  <data key="d1">158</data>
+</node>
+<node id="570">
+  <data key="d0">NUMBER</data>
+  <data key="d1">570</data>
+</node>
+<node id="70">
+  <data key="d0">NUMBER</data>
+  <data key="d1">70</data>
+</node>
+<node id="015">
+  <data key="d0">NUMBER</data>
+  <data key="d1">015</data>
+</node>
+<node id="2049.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2049.8</data>
+</node>
+<node id="995">
+  <data key="d0">NUMBER</data>
+  <data key="d1">995</data>
+</node>
+<node id="923">
+  <data key="d0">NUMBER</data>
+  <data key="d1">923</data>
+</node>
+<node id="21">
+  <data key="d0">NUMBER</data>
+  <data key="d1">21</data>
+</node>
+<node id="72">
+  <data key="d0">NUMBER</data>
+  <data key="d1">72</data>
+</node>
+<node id="328">
+  <data key="d0">NUMBER</data>
+  <data key="d1">328</data>
+</node>
+<node id="140.80">
+  <data key="d0">NUMBER</data>
+  <data key="d1">140.80</data>
+</node>
+<node id="380">
+  <data key="d0">NUMBER</data>
+  <data key="d1">380</data>
+</node>
+<node id="1203">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1203</data>
+</node>
+<node id="679">
+  <data key="d0">NUMBER</data>
+  <data key="d1">679</data>
+</node>
+<node id="100">
+  <data key="d0">NUMBER</data>
+  <data key="d1">100</data>
+</node>
+<node id="543">
+  <data key="d0">NUMBER</data>
+  <data key="d1">543</data>
+</node>
+<node id="782">
+  <data key="d0">NUMBER</data>
+  <data key="d1">782</data>
+</node>
+<node id="152">
+  <data key="d0">NUMBER</data>
+  <data key="d1">152</data>
+</node>
+<node id="227">
+  <data key="d0">NUMBER</data>
+  <data key="d1">227</data>
+</node>
+<node id="5608">
+  <data key="d0">NUMBER</data>
+  <data key="d1">5608</data>
+</node>
+<node id="8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">8</data>
+</node>
+<node id="072">
+  <data key="d0">NUMBER</data>
+  <data key="d1">072</data>
+</node>
+<node id="2042">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2042</data>
+</node>
+<node id="534">
+  <data key="d0">NUMBER</data>
+  <data key="d1">534</data>
+</node>
+<node id="4.22">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.22</data>
+</node>
+<node id="425">
+  <data key="d0">NUMBER</data>
+  <data key="d1">425</data>
+</node>
+<node id="3.B">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.B</data>
+</node>
+<node id="36">
+  <data key="d0">NUMBER</data>
+  <data key="d1">36</data>
+</node>
+<node id="405">
+  <data key="d0">NUMBER</data>
+  <data key="d1">405</data>
+</node>
+<node id="909">
+  <data key="d0">NUMBER</data>
+  <data key="d1">909</data>
+</node>
+<node id="52">
+  <data key="d0">NUMBER</data>
+  <data key="d1">52</data>
+</node>
+<node id="703">
+  <data key="d0">NUMBER</data>
+  <data key="d1">703</data>
+</node>
+<node id="739">
+  <data key="d0">NUMBER</data>
+  <data key="d1">739</data>
+</node>
+<node id="42.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">42.</data>
+</node>
+<node id="829">
+  <data key="d0">NUMBER</data>
+  <data key="d1">829</data>
+</node>
+<node id="575">
+  <data key="d0">NUMBER</data>
+  <data key="d1">575</data>
+</node>
+<node id="$72.9">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$72.9</data>
+</node>
+<node id="216">
+  <data key="d0">NUMBER</data>
+  <data key="d1">216</data>
+</node>
+<node id="14.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">14.</data>
+</node>
+<node id="089">
+  <data key="d0">NUMBER</data>
+  <data key="d1">089</data>
+</node>
+<node id="286">
+  <data key="d0">NUMBER</data>
+  <data key="d1">286</data>
+</node>
+<node id="109.48">
+  <data key="d0">NUMBER</data>
+  <data key="d1">109.48</data>
+</node>
+<node id="2024.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2024.</data>
+</node>
+<node id="4.19">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.19</data>
+</node>
+<node id="21.1">
+  <data key="d0">NUMBER</data>
+  <data key="d1">21.1</data>
+</node>
+<node id="139">
+  <data key="d0">NUMBER</data>
+  <data key="d1">139</data>
+</node>
+<node id="4.15">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.15</data>
+</node>
+<node id="421">
+  <data key="d0">NUMBER</data>
+  <data key="d1">421</data>
+</node>
+<node id="959">
+  <data key="d0">NUMBER</data>
+  <data key="d1">959</data>
+</node>
+<node id="547">
+  <data key="d0">NUMBER</data>
+  <data key="d1">547</data>
+</node>
+<node id="$1.9">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$1.9</data>
+</node>
+<node id="2017.10">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2017.10</data>
+</node>
+<node id="074">
+  <data key="d0">NUMBER</data>
+  <data key="d1">074</data>
+</node>
+<node id="929">
+  <data key="d0">NUMBER</data>
+  <data key="d1">929</data>
+</node>
+<node id="302">
+  <data key="d0">NUMBER</data>
+  <data key="d1">302</data>
+</node>
+<node id="801">
+  <data key="d0">NUMBER</data>
+  <data key="d1">801</data>
+</node>
+<node id="323">
+  <data key="d0">NUMBER</data>
+  <data key="d1">323</data>
+</node>
+<node id="116">
+  <data key="d0">NUMBER</data>
+  <data key="d1">116</data>
+</node>
+<node id="2.550%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.550%</data>
+</node>
+<node id="337">
+  <data key="d0">NUMBER</data>
+  <data key="d1">337</data>
+</node>
+<node id="$7.5">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$7.5</data>
+</node>
+<node id="07">
+  <data key="d0">NUMBER</data>
+  <data key="d1">07</data>
+</node>
+<node id="151">
+  <data key="d0">NUMBER</data>
+  <data key="d1">151</data>
+</node>
+<node id="$5">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$5</data>
+</node>
+<node id="87">
+  <data key="d0">NUMBER</data>
+  <data key="d1">87</data>
+</node>
+<node id="2">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2</data>
+</node>
+<node id="11.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">11.</data>
+</node>
+<node id="392">
+  <data key="d0">NUMBER</data>
+  <data key="d1">392</data>
+</node>
+<node id="006">
+  <data key="d0">NUMBER</data>
+  <data key="d1">006</data>
+</node>
+<node id="333">
+  <data key="d0">NUMBER</data>
+  <data key="d1">333</data>
+</node>
+<node id="440">
+  <data key="d0">NUMBER</data>
+  <data key="d1">440</data>
+</node>
+<node id="23">
+  <data key="d0">NUMBER</data>
+  <data key="d1">23</data>
+</node>
+<node id="866">
+  <data key="d0">NUMBER</data>
+  <data key="d1">866</data>
+</node>
+<node id="2050">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2050</data>
+</node>
+<node id="4.25">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.25</data>
+</node>
+<node id="63">
+  <data key="d0">NUMBER</data>
+  <data key="d1">63</data>
+</node>
+<node id="935">
+  <data key="d0">NUMBER</data>
+  <data key="d1">935</data>
+</node>
+<node id="44">
+  <data key="d0">NUMBER</data>
+  <data key="d1">44</data>
+</node>
+<node id="0.45%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">0.45%</data>
+</node>
+<node id="350">
+  <data key="d0">NUMBER</data>
+  <data key="d1">350</data>
+</node>
+<node id="74">
+  <data key="d0">NUMBER</data>
+  <data key="d1">74</data>
+</node>
+<node id="061">
+  <data key="d0">NUMBER</data>
+  <data key="d1">061</data>
+</node>
+<node id="$849">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$849</data>
+</node>
+<node id="0.700%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">0.700%</data>
+</node>
+<node id="552">
+  <data key="d0">NUMBER</data>
+  <data key="d1">552</data>
+</node>
+<node id="7%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">7%</data>
+</node>
+<node id="128">
+  <data key="d0">NUMBER</data>
+  <data key="d1">128</data>
+</node>
+<node id="034">
+  <data key="d0">NUMBER</data>
+  <data key="d1">034</data>
+</node>
+<node id="830">
+  <data key="d0">NUMBER</data>
+  <data key="d1">830</data>
+</node>
+<node id="6.16">
+  <data key="d0">NUMBER</data>
+  <data key="d1">6.16</data>
+</node>
+<node id="1.100%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.100%</data>
+</node>
+<node id="090">
+  <data key="d0">NUMBER</data>
+  <data key="d1">090</data>
+</node>
+<node id="6.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">6.</data>
+</node>
+<node id="445">
+  <data key="d0">NUMBER</data>
+  <data key="d1">445</data>
+</node>
+<node id="47">
+  <data key="d0">NUMBER</data>
+  <data key="d1">47</data>
+</node>
+<node id="501">
+  <data key="d0">NUMBER</data>
+  <data key="d1">501</data>
+</node>
+<node id="661">
+  <data key="d0">NUMBER</data>
+  <data key="d1">661</data>
+</node>
+<node id="967">
+  <data key="d0">NUMBER</data>
+  <data key="d1">967</data>
+</node>
+<node id="1939">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1939</data>
+</node>
+<node id="57">
+  <data key="d0">NUMBER</data>
+  <data key="d1">57</data>
+</node>
+<node id="202">
+  <data key="d0">NUMBER</data>
+  <data key="d1">202</data>
+</node>
+<node id="3.200%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.200%</data>
+</node>
+<node id="73">
+  <data key="d0">NUMBER</data>
+  <data key="d1">73</data>
+</node>
+<node id="31.1">
+  <data key="d0">NUMBER</data>
+  <data key="d1">31.1</data>
+</node>
+<node id="404">
+  <data key="d0">NUMBER</data>
+  <data key="d1">404</data>
+</node>
+<node id="375">
+  <data key="d0">NUMBER</data>
+  <data key="d1">375</data>
+</node>
+<node id="2.85%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.85%</data>
+</node>
+<node id="560">
+  <data key="d0">NUMBER</data>
+  <data key="d1">560</data>
+</node>
+<node id="89">
+  <data key="d0">NUMBER</data>
+  <data key="d1">89</data>
+</node>
+<node id="010">
+  <data key="d0">NUMBER</data>
+  <data key="d1">010</data>
+</node>
+<node id="91">
+  <data key="d0">NUMBER</data>
+  <data key="d1">91</data>
+</node>
+<node id="794">
+  <data key="d0">NUMBER</data>
+  <data key="d1">794</data>
+</node>
+<node id="240">
+  <data key="d0">NUMBER</data>
+  <data key="d1">240</data>
+</node>
+<node id="$38.5">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$38.5</data>
+</node>
+<node id="2.850%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.850%</data>
+</node>
+<node id="2022.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2022.8</data>
+</node>
+<node id="082">
+  <data key="d0">NUMBER</data>
+  <data key="d1">082</data>
+</node>
+<node id="4.10">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.10</data>
+</node>
+<node id="906">
+  <data key="d0">NUMBER</data>
+  <data key="d1">906</data>
+</node>
+<node id="783">
+  <data key="d0">NUMBER</data>
+  <data key="d1">783</data>
+</node>
+<node id="$0.00001">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$0.00001</data>
+</node>
+<node id="645">
+  <data key="d0">NUMBER</data>
+  <data key="d1">645</data>
+</node>
+<node id="3.85%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.85%</data>
+</node>
+<node id="127.98">
+  <data key="d0">NUMBER</data>
+  <data key="d1">127.98</data>
+</node>
+<node id="142">
+  <data key="d0">NUMBER</data>
+  <data key="d1">142</data>
+</node>
+<node id="653">
+  <data key="d0">NUMBER</data>
+  <data key="d1">653</data>
+</node>
+<node id="617">
+  <data key="d0">NUMBER</data>
+  <data key="d1">617</data>
+</node>
+<node id="1.650%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.650%</data>
+</node>
+<node id="520">
+  <data key="d0">NUMBER</data>
+  <data key="d1">520</data>
+</node>
+<node id="19.1">
+  <data key="d0">NUMBER</data>
+  <data key="d1">19.1</data>
+</node>
+<node id="859">
+  <data key="d0">NUMBER</data>
+  <data key="d1">859</data>
+</node>
+<node id="797">
+  <data key="d0">NUMBER</data>
+  <data key="d1">797</data>
+</node>
+<node id="12.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">12.</data>
+</node>
+<node id="189">
+  <data key="d0">NUMBER</data>
+  <data key="d1">189</data>
+</node>
+<node id="3.600%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.600%</data>
+</node>
+<node id="214">
+  <data key="d0">NUMBER</data>
+  <data key="d1">214</data>
+</node>
+<node id="1471">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1471</data>
+</node>
+<node id="2031">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2031</data>
+</node>
+<node id="3.05%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.05%</data>
+</node>
+<node id="950">
+  <data key="d0">NUMBER</data>
+  <data key="d1">950</data>
+</node>
+<node id="628">
+  <data key="d0">NUMBER</data>
+  <data key="d1">628</data>
+</node>
+<node id="4.100%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.100%</data>
+</node>
+<node id="612">
+  <data key="d0">NUMBER</data>
+  <data key="d1">612</data>
+</node>
+<node id="13.1">
+  <data key="d0">NUMBER</data>
+  <data key="d1">13.1</data>
+</node>
+<node id="930">
+  <data key="d0">NUMBER</data>
+  <data key="d1">930</data>
+</node>
+<node id="123">
+  <data key="d0">NUMBER</data>
+  <data key="d1">123</data>
+</node>
+<node id="364">
+  <data key="d0">NUMBER</data>
+  <data key="d1">364</data>
+</node>
+<node id="1.300%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.300%</data>
+</node>
+<node id="4.14">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.14</data>
+</node>
+<node id="273">
+  <data key="d0">NUMBER</data>
+  <data key="d1">273</data>
+</node>
+<node id="956">
+  <data key="d0">NUMBER</data>
+  <data key="d1">956</data>
+</node>
+<node id="10.12">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.12</data>
+</node>
+<node id="$538">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$538</data>
+</node>
+<node id="819">
+  <data key="d0">NUMBER</data>
+  <data key="d1">819</data>
+</node>
+<node id="939">
+  <data key="d0">NUMBER</data>
+  <data key="d1">939</data>
+</node>
+<node id="394">
+  <data key="d0">NUMBER</data>
+  <data key="d1">394</data>
+</node>
+<node id="27">
+  <data key="d0">NUMBER</data>
+  <data key="d1">27</data>
+</node>
+<node id="10.4">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.4</data>
+</node>
+<node id="276">
+  <data key="d0">NUMBER</data>
+  <data key="d1">276</data>
+</node>
+<node id="452">
+  <data key="d0">NUMBER</data>
+  <data key="d1">452</data>
+</node>
+<node id="77">
+  <data key="d0">NUMBER</data>
+  <data key="d1">77</data>
+</node>
+<node id="2051">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2051</data>
+</node>
+<node id="$16.5">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$16.5</data>
+</node>
+<node id="43.3%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">43.3%</data>
+</node>
+<node id="494">
+  <data key="d0">NUMBER</data>
+  <data key="d1">494</data>
+</node>
+<node id="13">
+  <data key="d0">NUMBER</data>
+  <data key="d1">13</data>
+</node>
+<node id="728">
+  <data key="d0">NUMBER</data>
+  <data key="d1">728</data>
+</node>
+<node id="533">
+  <data key="d0">NUMBER</data>
+  <data key="d1">533</data>
+</node>
+<node id="2018">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2018</data>
+</node>
+<node id="2017">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2017</data>
+</node>
+<node id="887">
+  <data key="d0">NUMBER</data>
+  <data key="d1">887</data>
+</node>
+<node id="805">
+  <data key="d0">NUMBER</data>
+  <data key="d1">805</data>
+</node>
+<node id="301">
+  <data key="d0">NUMBER</data>
+  <data key="d1">301</data>
+</node>
+<node id="736">
+  <data key="d0">NUMBER</data>
+  <data key="d1">736</data>
+</node>
+<node id="4.1">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.1</data>
+</node>
+<node id="41%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">41%</data>
+</node>
+<node id="2041">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2041</data>
+</node>
+<node id="998">
+  <data key="d0">NUMBER</data>
+  <data key="d1">998</data>
+</node>
+<node id="$97.3">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$97.3</data>
+</node>
+<node id="$5.1">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$5.1</data>
+</node>
+<node id="656">
+  <data key="d0">NUMBER</data>
+  <data key="d1">656</data>
+</node>
+<node id="10.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.8</data>
+</node>
+<node id="21%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">21%</data>
+</node>
+<node id="760">
+  <data key="d0">NUMBER</data>
+  <data key="d1">760</data>
+</node>
+<node id="1.500%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.500%</data>
+</node>
+<node id="287">
+  <data key="d0">NUMBER</data>
+  <data key="d1">287</data>
+</node>
+<node id="$1.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$1.8</data>
+</node>
+<node id="035">
+  <data key="d0">NUMBER</data>
+  <data key="d1">035</data>
+</node>
+<node id="740">
+  <data key="d0">NUMBER</data>
+  <data key="d1">740</data>
+</node>
+<node id="38%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">38%</data>
+</node>
+<node id="13%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">13%</data>
+</node>
+<node id="90">
+  <data key="d0">NUMBER</data>
+  <data key="d1">90</data>
+</node>
+<node id="031">
+  <data key="d0">NUMBER</data>
+  <data key="d1">031</data>
+</node>
+<node id="878">
+  <data key="d0">NUMBER</data>
+  <data key="d1">878</data>
+</node>
+<node id="4">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4</data>
+</node>
+<node id="264555">
+  <data key="d0">NUMBER</data>
+  <data key="d1">264555</data>
+</node>
+<node id="154">
+  <data key="d0">NUMBER</data>
+  <data key="d1">154</data>
+</node>
+<node id="153">
+  <data key="d0">NUMBER</data>
+  <data key="d1">153</data>
+</node>
+<node id="23.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">23.</data>
+</node>
+<node id="25">
+  <data key="d0">NUMBER</data>
+  <data key="d1">25</data>
+</node>
+<node id="744">
+  <data key="d0">NUMBER</data>
+  <data key="d1">744</data>
+</node>
+<node id="33%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">33%</data>
+</node>
+<node id="733">
+  <data key="d0">NUMBER</data>
+  <data key="d1">733</data>
+</node>
+<node id="59">
+  <data key="d0">NUMBER</data>
+  <data key="d1">59</data>
+</node>
+<node id="55">
+  <data key="d0">NUMBER</data>
+  <data key="d1">55</data>
+</node>
+<node id="95%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">95%</data>
+</node>
+<node id="$2.6">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$2.6</data>
+</node>
+<node id="012">
+  <data key="d0">NUMBER</data>
+  <data key="d1">012</data>
+</node>
+<node id="608">
+  <data key="d0">NUMBER</data>
+  <data key="d1">608</data>
+</node>
+<node id="358">
+  <data key="d0">NUMBER</data>
+  <data key="d1">358</data>
+</node>
+<node id="383">
+  <data key="d0">NUMBER</data>
+  <data key="d1">383</data>
+</node>
+<node id="156">
+  <data key="d0">NUMBER</data>
+  <data key="d1">156</data>
+</node>
+<node id="158.73">
+  <data key="d0">NUMBER</data>
+  <data key="d1">158.73</data>
+</node>
+<node id="231">
+  <data key="d0">NUMBER</data>
+  <data key="d1">231</data>
+</node>
+<node id="4.500%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.500%</data>
+</node>
+<node id="599">
+  <data key="d0">NUMBER</data>
+  <data key="d1">599</data>
+</node>
+<node id="430">
+  <data key="d0">NUMBER</data>
+  <data key="d1">430</data>
+</node>
+<node id="251">
+  <data key="d0">NUMBER</data>
+  <data key="d1">251</data>
+</node>
+<node id="0.750%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">0.750%</data>
+</node>
+<node id="888">
+  <data key="d0">NUMBER</data>
+  <data key="d1">888</data>
+</node>
+<node id="$77.3">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$77.3</data>
+</node>
+<node id="4.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.</data>
+</node>
+<node id="212">
+  <data key="d0">NUMBER</data>
+  <data key="d1">212</data>
+</node>
+<node id="2016.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2016.</data>
+</node>
+<node id="068">
+  <data key="d0">NUMBER</data>
+  <data key="d1">068</data>
+</node>
+<node id="357">
+  <data key="d0">NUMBER</data>
+  <data key="d1">357</data>
+</node>
+<node id="361">
+  <data key="d0">NUMBER</data>
+  <data key="d1">361</data>
+</node>
+<node id="10.14">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.14</data>
+</node>
+<node id="365">
+  <data key="d0">NUMBER</data>
+  <data key="d1">365</data>
+</node>
+<node id="260">
+  <data key="d0">NUMBER</data>
+  <data key="d1">260</data>
+</node>
+<node id="840">
+  <data key="d0">NUMBER</data>
+  <data key="d1">840</data>
+</node>
+<node id="683">
+  <data key="d0">NUMBER</data>
+  <data key="d1">683</data>
+</node>
+<node id="2026">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2026</data>
+</node>
+<node id="332">
+  <data key="d0">NUMBER</data>
+  <data key="d1">332</data>
+</node>
+<node id="226">
+  <data key="d0">NUMBER</data>
+  <data key="d1">226</data>
+</node>
+<node id="590">
+  <data key="d0">NUMBER</data>
+  <data key="d1">590</data>
+</node>
+<node id="446">
+  <data key="d0">NUMBER</data>
+  <data key="d1">446</data>
+</node>
+<node id="2022.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2022.</data>
+</node>
+<node id="311">
+  <data key="d0">NUMBER</data>
+  <data key="d1">311</data>
+</node>
+<node id="409">
+  <data key="d0">NUMBER</data>
+  <data key="d1">409</data>
+</node>
+<node id="4.421%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.421%</data>
+</node>
+<node id="10">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10</data>
+</node>
+<node id="28">
+  <data key="d0">NUMBER</data>
+  <data key="d1">28</data>
+</node>
+<node id="845">
+  <data key="d0">NUMBER</data>
+  <data key="d1">845</data>
+</node>
+<node id="10.11">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.11</data>
+</node>
+<node id="3.950%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.950%</data>
+</node>
+<node id="165214">
+  <data key="d0">NUMBER</data>
+  <data key="d1">165214</data>
+</node>
+<node id="690">
+  <data key="d0">NUMBER</data>
+  <data key="d1">690</data>
+</node>
+<node id="2029.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2029.8</data>
+</node>
+<node id="21.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">21.</data>
+</node>
+<node id="34">
+  <data key="d0">NUMBER</data>
+  <data key="d1">34</data>
+</node>
+<node id="$95.0">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$95.0</data>
+</node>
+<node id="199">
+  <data key="d0">NUMBER</data>
+  <data key="d1">199</data>
+</node>
+<node id="43">
+  <data key="d0">NUMBER</data>
+  <data key="d1">43</data>
+</node>
+<node id="513">
+  <data key="d0">NUMBER</data>
+  <data key="d1">513</data>
+</node>
+<node id="354">
+  <data key="d0">NUMBER</data>
+  <data key="d1">354</data>
+</node>
+<node id="3.000%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.000%</data>
+</node>
+<node id="17">
+  <data key="d0">NUMBER</data>
+  <data key="d1">17</data>
+</node>
+<node id="41">
+  <data key="d0">NUMBER</data>
+  <data key="d1">41</data>
+</node>
+<node id="991">
+  <data key="d0">NUMBER</data>
+  <data key="d1">991</data>
+</node>
+<node id="20">
+  <data key="d0">NUMBER</data>
+  <data key="d1">20</data>
+</node>
+<node id="195509">
+  <data key="d0">NUMBER</data>
+  <data key="d1">195509</data>
+</node>
+<node id="2021">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2021</data>
+</node>
+<node id="14">
+  <data key="d0">NUMBER</data>
+  <data key="d1">14</data>
+</node>
+<node id="087">
+  <data key="d0">NUMBER</data>
+  <data key="d1">087</data>
+</node>
+<node id="638">
+  <data key="d0">NUMBER</data>
+  <data key="d1">638</data>
+</node>
+<node id="982">
+  <data key="d0">NUMBER</data>
+  <data key="d1">982</data>
+</node>
+<node id="203698">
+  <data key="d0">NUMBER</data>
+  <data key="d1">203698</data>
+</node>
+<node id="19">
+  <data key="d0">NUMBER</data>
+  <data key="d1">19</data>
+</node>
+<node id="124">
+  <data key="d0">NUMBER</data>
+  <data key="d1">124</data>
+</node>
+<node id="601">
+  <data key="d0">NUMBER</data>
+  <data key="d1">601</data>
+</node>
+<node id="873">
+  <data key="d0">NUMBER</data>
+  <data key="d1">873</data>
+</node>
+<node id="565">
+  <data key="d0">NUMBER</data>
+  <data key="d1">565</data>
+</node>
+<node id="64%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">64%</data>
+</node>
+<node id="662">
+  <data key="d0">NUMBER</data>
+  <data key="d1">662</data>
+</node>
+<node id="627">
+  <data key="d0">NUMBER</data>
+  <data key="d1">627</data>
+</node>
+<node id="2.700%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.700%</data>
+</node>
+<node id="441">
+  <data key="d0">NUMBER</data>
+  <data key="d1">441</data>
+</node>
+<node id="250">
+  <data key="d0">NUMBER</data>
+  <data key="d1">250</data>
+</node>
+<node id="$5.6">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$5.6</data>
+</node>
+<node id="48">
+  <data key="d0">NUMBER</data>
+  <data key="d1">48</data>
+</node>
+<node id="847">
+  <data key="d0">NUMBER</data>
+  <data key="d1">847</data>
+</node>
+<node id="177">
+  <data key="d0">NUMBER</data>
+  <data key="d1">177</data>
+</node>
+<node id="6.11">
+  <data key="d0">NUMBER</data>
+  <data key="d1">6.11</data>
+</node>
+<node id="856">
+  <data key="d0">NUMBER</data>
+  <data key="d1">856</data>
+</node>
+<node id="055">
+  <data key="d0">NUMBER</data>
+  <data key="d1">055</data>
+</node>
+<node id="966">
+  <data key="d0">NUMBER</data>
+  <data key="d1">966</data>
+</node>
+<node id="2.10%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.10%</data>
+</node>
+<node id="4.12">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.12</data>
+</node>
+<node id="3.60%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.60%</data>
+</node>
+<node id="304">
+  <data key="d0">NUMBER</data>
+  <data key="d1">304</data>
+</node>
+<node id="114">
+  <data key="d0">NUMBER</data>
+  <data key="d1">114</data>
+</node>
+<node id="269">
+  <data key="d0">NUMBER</data>
+  <data key="d1">269</data>
+</node>
+<node id="335">
+  <data key="d0">NUMBER</data>
+  <data key="d1">335</data>
+</node>
+<node id="595">
+  <data key="d0">NUMBER</data>
+  <data key="d1">595</data>
+</node>
+<node id="10.2">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.2</data>
+</node>
+<node id="10.19">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.19</data>
+</node>
+<node id="4.9">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.9</data>
+</node>
+<node id="4.20">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.20</data>
+</node>
+<node id="44%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">44%</data>
+</node>
+<node id="$300">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$300</data>
+</node>
+<node id="470">
+  <data key="d0">NUMBER</data>
+  <data key="d1">470</data>
+</node>
+<node id="4.13">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.13</data>
+</node>
+<node id="566">
+  <data key="d0">NUMBER</data>
+  <data key="d1">566</data>
+</node>
+<node id="$13.9">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$13.9</data>
+</node>
+<node id="20549">
+  <data key="d0">NUMBER</data>
+  <data key="d1">20549</data>
+</node>
+<node id="194">
+  <data key="d0">NUMBER</data>
+  <data key="d1">194</data>
+</node>
+<node id="285">
+  <data key="d0">NUMBER</data>
+  <data key="d1">285</data>
+</node>
+<node id="219">
+  <data key="d0">NUMBER</data>
+  <data key="d1">219</data>
+</node>
+<node id="321">
+  <data key="d0">NUMBER</data>
+  <data key="d1">321</data>
+</node>
+<node id="2020">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2020</data>
+</node>
+<node id="085">
+  <data key="d0">NUMBER</data>
+  <data key="d1">085</data>
+</node>
+<node id="752">
+  <data key="d0">NUMBER</data>
+  <data key="d1">752</data>
+</node>
+<node id="14.2">
+  <data key="d0">NUMBER</data>
+  <data key="d1">14.2</data>
+</node>
+<node id="581">
+  <data key="d0">NUMBER</data>
+  <data key="d1">581</data>
+</node>
+<node id="$6.0">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$6.0</data>
+</node>
+<node id="257">
+  <data key="d0">NUMBER</data>
+  <data key="d1">257</data>
+</node>
+<node id="695">
+  <data key="d0">NUMBER</data>
+  <data key="d1">695</data>
+</node>
+<node id="9">
+  <data key="d0">NUMBER</data>
+  <data key="d1">9</data>
+</node>
+<node id="312">
+  <data key="d0">NUMBER</data>
+  <data key="d1">312</data>
+</node>
+<node id="600">
+  <data key="d0">NUMBER</data>
+  <data key="d1">600</data>
+</node>
+<node id="500">
+  <data key="d0">NUMBER</data>
+  <data key="d1">500</data>
+</node>
+<node id="2053.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2053.8</data>
+</node>
+<node id="$4.1">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$4.1</data>
+</node>
+<node id="2024">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2024</data>
+</node>
+<node id="3">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3</data>
+</node>
+<node id="017">
+  <data key="d0">NUMBER</data>
+  <data key="d1">017</data>
+</node>
+<node id="$10.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$10.8</data>
+</node>
+<node id="$100">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$100</data>
+</node>
+<node id="099">
+  <data key="d0">NUMBER</data>
+  <data key="d1">099</data>
+</node>
+<node id="4.2">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.2</data>
+</node>
+<node id="531">
+  <data key="d0">NUMBER</data>
+  <data key="d1">531</data>
+</node>
+<node id="952">
+  <data key="d0">NUMBER</data>
+  <data key="d1">952</data>
+</node>
+<node id="658">
+  <data key="d0">NUMBER</data>
+  <data key="d1">658</data>
+</node>
+<node id="483">
+  <data key="d0">NUMBER</data>
+  <data key="d1">483</data>
+</node>
+<node id="1.125%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.125%</data>
+</node>
+<node id="$90.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$90.8</data>
+</node>
+<node id="77%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">77%</data>
+</node>
+<node id="4.3">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.3</data>
+</node>
+<node id="884">
+  <data key="d0">NUMBER</data>
+  <data key="d1">884</data>
+</node>
+<node id="2.450%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.450%</data>
+</node>
+<node id="4.300%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.300%</data>
+</node>
+<node id="10.18">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.18</data>
+</node>
+<node id="183">
+  <data key="d0">NUMBER</data>
+  <data key="d1">183</data>
+</node>
+<node id="233">
+  <data key="d0">NUMBER</data>
+  <data key="d1">233</data>
+</node>
+<node id="465">
+  <data key="d0">NUMBER</data>
+  <data key="d1">465</data>
+</node>
+<node id="953">
+  <data key="d0">NUMBER</data>
+  <data key="d1">953</data>
+</node>
+<node id="2.750%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.750%</data>
+</node>
+<node id="1010">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1010</data>
+</node>
+<node id="24.1">
+  <data key="d0">NUMBER</data>
+  <data key="d1">24.1</data>
+</node>
+<node id="150">
+  <data key="d0">NUMBER</data>
+  <data key="d1">150</data>
+</node>
+<node id="400">
+  <data key="d0">NUMBER</data>
+  <data key="d1">400</data>
+</node>
+<node id="75.16">
+  <data key="d0">NUMBER</data>
+  <data key="d1">75.16</data>
+</node>
+<node id="$2.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$2.8</data>
+</node>
+<node id="95014">
+  <data key="d0">NUMBER</data>
+  <data key="d1">95014</data>
+</node>
+<node id="170">
+  <data key="d0">NUMBER</data>
+  <data key="d1">170</data>
+</node>
+<node id="64">
+  <data key="d0">NUMBER</data>
+  <data key="d1">64</data>
+</node>
+<node id="849">
+  <data key="d0">NUMBER</data>
+  <data key="d1">849</data>
+</node>
+<node id="$12.1">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$12.1</data>
+</node>
+<node id="109">
+  <data key="d0">NUMBER</data>
+  <data key="d1">109</data>
+</node>
+<node id="65">
+  <data key="d0">NUMBER</data>
+  <data key="d1">65</data>
+</node>
+<node id="$71.3">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$71.3</data>
+</node>
+<node id="2.950%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.950%</data>
+</node>
+<node id="135">
+  <data key="d0">NUMBER</data>
+  <data key="d1">135</data>
+</node>
+<node id="$9.5">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$9.5</data>
+</node>
+<node id="102">
+  <data key="d0">NUMBER</data>
+  <data key="d1">102</data>
+</node>
+<node id="2002">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2002</data>
+</node>
+<node id="2044.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2044.8</data>
+</node>
+<node id="2.B">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.B</data>
+</node>
+<node id="1.375%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.375%</data>
+</node>
+<node id="2020.10">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2020.10</data>
+</node>
+<node id="2043.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2043.8</data>
+</node>
+<node id="204">
+  <data key="d0">NUMBER</data>
+  <data key="d1">204</data>
+</node>
+<node id="3.050%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.050%</data>
+</node>
+<node id="71">
+  <data key="d0">NUMBER</data>
+  <data key="d1">71</data>
+</node>
+<node id="2033">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2033</data>
+</node>
+<node id="$669">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$669</data>
+</node>
+<node id="4.29">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.29</data>
+</node>
+<node id="2015.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2015.8</data>
+</node>
+<node id="298">
+  <data key="d0">NUMBER</data>
+  <data key="d1">298</data>
+</node>
+<node id="0.98">
+  <data key="d0">NUMBER</data>
+  <data key="d1">0.98</data>
+</node>
+<node id="007">
+  <data key="d0">NUMBER</data>
+  <data key="d1">007</data>
+</node>
+<node id="171">
+  <data key="d0">NUMBER</data>
+  <data key="d1">171</data>
+</node>
+<node id="4.27">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.27</data>
+</node>
+<node id="861">
+  <data key="d0">NUMBER</data>
+  <data key="d1">861</data>
+</node>
+<node id="162">
+  <data key="d0">NUMBER</data>
+  <data key="d1">162</data>
+</node>
+<node id="$2.1">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$2.1</data>
+</node>
+<node id="2027.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2027.8</data>
+</node>
+<node id="2.300%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.300%</data>
+</node>
+<node id="$19.4">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$19.4</data>
+</node>
+<node id="4.23">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.23</data>
+</node>
+<node id="150.70">
+  <data key="d0">NUMBER</data>
+  <data key="d1">150.70</data>
+</node>
+<node id="2015.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2015.</data>
+</node>
+<node id="229">
+  <data key="d0">NUMBER</data>
+  <data key="d1">229</data>
+</node>
+<node id="352">
+  <data key="d0">NUMBER</data>
+  <data key="d1">352</data>
+</node>
+<node id="940">
+  <data key="d0">NUMBER</data>
+  <data key="d1">940</data>
+</node>
+<node id="58">
+  <data key="d0">NUMBER</data>
+  <data key="d1">58</data>
+</node>
+<node id="10.3">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.3</data>
+</node>
+<node id="135.91">
+  <data key="d0">NUMBER</data>
+  <data key="d1">135.91</data>
+</node>
+<node id="625">
+  <data key="d0">NUMBER</data>
+  <data key="d1">625</data>
+</node>
+<node id="$8.5">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$8.5</data>
+</node>
+<node id="$110">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$110</data>
+</node>
+<node id="271">
+  <data key="d0">NUMBER</data>
+  <data key="d1">271</data>
+</node>
+<node id="750">
+  <data key="d0">NUMBER</data>
+  <data key="d1">750</data>
+</node>
+<node id="511">
+  <data key="d0">NUMBER</data>
+  <data key="d1">511</data>
+</node>
+<node id="176">
+  <data key="d0">NUMBER</data>
+  <data key="d1">176</data>
+</node>
+<node id="2.15%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.15%</data>
+</node>
+<node id="73.9%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">73.9%</data>
+</node>
+<node id="025">
+  <data key="d0">NUMBER</data>
+  <data key="d1">025</data>
+</node>
+<node id="243">
+  <data key="d0">NUMBER</data>
+  <data key="d1">243</data>
+</node>
+<node id="965">
+  <data key="d0">NUMBER</data>
+  <data key="d1">965</data>
+</node>
+<node id="$22.0">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$22.0</data>
+</node>
+<node id="4%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4%</data>
+</node>
+<node id="66">
+  <data key="d0">NUMBER</data>
+  <data key="d1">66</data>
+</node>
+<node id="563">
+  <data key="d0">NUMBER</data>
+  <data key="d1">563</data>
+</node>
+<node id="2003">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2003</data>
+</node>
+<node id="743">
+  <data key="d0">NUMBER</data>
+  <data key="d1">743</data>
+</node>
+<node id="$140.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$140.8</data>
+</node>
+<node id="83">
+  <data key="d0">NUMBER</data>
+  <data key="d1">83</data>
+</node>
+<node id="518">
+  <data key="d0">NUMBER</data>
+  <data key="d1">518</data>
+</node>
+<node id="413">
+  <data key="d0">NUMBER</data>
+  <data key="d1">413</data>
+</node>
+<node id="458">
+  <data key="d0">NUMBER</data>
+  <data key="d1">458</data>
+</node>
+<node id="$500">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$500</data>
+</node>
+<node id="228">
+  <data key="d0">NUMBER</data>
+  <data key="d1">228</data>
+</node>
+<node id="2023">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2023</data>
+</node>
+<node id="652">
+  <data key="d0">NUMBER</data>
+  <data key="d1">652</data>
+</node>
+<node id="0.500%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">0.500%</data>
+</node>
+<node id="069">
+  <data key="d0">NUMBER</data>
+  <data key="d1">069</data>
+</node>
+<node id="559">
+  <data key="d0">NUMBER</data>
+  <data key="d1">559</data>
+</node>
+<node id="254">
+  <data key="d0">NUMBER</data>
+  <data key="d1">254</data>
+</node>
+<node id="345">
+  <data key="d0">NUMBER</data>
+  <data key="d1">345</data>
+</node>
+<node id="054">
+  <data key="d0">NUMBER</data>
+  <data key="d1">054</data>
+</node>
+<node id="4.45%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.45%</data>
+</node>
+<node id="24.1%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">24.1%</data>
+</node>
+<node id="201">
+  <data key="d0">NUMBER</data>
+  <data key="d1">201</data>
+</node>
+<node id="9.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">9.</data>
+</node>
+<node id="$15.2">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$15.2</data>
+</node>
+<node id="038">
+  <data key="d0">NUMBER</data>
+  <data key="d1">038</data>
+</node>
+<node id="2027">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2027</data>
+</node>
+<node id="1986">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1986</data>
+</node>
+<node id="308">
+  <data key="d0">NUMBER</data>
+  <data key="d1">308</data>
+</node>
+<node id="027">
+  <data key="d0">NUMBER</data>
+  <data key="d1">027</data>
+</node>
+<node id="468">
+  <data key="d0">NUMBER</data>
+  <data key="d1">468</data>
+</node>
+<node id="768">
+  <data key="d0">NUMBER</data>
+  <data key="d1">768</data>
+</node>
+<node id="2%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2%</data>
+</node>
+<node id="3.250%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.250%</data>
+</node>
+<node id="650">
+  <data key="d0">NUMBER</data>
+  <data key="d1">650</data>
+</node>
+<node id="$8.2">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$8.2</data>
+</node>
+<node id="8B">
+  <data key="d0">NUMBER</data>
+  <data key="d1">8B</data>
+</node>
+<node id="680">
+  <data key="d0">NUMBER</data>
+  <data key="d1">680</data>
+</node>
+<node id="583">
+  <data key="d0">NUMBER</data>
+  <data key="d1">583</data>
+</node>
+<node id="485">
+  <data key="d0">NUMBER</data>
+  <data key="d1">485</data>
+</node>
+<node id="292">
+  <data key="d0">NUMBER</data>
+  <data key="d1">292</data>
+</node>
+<node id="437">
+  <data key="d0">NUMBER</data>
+  <data key="d1">437</data>
+</node>
+<node id="484">
+  <data key="d0">NUMBER</data>
+  <data key="d1">484</data>
+</node>
+<node id="955">
+  <data key="d0">NUMBER</data>
+  <data key="d1">955</data>
+</node>
+<node id="303">
+  <data key="d0">NUMBER</data>
+  <data key="d1">303</data>
+</node>
+<node id="3.850%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.850%</data>
+</node>
+<node id="2.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.</data>
+</node>
+<node id="86%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">86%</data>
+</node>
+<node id="$7.7">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$7.7</data>
+</node>
+<node id="14%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">14%</data>
+</node>
+<node id="95">
+  <data key="d0">NUMBER</data>
+  <data key="d1">95</data>
+</node>
+<node id="2007">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2007</data>
+</node>
+<node id="97">
+  <data key="d0">NUMBER</data>
+  <data key="d1">97</data>
+</node>
+<node id="115">
+  <data key="d0">NUMBER</data>
+  <data key="d1">115</data>
+</node>
+<node id="546">
+  <data key="d0">NUMBER</data>
+  <data key="d1">546</data>
+</node>
+<node id="2026.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2026.8</data>
+</node>
+<node id="735">
+  <data key="d0">NUMBER</data>
+  <data key="d1">735</data>
+</node>
+<node id="2.400%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.400%</data>
+</node>
+<node id="$14.9">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$14.9</data>
+</node>
+<node id="0.900%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">0.900%</data>
+</node>
+<node id="4.18">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.18</data>
+</node>
+<node id="822">
+  <data key="d0">NUMBER</data>
+  <data key="d1">822</data>
+</node>
+<node id="4.24">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.24</data>
+</node>
+<node id="2.4">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="167">
+  <data key="d0">NUMBER</data>
+  <data key="d1">167</data>
+</node>
+<node id="977">
+  <data key="d0">NUMBER</data>
+  <data key="d1">977</data>
+</node>
+<node id="$2.0">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$2.0</data>
+</node>
+<node id="917">
+  <data key="d0">NUMBER</data>
+  <data key="d1">917</data>
+</node>
+<node id="2050.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2050.8</data>
+</node>
+<node id="2.050%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.050%</data>
+</node>
+<node id="2019.10">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2019.10</data>
+</node>
+<node id="51">
+  <data key="d0">NUMBER</data>
+  <data key="d1">51</data>
+</node>
+<node id="936">
+  <data key="d0">NUMBER</data>
+  <data key="d1">936</data>
+</node>
+<node id="2.900%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.900%</data>
+</node>
+<node id="479">
+  <data key="d0">NUMBER</data>
+  <data key="d1">479</data>
+</node>
+<node id="6.15">
+  <data key="d0">NUMBER</data>
+  <data key="d1">6.15</data>
+</node>
+<node id="366">
+  <data key="d0">NUMBER</data>
+  <data key="d1">366</data>
+</node>
+<node id="54">
+  <data key="d0">NUMBER</data>
+  <data key="d1">54</data>
+</node>
+<node id="48%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">48%</data>
+</node>
+<node id="10.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.</data>
+</node>
+<node id="36.3%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">36.3%</data>
+</node>
+<node id="395">
+  <data key="d0">NUMBER</data>
+  <data key="d1">395</data>
+</node>
+<node id="603">
+  <data key="d0">NUMBER</data>
+  <data key="d1">603</data>
+</node>
+<node id="391">
+  <data key="d0">NUMBER</data>
+  <data key="d1">391</data>
+</node>
+<node id="320">
+  <data key="d0">NUMBER</data>
+  <data key="d1">320</data>
+</node>
+<node id="13.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">13.</data>
+</node>
+<node id="165">
+  <data key="d0">NUMBER</data>
+  <data key="d1">165</data>
+</node>
+<node id="943">
+  <data key="d0">NUMBER</data>
+  <data key="d1">943</data>
+</node>
+<node id="144">
+  <data key="d0">NUMBER</data>
+  <data key="d1">144</data>
+</node>
+<node id="066">
+  <data key="d0">NUMBER</data>
+  <data key="d1">066</data>
+</node>
+<node id="145">
+  <data key="d0">NUMBER</data>
+  <data key="d1">145</data>
+</node>
+<node id="737">
+  <data key="d0">NUMBER</data>
+  <data key="d1">737</data>
+</node>
+<node id="426">
+  <data key="d0">NUMBER</data>
+  <data key="d1">426</data>
+</node>
+<node id="80">
+  <data key="d0">NUMBER</data>
+  <data key="d1">80</data>
+</node>
+<node id="490">
+  <data key="d0">NUMBER</data>
+  <data key="d1">490</data>
+</node>
+<node id="99.77">
+  <data key="d0">NUMBER</data>
+  <data key="d1">99.77</data>
+</node>
+<node id="4.26">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.26</data>
+</node>
+<node id="$88.4">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$88.4</data>
+</node>
+<node id="$0.24">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$0.24</data>
+</node>
+<node id="833">
+  <data key="d0">NUMBER</data>
+  <data key="d1">833</data>
+</node>
+<node id="708">
+  <data key="d0">NUMBER</data>
+  <data key="d1">708</data>
+</node>
+<node id="6.13">
+  <data key="d0">NUMBER</data>
+  <data key="d1">6.13</data>
+</node>
+<node id="376">
+  <data key="d0">NUMBER</data>
+  <data key="d1">376</data>
+</node>
+<node id="602">
+  <data key="d0">NUMBER</data>
+  <data key="d1">602</data>
+</node>
+<node id="2021.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2021.</data>
+</node>
+<node id="433">
+  <data key="d0">NUMBER</data>
+  <data key="d1">433</data>
+</node>
+<node id="0.94">
+  <data key="d0">NUMBER</data>
+  <data key="d1">0.94</data>
+</node>
+<node id="618">
+  <data key="d0">NUMBER</data>
+  <data key="d1">618</data>
+</node>
+<node id="360">
+  <data key="d0">NUMBER</data>
+  <data key="d1">360</data>
+</node>
+<node id="3.750%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.750%</data>
+</node>
+<node id="264">
+  <data key="d0">NUMBER</data>
+  <data key="d1">264</data>
+</node>
+<node id="2062.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2062.8</data>
+</node>
+<node id="5.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">5.</data>
+</node>
+<node id="0.0005">
+  <data key="d0">NUMBER</data>
+  <data key="d1">0.0005</data>
+</node>
+<node id="056">
+  <data key="d0">NUMBER</data>
+  <data key="d1">056</data>
+</node>
+<node id="948">
+  <data key="d0">NUMBER</data>
+  <data key="d1">948</data>
+</node>
+<node id="120">
+  <data key="d0">NUMBER</data>
+  <data key="d1">120</data>
+</node>
+<node id="94">
+  <data key="d0">NUMBER</data>
+  <data key="d1">94</data>
+</node>
+<node id="$20.9">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$20.9</data>
+</node>
+<node id="347">
+  <data key="d0">NUMBER</data>
+  <data key="d1">347</data>
+</node>
+<node id="837">
+  <data key="d0">NUMBER</data>
+  <data key="d1">837</data>
+</node>
+<node id="105">
+  <data key="d0">NUMBER</data>
+  <data key="d1">105</data>
+</node>
+<node id="3.1%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.1%</data>
+</node>
+<node id="370">
+  <data key="d0">NUMBER</data>
+  <data key="d1">370</data>
+</node>
+<node id="412">
+  <data key="d0">NUMBER</data>
+  <data key="d1">412</data>
+</node>
+<node id="002">
+  <data key="d0">NUMBER</data>
+  <data key="d1">002</data>
+</node>
+<node id="568">
+  <data key="d0">NUMBER</data>
+  <data key="d1">568</data>
+</node>
+<node id="$7.2">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$7.2</data>
+</node>
+<node id="6.72%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">6.72%</data>
+</node>
+<node id="428">
+  <data key="d0">NUMBER</data>
+  <data key="d1">428</data>
+</node>
+<node id="207">
+  <data key="d0">NUMBER</data>
+  <data key="d1">207</data>
+</node>
+<node id="39">
+  <data key="d0">NUMBER</data>
+  <data key="d1">39</data>
+</node>
+<node id="633">
+  <data key="d0">NUMBER</data>
+  <data key="d1">633</data>
+</node>
+<node id="218">
+  <data key="d0">NUMBER</data>
+  <data key="d1">218</data>
+</node>
+<node id="489">
+  <data key="d0">NUMBER</data>
+  <data key="d1">489</data>
+</node>
+<node id="406">
+  <data key="d0">NUMBER</data>
+  <data key="d1">406</data>
+</node>
+<node id="4.7">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.7</data>
+</node>
+<node id="499">
+  <data key="d0">NUMBER</data>
+  <data key="d1">499</data>
+</node>
+<node id="56">
+  <data key="d0">NUMBER</data>
+  <data key="d1">56</data>
+</node>
+<node id="848">
+  <data key="d0">NUMBER</data>
+  <data key="d1">848</data>
+</node>
+<node id="050">
+  <data key="d0">NUMBER</data>
+  <data key="d1">050</data>
+</node>
+<node id="387">
+  <data key="d0">NUMBER</data>
+  <data key="d1">387</data>
+</node>
+<node id="98">
+  <data key="d0">NUMBER</data>
+  <data key="d1">98</data>
+</node>
+<node id="223">
+  <data key="d0">NUMBER</data>
+  <data key="d1">223</data>
+</node>
+<node id="2.200%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.200%</data>
+</node>
+<node id="777">
+  <data key="d0">NUMBER</data>
+  <data key="d1">777</data>
+</node>
+<node id="309">
+  <data key="d0">NUMBER</data>
+  <data key="d1">309</data>
+</node>
+<node id="098">
+  <data key="d0">NUMBER</data>
+  <data key="d1">098</data>
+</node>
+<node id="463">
+  <data key="d0">NUMBER</data>
+  <data key="d1">463</data>
+</node>
+<node id="32.1">
+  <data key="d0">NUMBER</data>
+  <data key="d1">32.1</data>
+</node>
+<node id="$10.2">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$10.2</data>
+</node>
+<node id="$1.2">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$1.2</data>
+</node>
+<node id="410">
+  <data key="d0">NUMBER</data>
+  <data key="d1">410</data>
+</node>
+<node id="293">
+  <data key="d0">NUMBER</data>
+  <data key="d1">293</data>
+</node>
+<node id="112">
+  <data key="d0">NUMBER</data>
+  <data key="d1">112</data>
+</node>
+<node id="331">
+  <data key="d0">NUMBER</data>
+  <data key="d1">331</data>
+</node>
+<node id="42">
+  <data key="d0">NUMBER</data>
+  <data key="d1">42</data>
+</node>
+<node id="2013">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2013</data>
+</node>
+<node id="1350">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1350</data>
+</node>
+<node id="571">
+  <data key="d0">NUMBER</data>
+  <data key="d1">571</data>
+</node>
+<node id="070">
+  <data key="d0">NUMBER</data>
+  <data key="d1">070</data>
+</node>
+<node id="715">
+  <data key="d0">NUMBER</data>
+  <data key="d1">715</data>
+</node>
+<node id="491">
+  <data key="d0">NUMBER</data>
+  <data key="d1">491</data>
+</node>
+<node id="001">
+  <data key="d0">NUMBER</data>
+  <data key="d1">001</data>
+</node>
+<node id="477">
+  <data key="d0">NUMBER</data>
+  <data key="d1">477</data>
+</node>
+<node id="50">
+  <data key="d0">NUMBER</data>
+  <data key="d1">50</data>
+</node>
+<node id="684">
+  <data key="d0">NUMBER</data>
+  <data key="d1">684</data>
+</node>
+<node id="101">
+  <data key="d0">NUMBER</data>
+  <data key="d1">101</data>
+</node>
+<node id="19.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">19.</data>
+</node>
+<node id="85">
+  <data key="d0">NUMBER</data>
+  <data key="d1">85</data>
+</node>
+<node id="697">
+  <data key="d0">NUMBER</data>
+  <data key="d1">697</data>
+</node>
+<node id="097">
+  <data key="d0">NUMBER</data>
+  <data key="d1">097</data>
+</node>
+<node id="15">
+  <data key="d0">NUMBER</data>
+  <data key="d1">15</data>
+</node>
+<node id="020">
+  <data key="d0">NUMBER</data>
+  <data key="d1">020</data>
+</node>
+<node id="127.59">
+  <data key="d0">NUMBER</data>
+  <data key="d1">127.59</data>
+</node>
+<node id="$823">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$823</data>
+</node>
+<node id="852">
+  <data key="d0">NUMBER</data>
+  <data key="d1">852</data>
+</node>
+<node id="488">
+  <data key="d0">NUMBER</data>
+  <data key="d1">488</data>
+</node>
+<node id="9%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">9%</data>
+</node>
+<node id="812">
+  <data key="d0">NUMBER</data>
+  <data key="d1">812</data>
+</node>
+<node id="150.87">
+  <data key="d0">NUMBER</data>
+  <data key="d1">150.87</data>
+</node>
+<node id="17.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">17.</data>
+</node>
+<node id="60455">
+  <data key="d0">NUMBER</data>
+  <data key="d1">60455</data>
+</node>
+<node id="10.10">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.10</data>
+</node>
+<node id="2018.10">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2018.10</data>
+</node>
+<node id="10.1">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.1</data>
+</node>
+<node id="987">
+  <data key="d0">NUMBER</data>
+  <data key="d1">987</data>
+</node>
+<node id="159">
+  <data key="d0">NUMBER</data>
+  <data key="d1">159</data>
+</node>
+<node id="$10.0">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$10.0</data>
+</node>
+<node id="899">
+  <data key="d0">NUMBER</data>
+  <data key="d1">899</data>
+</node>
+<node id="765">
+  <data key="d0">NUMBER</data>
+  <data key="d1">765</data>
+</node>
+<node id="2.100%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.100%</data>
+</node>
+<node id="35">
+  <data key="d0">NUMBER</data>
+  <data key="d1">35</data>
+</node>
+<node id="175">
+  <data key="d0">NUMBER</data>
+  <data key="d1">175</data>
+</node>
+<node id="155">
+  <data key="d0">NUMBER</data>
+  <data key="d1">155</data>
+</node>
+<node id="265">
+  <data key="d0">NUMBER</data>
+  <data key="d1">265</data>
+</node>
+<node id="45">
+  <data key="d0">NUMBER</data>
+  <data key="d1">45</data>
+</node>
+<node id="186">
+  <data key="d0">NUMBER</data>
+  <data key="d1">186</data>
+</node>
+<node id="356">
+  <data key="d0">NUMBER</data>
+  <data key="d1">356</data>
+</node>
+<node id="515">
+  <data key="d0">NUMBER</data>
+  <data key="d1">515</data>
+</node>
+<node id="864">
+  <data key="d0">NUMBER</data>
+  <data key="d1">864</data>
+</node>
+<node id="4.375%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.375%</data>
+</node>
+<node id="346">
+  <data key="d0">NUMBER</data>
+  <data key="d1">346</data>
+</node>
+<node id="932">
+  <data key="d0">NUMBER</data>
+  <data key="d1">932</data>
+</node>
+<node id="179">
+  <data key="d0">NUMBER</data>
+  <data key="d1">179</data>
+</node>
+<node id="367">
+  <data key="d0">NUMBER</data>
+  <data key="d1">367</data>
+</node>
+<node id="$13">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$13</data>
+</node>
+<node id="342">
+  <data key="d0">NUMBER</data>
+  <data key="d1">342</data>
+</node>
+<node id="$53.0">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$53.0</data>
+</node>
+<node id="398">
+  <data key="d0">NUMBER</data>
+  <data key="d1">398</data>
+</node>
+<node id="2.250%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.250%</data>
+</node>
+<node id="3.0%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.0%</data>
+</node>
+<node id="8.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">8.</data>
+</node>
+<node id="7.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">7.</data>
+</node>
+<node id="790">
+  <data key="d0">NUMBER</data>
+  <data key="d1">790</data>
+</node>
+<node id="10.22">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.22</data>
+</node>
+<node id="125">
+  <data key="d0">NUMBER</data>
+  <data key="d1">125</data>
+</node>
+<node id="3.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.</data>
+</node>
+<node id="3.45%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.45%</data>
+</node>
+<node id="$2">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$2</data>
+</node>
+<node id="730">
+  <data key="d0">NUMBER</data>
+  <data key="d1">730</data>
+</node>
+<node id="10.5">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.5</data>
+</node>
+<node id="408">
+  <data key="d0">NUMBER</data>
+  <data key="d1">408</data>
+</node>
+<node id="3.350%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.350%</data>
+</node>
+<node id="9B">
+  <data key="d0">NUMBER</data>
+  <data key="d1">9B</data>
+</node>
+<node id="$15.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$15.8</data>
+</node>
+<node id="2030">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2030</data>
+</node>
+<node id="1.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.</data>
+</node>
+<node id="300">
+  <data key="d0">NUMBER</data>
+  <data key="d1">300</data>
+</node>
+<node id="2019.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2019.</data>
+</node>
+<node id="99">
+  <data key="d0">NUMBER</data>
+  <data key="d1">99</data>
+</node>
+<node id="841">
+  <data key="d0">NUMBER</data>
+  <data key="d1">841</data>
+</node>
+<node id="831">
+  <data key="d0">NUMBER</data>
+  <data key="d1">831</data>
+</node>
+<node id="10.7">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.7</data>
+</node>
+<node id="205">
+  <data key="d0">NUMBER</data>
+  <data key="d1">205</data>
+</node>
+<node id="080">
+  <data key="d0">NUMBER</data>
+  <data key="d1">080</data>
+</node>
+<node id="397">
+  <data key="d0">NUMBER</data>
+  <data key="d1">397</data>
+</node>
+<node id="232.405">
+  <data key="d0">NUMBER</data>
+  <data key="d1">232.405</data>
+</node>
+<node id="005">
+  <data key="d0">NUMBER</data>
+  <data key="d1">005</data>
+</node>
+<node id="030">
+  <data key="d0">NUMBER</data>
+  <data key="d1">030</data>
+</node>
+<node id="786">
+  <data key="d0">NUMBER</data>
+  <data key="d1">786</data>
+</node>
+<node id="519">
+  <data key="d0">NUMBER</data>
+  <data key="d1">519</data>
+</node>
+<node id="$12.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$12.8</data>
+</node>
+<node id="0.550%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">0.550%</data>
+</node>
+<node id="052">
+  <data key="d0">NUMBER</data>
+  <data key="d1">052</data>
+</node>
+<node id="046">
+  <data key="d0">NUMBER</data>
+  <data key="d1">046</data>
+</node>
+<node id="10.21">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.21</data>
+</node>
+<node id="0.03%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">0.03%</data>
+</node>
+<node id="1.625%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.625%</data>
+</node>
+<node id="36.5%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">36.5%</data>
+</node>
+<node id="2.40%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.40%</data>
+</node>
+<node id="1995">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1995</data>
+</node>
+<node id="886">
+  <data key="d0">NUMBER</data>
+  <data key="d1">886</data>
+</node>
+<node id="456">
+  <data key="d0">NUMBER</data>
+  <data key="d1">456</data>
+</node>
+<node id="674">
+  <data key="d0">NUMBER</data>
+  <data key="d1">674</data>
+</node>
+<node id="270">
+  <data key="d0">NUMBER</data>
+  <data key="d1">270</data>
+</node>
+<node id="5.00%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">5.00%</data>
+</node>
+<node id="$18.2">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$18.2</data>
+</node>
+<node id="84">
+  <data key="d0">NUMBER</data>
+  <data key="d1">84</data>
+</node>
+<node id="885">
+  <data key="d0">NUMBER</data>
+  <data key="d1">885</data>
+</node>
+<node id="78">
+  <data key="d0">NUMBER</data>
+  <data key="d1">78</data>
+</node>
+<node id="2.500%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.500%</data>
+</node>
+<node id="344">
+  <data key="d0">NUMBER</data>
+  <data key="d1">344</data>
+</node>
+<node id="172">
+  <data key="d0">NUMBER</data>
+  <data key="d1">172</data>
+</node>
+<node id="2028">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2028</data>
+</node>
+<node id="18.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">18.</data>
+</node>
+<node id="448">
+  <data key="d0">NUMBER</data>
+  <data key="d1">448</data>
+</node>
+<node id="5.28%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">5.28%</data>
+</node>
+<node id="895">
+  <data key="d0">NUMBER</data>
+  <data key="d1">895</data>
+</node>
+<node id="5">
+  <data key="d0">NUMBER</data>
+  <data key="d1">5</data>
+</node>
+<node id="$52.9">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$52.9</data>
+</node>
+<node id="290">
+  <data key="d0">NUMBER</data>
+  <data key="d1">290</data>
+</node>
+<node id="816">
+  <data key="d0">NUMBER</data>
+  <data key="d1">816</data>
+</node>
+<node id="914">
+  <data key="d0">NUMBER</data>
+  <data key="d1">914</data>
+</node>
+<node id="104">
+  <data key="d0">NUMBER</data>
+  <data key="d1">104</data>
+</node>
+<node id="211">
+  <data key="d0">NUMBER</data>
+  <data key="d1">211</data>
+</node>
+<node id="978">
+  <data key="d0">NUMBER</data>
+  <data key="d1">978</data>
+</node>
+<node id="3.2">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.2</data>
+</node>
+<node id="2047.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2047.8</data>
+</node>
+<node id="97.1">
+  <data key="d0">NUMBER</data>
+  <data key="d1">97.1</data>
+</node>
+<node id="778">
+  <data key="d0">NUMBER</data>
+  <data key="d1">778</data>
+</node>
+<node id="$0">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$0</data>
+</node>
+<node id="7">
+  <data key="d0">NUMBER</data>
+  <data key="d1">7</data>
+</node>
+<node id="1.000%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.000%</data>
+</node>
+<node id="10%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10%</data>
+</node>
+<node id="2029">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2029</data>
+</node>
+<node id="562">
+  <data key="d0">NUMBER</data>
+  <data key="d1">562</data>
+</node>
+<node id="334">
+  <data key="d0">NUMBER</data>
+  <data key="d1">334</data>
+</node>
+<node id="314">
+  <data key="d0">NUMBER</data>
+  <data key="d1">314</data>
+</node>
+<node id="1.3">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.3</data>
+</node>
+<node id="3%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3%</data>
+</node>
+<node id="2045.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2045.8</data>
+</node>
+<node id="850">
+  <data key="d0">NUMBER</data>
+  <data key="d1">850</data>
+</node>
+<node id="8%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">8%</data>
+</node>
+<node id="31.2">
+  <data key="d0">NUMBER</data>
+  <data key="d1">31.2</data>
+</node>
+<node id="000">
+  <data key="d0">NUMBER</data>
+  <data key="d1">000</data>
+</node>
+<node id="727">
+  <data key="d0">NUMBER</data>
+  <data key="d1">727</data>
+</node>
+<node id="834">
+  <data key="d0">NUMBER</data>
+  <data key="d1">834</data>
+</node>
+<node id="14.7%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">14.7%</data>
+</node>
+<node id="550">
+  <data key="d0">NUMBER</data>
+  <data key="d1">550</data>
+</node>
+<node id="278">
+  <data key="d0">NUMBER</data>
+  <data key="d1">278</data>
+</node>
+<node id="569">
+  <data key="d0">NUMBER</data>
+  <data key="d1">569</data>
+</node>
+<node id="505">
+  <data key="d0">NUMBER</data>
+  <data key="d1">505</data>
+</node>
+<node id="15%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">15%</data>
+</node>
+<node id="16.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">16.</data>
+</node>
+<node id="823">
+  <data key="d0">NUMBER</data>
+  <data key="d1">823</data>
+</node>
+<node id="4.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.8</data>
+</node>
+<node id="72.12">
+  <data key="d0">NUMBER</data>
+  <data key="d1">72.12</data>
+</node>
+<node id="4.250%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.250%</data>
+</node>
+<node id="910">
+  <data key="d0">NUMBER</data>
+  <data key="d1">910</data>
+</node>
+<node id="$19.5">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$19.5</data>
+</node>
+<node id="106">
+  <data key="d0">NUMBER</data>
+  <data key="d1">106</data>
+</node>
+<node id="996">
+  <data key="d0">NUMBER</data>
+  <data key="d1">996</data>
+</node>
+<node id="322">
+  <data key="d0">NUMBER</data>
+  <data key="d1">322</data>
+</node>
+<node id="442">
+  <data key="d0">NUMBER</data>
+  <data key="d1">442</data>
+</node>
+<node id="$1.0">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$1.0</data>
+</node>
+<node id="148">
+  <data key="d0">NUMBER</data>
+  <data key="d1">148</data>
+</node>
+<node id="200">
+  <data key="d0">NUMBER</data>
+  <data key="d1">200</data>
+</node>
+<node id="2.650%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.650%</data>
+</node>
+<node id="669">
+  <data key="d0">NUMBER</data>
+  <data key="d1">669</data>
+</node>
+<node id="2032">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2032</data>
+</node>
+<node id="2022">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2022</data>
+</node>
+<node id="266">
+  <data key="d0">NUMBER</data>
+  <data key="d1">266</data>
+</node>
+<node id="516">
+  <data key="d0">NUMBER</data>
+  <data key="d1">516</data>
+</node>
+<node id="4.17">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.17</data>
+</node>
+<node id="122">
+  <data key="d0">NUMBER</data>
+  <data key="d1">122</data>
+</node>
+<node id="215">
+  <data key="d0">NUMBER</data>
+  <data key="d1">215</data>
+</node>
+<node id="2017.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2017.</data>
+</node>
+<node id="2025">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2025</data>
+</node>
+<node id="110">
+  <data key="d0">NUMBER</data>
+  <data key="d1">110</data>
+</node>
+<node id="10.13">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.13</data>
+</node>
+<node id="96">
+  <data key="d0">NUMBER</data>
+  <data key="d1">96</data>
+</node>
+<node id="280">
+  <data key="d0">NUMBER</data>
+  <data key="d1">280</data>
+</node>
+<node id="481">
+  <data key="d0">NUMBER</data>
+  <data key="d1">481</data>
+</node>
+<node id="4.28">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.28</data>
+</node>
+<node id="169">
+  <data key="d0">NUMBER</data>
+  <data key="d1">169</data>
+</node>
+<node id="118">
+  <data key="d0">NUMBER</data>
+  <data key="d1">118</data>
+</node>
+<node id="10.6">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.6</data>
+</node>
+<node id="210">
+  <data key="d0">NUMBER</data>
+  <data key="d1">210</data>
+</node>
+<node id="758">
+  <data key="d0">NUMBER</data>
+  <data key="d1">758</data>
+</node>
+<node id="985">
+  <data key="d0">NUMBER</data>
+  <data key="d1">985</data>
+</node>
+<node id="$15.6">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$15.6</data>
+</node>
+<node id="521">
+  <data key="d0">NUMBER</data>
+  <data key="d1">521</data>
+</node>
+<node id="60">
+  <data key="d0">NUMBER</data>
+  <data key="d1">60</data>
+</node>
+<node id="221.39">
+  <data key="d0">NUMBER</data>
+  <data key="d1">221.39</data>
+</node>
+<node id="086">
+  <data key="d0">NUMBER</data>
+  <data key="d1">086</data>
+</node>
+<node id="1474">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1474</data>
+</node>
+<node id="37.2%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">37.2%</data>
+</node>
+<node id="4.21">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.21</data>
+</node>
+<node id="247">
+  <data key="d0">NUMBER</data>
+  <data key="d1">247</data>
+</node>
+<node id="1.25%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.25%</data>
+</node>
+<node id="$200">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$200</data>
+</node>
+<node id="160">
+  <data key="d0">NUMBER</data>
+  <data key="d1">160</data>
+</node>
+<node id="839">
+  <data key="d0">NUMBER</data>
+  <data key="d1">839</data>
+</node>
+<node id="209">
+  <data key="d0">NUMBER</data>
+  <data key="d1">209</data>
+</node>
+<node id="447">
+  <data key="d0">NUMBER</data>
+  <data key="d1">447</data>
+</node>
+<node id="431">
+  <data key="d0">NUMBER</data>
+  <data key="d1">431</data>
+</node>
+<node id="403">
+  <data key="d0">NUMBER</data>
+  <data key="d1">403</data>
+</node>
+<node id="810">
+  <data key="d0">NUMBER</data>
+  <data key="d1">810</data>
+</node>
+<node id="749">
+  <data key="d0">NUMBER</data>
+  <data key="d1">749</data>
+</node>
+<node id="62">
+  <data key="d0">NUMBER</data>
+  <data key="d1">62</data>
+</node>
+<node id="889">
+  <data key="d0">NUMBER</data>
+  <data key="d1">889</data>
+</node>
+<node id="234">
+  <data key="d0">NUMBER</data>
+  <data key="d1">234</data>
+</node>
+<node id="$13.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$13.8</data>
+</node>
+<node id="33">
+  <data key="d0">NUMBER</data>
+  <data key="d1">33</data>
+</node>
+<node id="1">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1</data>
+</node>
+<node id="676">
+  <data key="d0">NUMBER</data>
+  <data key="d1">676</data>
+</node>
+<node id="045">
+  <data key="d0">NUMBER</data>
+  <data key="d1">045</data>
+</node>
+<node id="871">
+  <data key="d0">NUMBER</data>
+  <data key="d1">871</data>
+</node>
+<node id="3.1">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.1</data>
+</node>
+<node id="1.55%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.55%</data>
+</node>
+<node id="832">
+  <data key="d0">NUMBER</data>
+  <data key="d1">832</data>
+</node>
+<node id="$8.7">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$8.7</data>
+</node>
+<node id="1.550%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.550%</data>
+</node>
+<node id="2.000%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.000%</data>
+</node>
+<node id="$10.9">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$10.9</data>
+</node>
+<node id="855">
+  <data key="d0">NUMBER</data>
+  <data key="d1">855</data>
+</node>
+<node id="138">
+  <data key="d0">NUMBER</data>
+  <data key="d1">138</data>
+</node>
+<node id="49">
+  <data key="d0">NUMBER</data>
+  <data key="d1">49</data>
+</node>
+<node id="$400">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$400</data>
+</node>
+<node id="471">
+  <data key="d0">NUMBER</data>
+  <data key="d1">471</data>
+</node>
+<node id="095">
+  <data key="d0">NUMBER</data>
+  <data key="d1">095</data>
+</node>
+<node id="44.1%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">44.1%</data>
+</node>
+<node id="2015">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2015</data>
+</node>
+<node id="572">
+  <data key="d0">NUMBER</data>
+  <data key="d1">572</data>
+</node>
+<node id="18">
+  <data key="d0">NUMBER</data>
+  <data key="d1">18</data>
+</node>
+<node id="402">
+  <data key="d0">NUMBER</data>
+  <data key="d1">402</data>
+</node>
+<node id="10.15">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.15</data>
+</node>
+<node id="192">
+  <data key="d0">NUMBER</data>
+  <data key="d1">192</data>
+</node>
+<node id="2016">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2016</data>
+</node>
+<node id="46">
+  <data key="d0">NUMBER</data>
+  <data key="d1">46</data>
+</node>
+<node id="4.6">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.6</data>
+</node>
+<node id="1B">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1B</data>
+</node>
+<node id="971">
+  <data key="d0">NUMBER</data>
+  <data key="d1">971</data>
+</node>
+<node id="23%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">23%</data>
+</node>
+<node id="129">
+  <data key="d0">NUMBER</data>
+  <data key="d1">129</data>
+</node>
+<node id="589">
+  <data key="d0">NUMBER</data>
+  <data key="d1">589</data>
+</node>
+<node id="253">
+  <data key="d0">NUMBER</data>
+  <data key="d1">253</data>
+</node>
+<node id="6.65%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">6.65%</data>
+</node>
+<node id="634">
+  <data key="d0">NUMBER</data>
+  <data key="d1">634</data>
+</node>
+<node id="820">
+  <data key="d0">NUMBER</data>
+  <data key="d1">820</data>
+</node>
+<node id="374">
+  <data key="d0">NUMBER</data>
+  <data key="d1">374</data>
+</node>
+<node id="37">
+  <data key="d0">NUMBER</data>
+  <data key="d1">37</data>
+</node>
+<node id="68">
+  <data key="d0">NUMBER</data>
+  <data key="d1">68</data>
+</node>
+<node id="912">
+  <data key="d0">NUMBER</data>
+  <data key="d1">912</data>
+</node>
+<node id="241">
+  <data key="d0">NUMBER</data>
+  <data key="d1">241</data>
+</node>
+<node id="980">
+  <data key="d0">NUMBER</data>
+  <data key="d1">980</data>
+</node>
+<node id="062">
+  <data key="d0">NUMBER</data>
+  <data key="d1">062</data>
+</node>
+<node id="53">
+  <data key="d0">NUMBER</data>
+  <data key="d1">53</data>
+</node>
+<node id="2020.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2020.</data>
+</node>
+<node id="2023.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2023.</data>
+</node>
+<node id="282">
+  <data key="d0">NUMBER</data>
+  <data key="d1">282</data>
+</node>
+<node id="29">
+  <data key="d0">NUMBER</data>
+  <data key="d1">29</data>
+</node>
+<node id="$15.9">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$15.9</data>
+</node>
+<node id="226986">
+  <data key="d0">NUMBER</data>
+  <data key="d1">226986</data>
+</node>
+<node id="846">
+  <data key="d0">NUMBER</data>
+  <data key="d1">846</data>
+</node>
+<node id="88">
+  <data key="d0">NUMBER</data>
+  <data key="d1">88</data>
+</node>
+<node id="551">
+  <data key="d0">NUMBER</data>
+  <data key="d1">551</data>
+</node>
+<node id="181">
+  <data key="d0">NUMBER</data>
+  <data key="d1">181</data>
+</node>
+<node id="2031.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2031.8</data>
+</node>
+<node id="100%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">100%</data>
+</node>
+<node id="222.86">
+  <data key="d0">NUMBER</data>
+  <data key="d1">222.86</data>
+</node>
+<node id="103">
+  <data key="d0">NUMBER</data>
+  <data key="d1">103</data>
+</node>
+<node id="694">
+  <data key="d0">NUMBER</data>
+  <data key="d1">694</data>
+</node>
+<node id="573">
+  <data key="d0">NUMBER</data>
+  <data key="d1">573</data>
+</node>
+<node id="048">
+  <data key="d0">NUMBER</data>
+  <data key="d1">048</data>
+</node>
+<node id="1.400%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.400%</data>
+</node>
+<node id="672">
+  <data key="d0">NUMBER</data>
+  <data key="d1">672</data>
+</node>
+<node id="240.10">
+  <data key="d0">NUMBER</data>
+  <data key="d1">240.10</data>
+</node>
+<node id="40">
+  <data key="d0">NUMBER</data>
+  <data key="d1">40</data>
+</node>
+<node id="341">
+  <data key="d0">NUMBER</data>
+  <data key="d1">341</data>
+</node>
+<node id="094">
+  <data key="d0">NUMBER</data>
+  <data key="d1">094</data>
+</node>
+<node id="1991">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1991</data>
+</node>
+<node id="423">
+  <data key="d0">NUMBER</data>
+  <data key="d1">423</data>
+</node>
+<node id="1.200%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.200%</data>
+</node>
+<node id="38">
+  <data key="d0">NUMBER</data>
+  <data key="d1">38</data>
+</node>
+<node id="36743">
+  <data key="d0">NUMBER</data>
+  <data key="d1">36743</data>
+</node>
+<node id="2.800%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.800%</data>
+</node>
+<node id="164">
+  <data key="d0">NUMBER</data>
+  <data key="d1">164</data>
+</node>
+<node id="664">
+  <data key="d0">NUMBER</data>
+  <data key="d1">664</data>
+</node>
+<node id="372">
+  <data key="d0">NUMBER</data>
+  <data key="d1">372</data>
+</node>
+<node id="0.000%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">0.000%</data>
+</node>
+<node id="97.31">
+  <data key="d0">NUMBER</data>
+  <data key="d1">97.31</data>
+</node>
+<node id="553">
+  <data key="d0">NUMBER</data>
+  <data key="d1">553</data>
+</node>
+<node id="2.375%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.375%</data>
+</node>
+<node id="143">
+  <data key="d0">NUMBER</data>
+  <data key="d1">143</data>
+</node>
+<node id="984">
+  <data key="d0">NUMBER</data>
+  <data key="d1">984</data>
+</node>
+<node id="206">
+  <data key="d0">NUMBER</data>
+  <data key="d1">206</data>
+</node>
+<node id="455">
+  <data key="d0">NUMBER</data>
+  <data key="d1">455</data>
+</node>
+<node id="180">
+  <data key="d0">NUMBER</data>
+  <data key="d1">180</data>
+</node>
+<node id="075">
+  <data key="d0">NUMBER</data>
+  <data key="d1">075</data>
+</node>
+<node id="1.2">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="4.150%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.150%</data>
+</node>
+<node id="016">
+  <data key="d0">NUMBER</data>
+  <data key="d1">016</data>
+</node>
+<node id="508">
+  <data key="d0">NUMBER</data>
+  <data key="d1">508</data>
+</node>
+<node id="10.17">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.17</data>
+</node>
+<node id="949">
+  <data key="d0">NUMBER</data>
+  <data key="d1">949</data>
+</node>
+<node id="890">
+  <data key="d0">NUMBER</data>
+  <data key="d1">890</data>
+</node>
+<node id="6">
+  <data key="d0">NUMBER</data>
+  <data key="d1">6</data>
+</node>
+<node id="369">
+  <data key="d0">NUMBER</data>
+  <data key="d1">369</data>
+</node>
+<node id="246">
+  <data key="d0">NUMBER</data>
+  <data key="d1">246</data>
+</node>
+<node id="25%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">25%</data>
+</node>
+<node id="958">
+  <data key="d0">NUMBER</data>
+  <data key="d1">958</data>
+</node>
+<node id="1934">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1934</data>
+</node>
+<node id="12">
+  <data key="d0">NUMBER</data>
+  <data key="d1">12</data>
+</node>
+<node id="10.20">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.20</data>
+</node>
+<node id="670">
+  <data key="d0">NUMBER</data>
+  <data key="d1">670</data>
+</node>
+<node id="657">
+  <data key="d0">NUMBER</data>
+  <data key="d1">657</data>
+</node>
+<node id="842">
+  <data key="d0">NUMBER</data>
+  <data key="d1">842</data>
+</node>
+<node id="12.7">
+  <data key="d0">NUMBER</data>
+  <data key="d1">12.7</data>
+</node>
+<node id="1.800%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.800%</data>
+</node>
+<node id="343">
+  <data key="d0">NUMBER</data>
+  <data key="d1">343</data>
+</node>
+<node id="$6.4">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$6.4</data>
+</node>
+<node id="386">
+  <data key="d0">NUMBER</data>
+  <data key="d1">386</data>
+</node>
+<node id="16.2%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">16.2%</data>
+</node>
+<node id="076">
+  <data key="d0">NUMBER</data>
+  <data key="d1">076</data>
+</node>
+<node id="7262">
+  <data key="d0">NUMBER</data>
+  <data key="d1">7262</data>
+</node>
+<node id="190">
+  <data key="d0">NUMBER</data>
+  <data key="d1">190</data>
+</node>
+<node id="688">
+  <data key="d0">NUMBER</data>
+  <data key="d1">688</data>
+</node>
+<node id="249">
+  <data key="d0">NUMBER</data>
+  <data key="d1">249</data>
+</node>
+<node id="542">
+  <data key="d0">NUMBER</data>
+  <data key="d1">542</data>
+</node>
+<node id="67">
+  <data key="d0">NUMBER</data>
+  <data key="d1">67</data>
+</node>
+<node id="893">
+  <data key="d0">NUMBER</data>
+  <data key="d1">893</data>
+</node>
+<node id="196">
+  <data key="d0">NUMBER</data>
+  <data key="d1">196</data>
+</node>
+<node id="1.00%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.00%</data>
+</node>
+<node id="2046.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2046.8</data>
+</node>
+<node id="478">
+  <data key="d0">NUMBER</data>
+  <data key="d1">478</data>
+</node>
+<node id="10.16">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.16</data>
+</node>
+<node id="20%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">20%</data>
+</node>
+<node id="4.850%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.850%</data>
+</node>
+<node id="615">
+  <data key="d0">NUMBER</data>
+  <data key="d1">615</data>
+</node>
+<node id="359">
+  <data key="d0">NUMBER</data>
+  <data key="d1">359</data>
+</node>
+<node id="457">
+  <data key="d0">NUMBER</data>
+  <data key="d1">457</data>
+</node>
+<node id="$13.2">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$13.2</data>
+</node>
+<node id="132">
+  <data key="d0">NUMBER</data>
+  <data key="d1">132</data>
+</node>
+<node id="173">
+  <data key="d0">NUMBER</data>
+  <data key="d1">173</data>
+</node>
+<node id="1.900%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.900%</data>
+</node>
+<node id="705">
+  <data key="d0">NUMBER</data>
+  <data key="d1">705</data>
+</node>
+<node id="963">
+  <data key="d0">NUMBER</data>
+  <data key="d1">963</data>
+</node>
+<node id="136">
+  <data key="d0">NUMBER</data>
+  <data key="d1">136</data>
+</node>
+<node id="2014.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2014.</data>
+</node>
+<node id="2014">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2014</data>
+</node>
+<node id="644">
+  <data key="d0">NUMBER</data>
+  <data key="d1">644</data>
+</node>
+<node id="4.000%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.000%</data>
+</node>
+<node id="22">
+  <data key="d0">NUMBER</data>
+  <data key="d1">22</data>
+</node>
+<node id="15.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">15.</data>
+</node>
+<node id="731">
+  <data key="d0">NUMBER</data>
+  <data key="d1">731</data>
+</node>
+<node id="2060.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2060.8</data>
+</node>
+<node id="93">
+  <data key="d0">NUMBER</data>
+  <data key="d1">93</data>
+</node>
+<node id="10.9">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.9</data>
+</node>
+<node id="131">
+  <data key="d0">NUMBER</data>
+  <data key="d1">131</data>
+</node>
+<node id="741">
+  <data key="d0">NUMBER</data>
+  <data key="d1">741</data>
+</node>
+<node id="113">
+  <data key="d0">NUMBER</data>
+  <data key="d1">113</data>
+</node>
+<node id="46.2%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">46.2%</data>
+</node>
+<node id="6%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">6%</data>
+</node>
+<node id="993">
+  <data key="d0">NUMBER</data>
+  <data key="d1">993</data>
+</node>
+<node id="0.875%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">0.875%</data>
+</node>
+<node id="622">
+  <data key="d0">NUMBER</data>
+  <data key="d1">622</data>
+</node>
+<node id="800">
+  <data key="d0">NUMBER</data>
+  <data key="d1">800</data>
+</node>
+<node id="544">
+  <data key="d0">NUMBER</data>
+  <data key="d1">544</data>
+</node>
+<node id="326">
+  <data key="d0">NUMBER</data>
+  <data key="d1">326</data>
+</node>
+<node id="2016.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2016.8</data>
+</node>
+<node id="635">
+  <data key="d0">NUMBER</data>
+  <data key="d1">635</data>
+</node>
+<node id="1.05%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1.05%</data>
+</node>
+<node id="224.11">
+  <data key="d0">NUMBER</data>
+  <data key="d1">224.11</data>
+</node>
+<node id="32">
+  <data key="d0">NUMBER</data>
+  <data key="d1">32</data>
+</node>
+<node id="828">
+  <data key="d0">NUMBER</data>
+  <data key="d1">828</data>
+</node>
+<node id="20.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">20.</data>
+</node>
+<node id="2019">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2019</data>
+</node>
+<node id="173.78">
+  <data key="d0">NUMBER</data>
+  <data key="d1">173.78</data>
+</node>
+<node id="00">
+  <data key="d0">NUMBER</data>
+  <data key="d1">00</data>
+</node>
+<node id="23.1">
+  <data key="d0">NUMBER</data>
+  <data key="d1">23.1</data>
+</node>
+<node id="2052">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2052</data>
+</node>
+<node id="62%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">62%</data>
+</node>
+<node id="70.8%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">70.8%</data>
+</node>
+<node id="2404110">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2404110</data>
+</node>
+<node id="76">
+  <data key="d0">NUMBER</data>
+  <data key="d1">76</data>
+</node>
+<node id="2042.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2042.8</data>
+</node>
+<node id="4.16">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.16</data>
+</node>
+<node id="22.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">22.</data>
+</node>
+<node id="6.08">
+  <data key="d0">NUMBER</data>
+  <data key="d1">6.08</data>
+</node>
+<node id="31">
+  <data key="d0">NUMBER</data>
+  <data key="d1">31</data>
+</node>
+<node id="281">
+  <data key="d0">NUMBER</data>
+  <data key="d1">281</data>
+</node>
+<node id="467">
+  <data key="d0">NUMBER</data>
+  <data key="d1">467</data>
+</node>
+<node id="915">
+  <data key="d0">NUMBER</data>
+  <data key="d1">915</data>
+</node>
+<node id="272">
+  <data key="d0">NUMBER</data>
+  <data key="d1">272</data>
+</node>
+<node id="611">
+  <data key="d0">NUMBER</data>
+  <data key="d1">611</data>
+</node>
+<node id="$4.8">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$4.8</data>
+</node>
+<node id="2.50%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.50%</data>
+</node>
+<node id="16">
+  <data key="d0">NUMBER</data>
+  <data key="d1">16</data>
+</node>
+<node id="137">
+  <data key="d0">NUMBER</data>
+  <data key="d1">137</data>
+</node>
+<node id="2009.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2009.</data>
+</node>
+<node id="2036">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2036</data>
+</node>
+<node id="2062">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2062</data>
+</node>
+<node id="$3.6">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$3.6</data>
+</node>
+<node id="24">
+  <data key="d0">NUMBER</data>
+  <data key="d1">24</data>
+</node>
+<node id="121">
+  <data key="d0">NUMBER</data>
+  <data key="d1">121</data>
+</node>
+<node id="163">
+  <data key="d0">NUMBER</data>
+  <data key="d1">163</data>
+</node>
+<node id="168">
+  <data key="d0">NUMBER</data>
+  <data key="d1">168</data>
+</node>
+<node id="$12.0">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$12.0</data>
+</node>
+<node id="185">
+  <data key="d0">NUMBER</data>
+  <data key="d1">185</data>
+</node>
+<node id="2022.10">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2022.10</data>
+</node>
+<node id="147">
+  <data key="d0">NUMBER</data>
+  <data key="d1">147</data>
+</node>
+<node id="636">
+  <data key="d0">NUMBER</data>
+  <data key="d1">636</data>
+</node>
+<node id="26">
+  <data key="d0">NUMBER</data>
+  <data key="d1">26</data>
+</node>
+<node id="294">
+  <data key="d0">NUMBER</data>
+  <data key="d1">294</data>
+</node>
+<node id="187">
+  <data key="d0">NUMBER</data>
+  <data key="d1">187</data>
+</node>
+<node id="11">
+  <data key="d0">NUMBER</data>
+  <data key="d1">11</data>
+</node>
+<node id="Apple Inc">
+  <data key="d0">ORG</data>
+  <data key="d1">Apple Inc</data>
+</node>
+<node id="The Nasdaq Stock Market LLC">
+  <data key="d0">ORG</data>
+  <data key="d1">The Nasdaq Stock Market LLC</data>
+</node>
+<node id="Period End &#10;Date&#10;Apple Inc">
+  <data key="d0">ORG</data>
+  <data key="d1">Period End 
+Date
+Apple Inc</data>
+</node>
+<node id="Google &#10;LLC">
+  <data key="d0">ORG</data>
+  <data key="d1">Google 
+LLC</data>
+</node>
+<node id="Technology Supersector Index&#10;Apple Inc">
+  <data key="d0">ORG</data>
+  <data key="d1">Technology Supersector Index
+Apple Inc</data>
+</node>
+<node id="Apple &#10;Inc">
+  <data key="d0">ORG</data>
+  <data key="d1">Apple 
+Inc</data>
+</node>
+<node id="Incorporation&#10;Apple Asia Limited Hong Kong&#10;Apple Asia LLC">
+  <data key="d0">ORG</data>
+  <data key="d1">Incorporation
+Apple Asia Limited Hong Kong
+Apple Asia LLC</data>
+</node>
+<node id="Among Apple Inc">
+  <data key="d0">ORG</data>
+  <data key="d1">Among Apple Inc</data>
+</node>
+<node id="Apple Canada Inc">
+  <data key="d0">ORG</data>
+  <data key="d1">Apple Canada Inc</data>
+</node>
+<node id="Employee Stock Plan&#10;The Apple Inc">
+  <data key="d0">ORG</data>
+  <data key="d1">Employee Stock Plan
+The Apple Inc</data>
+</node>
+<node id="August 29, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">August 29, 2024</data>
+</node>
+<node id="November  1, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">November  1, 2024</data>
+</node>
+<node id="November 15, 2025">
+  <data key="d0">DATE</data>
+  <data key="d1">November 15, 2025</data>
+</node>
+<node id="September 28, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">September 28, 2024</data>
+</node>
+<node id="November 1, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">November 1, 2024</data>
+</node>
+<node id="February 9, 2015">
+  <data key="d0">DATE</data>
+  <data key="d1">February 9, 2015</data>
+</node>
+<node id="November 15, 2020">
+  <data key="d0">DATE</data>
+  <data key="d1">November 15, 2020</data>
+</node>
+<node id="August 20, 2020">
+  <data key="d0">DATE</data>
+  <data key="d1">August 20, 2020</data>
+</node>
+<node id="March 25, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">March 25, 2024</data>
+</node>
+<node id="November 15, 2019">
+  <data key="d0">DATE</data>
+  <data key="d1">November 15, 2019</data>
+</node>
+<node id="June 20, 2017">
+  <data key="d0">DATE</data>
+  <data key="d1">June 20, 2017</data>
+</node>
+<node id="August 8, 2022">
+  <data key="d0">DATE</data>
+  <data key="d1">August 8, 2022</data>
+</node>
+<node id="February 23, 2016">
+  <data key="d0">DATE</data>
+  <data key="d1">February 23, 2016</data>
+</node>
+<node id="September 11, 2019">
+  <data key="d0">DATE</data>
+  <data key="d1">September 11, 2019</data>
+</node>
+<node id="May 24, 2025">
+  <data key="d0">DATE</data>
+  <data key="d1">May 24, 2025</data>
+</node>
+<node id="September 1, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">September 1, 2024</data>
+</node>
+<node id="September 27, 2020">
+  <data key="d0">DATE</data>
+  <data key="d1">September 27, 2020</data>
+</node>
+<node id="November 9, 2021">
+  <data key="d0">DATE</data>
+  <data key="d1">November 9, 2021</data>
+</node>
+<node id="September 29, 2019">
+  <data key="d0">DATE</data>
+  <data key="d1">September 29, 2019</data>
+</node>
+<node id="August 31, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">August 31, 2024</data>
+</node>
+<node id="December 15, 2025">
+  <data key="d0">DATE</data>
+  <data key="d1">December 15, 2025</data>
+</node>
+<node id="March 4, 2022">
+  <data key="d0">DATE</data>
+  <data key="d1">March 4, 2022</data>
+</node>
+<node id="August 15, 2025">
+  <data key="d0">DATE</data>
+  <data key="d1">August 15, 2025</data>
+</node>
+<node id="September 30, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">September 30, 2024</data>
+</node>
+<node id="May 6, 2014">
+  <data key="d0">DATE</data>
+  <data key="d1">May 6, 2014</data>
+</node>
+<node id="August 27, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">August 27, 2024</data>
+</node>
+<node id="November 10, 2015">
+  <data key="d0">DATE</data>
+  <data key="d1">November 10, 2015</data>
+</node>
+<node id="October 28, 2021">
+  <data key="d0">DATE</data>
+  <data key="d1">October 28, 2021</data>
+</node>
+<node id="September 30, &#10;2023">
+  <data key="d0">DATE</data>
+  <data key="d1">September 30, 
+2023</data>
+</node>
+<node id="September 17, 2027">
+  <data key="d0">DATE</data>
+  <data key="d1">September 17, 2027</data>
+</node>
+<node id="May 13, 2015">
+  <data key="d0">DATE</data>
+  <data key="d1">May 13, 2015</data>
+</node>
+<node id="July 31, 2029">
+  <data key="d0">DATE</data>
+  <data key="d1">July 31, 2029</data>
+</node>
+<node id="October 1, 2025">
+  <data key="d0">DATE</data>
+  <data key="d1">October 1, 2025</data>
+</node>
+<node id="June 30, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">June 30, 2024</data>
+</node>
+<node id="May &#10;23, 2023">
+  <data key="d0">DATE</data>
+  <data key="d1">May 
+23, 2023</data>
+</node>
+<node id="September 24, 2022">
+  <data key="d0">DATE</data>
+  <data key="d1">September 24, 2022</data>
+</node>
+<node id="March 10, 2015">
+  <data key="d0">DATE</data>
+  <data key="d1">March 10, 2015</data>
+</node>
+<node id="December 31, 2026">
+  <data key="d0">DATE</data>
+  <data key="d1">December 31, 2026</data>
+</node>
+<node id="March &#10;24, 2016">
+  <data key="d0">DATE</data>
+  <data key="d1">March 
+24, 2016</data>
+</node>
+<node id="May 24, 2017">
+  <data key="d0">DATE</data>
+  <data key="d1">May 24, 2017</data>
+</node>
+<node id="October 2, 2023">
+  <data key="d0">DATE</data>
+  <data key="d1">October 2, 2023</data>
+</node>
+<node id="September  30, 2023">
+  <data key="d0">DATE</data>
+  <data key="d1">September  30, 2023</data>
+</node>
+<node id="September  28, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">September  28, 2024</data>
+</node>
+<node id="February 8, 2021">
+  <data key="d0">DATE</data>
+  <data key="d1">February 8, 2021</data>
+</node>
+<node id="April 29, 2013">
+  <data key="d0">DATE</data>
+  <data key="d1">April 29, 2013</data>
+</node>
+<node id="May 11, 2017">
+  <data key="d0">DATE</data>
+  <data key="d1">May 11, 2017</data>
+</node>
+<node id="August 5, 2021">
+  <data key="d0">DATE</data>
+  <data key="d1">August 5, 2021</data>
+</node>
+<node id="September 30, &#10;2023">
+  <data key="d0">DATE</data>
+  <data key="d1">September 30, 
+2023</data>
+</node>
+<node id="September 28, &#10;2024">
+  <data key="d0">DATE</data>
+  <data key="d1">September 28, 
+2024</data>
+</node>
+<node id="May 3, 2013">
+  <data key="d0">DATE</data>
+  <data key="d1">May 3, 2013</data>
+</node>
+<node id="August 18, 2020">
+  <data key="d0">DATE</data>
+  <data key="d1">August 18, 2020</data>
+</node>
+<node id="January 31, 2016">
+  <data key="d0">DATE</data>
+  <data key="d1">January 31, 2016</data>
+</node>
+<node id="February &#10;24, 2029">
+  <data key="d0">DATE</data>
+  <data key="d1">February 
+24, 2029</data>
+</node>
+<node id="April 1, 2025">
+  <data key="d0">DATE</data>
+  <data key="d1">April 1, 2025</data>
+</node>
+<node id="August 3, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">August 3, 2024</data>
+</node>
+<node id="September 30, 2023">
+  <data key="d0">DATE</data>
+  <data key="d1">September 30, 2023</data>
+</node>
+<node id="September 25, 2021">
+  <data key="d0">DATE</data>
+  <data key="d1">September 25, 2021</data>
+</node>
+<node id="August 4, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">August 4, 2024</data>
+</node>
+<node id="August 20, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">August 20, 2024</data>
+</node>
+<node id="November 1, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">November 1, 2024</data>
+</node>
+<node id="September 17, 2015">
+  <data key="d0">DATE</data>
+  <data key="d1">September 17, 2015</data>
+</node>
+<node id="August 4, 2016">
+  <data key="d0">DATE</data>
+  <data key="d1">August 4, 2016</data>
+</node>
+<node id="May 11, 2020">
+  <data key="d0">DATE</data>
+  <data key="d1">May 11, 2020</data>
+</node>
+<node id="November 10, 2014">
+  <data key="d0">DATE</data>
+  <data key="d1">November 10, 2014</data>
+</node>
+<node id="November 10, 2026">
+  <data key="d0">DATE</data>
+  <data key="d1">November 10, 2026</data>
+</node>
+<node id="February 24, 2025">
+  <data key="d0">DATE</data>
+  <data key="d1">February 24, 2025</data>
+</node>
+<node id="July 15, 2020">
+  <data key="d0">DATE</data>
+  <data key="d1">July 15, 2020</data>
+</node>
+<node id="June 24, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">June 24, 2024</data>
+</node>
+<node id="February 13, 2018">
+  <data key="d0">DATE</data>
+  <data key="d1">February 13, 2018</data>
+</node>
+<node id="July 31, 2015">
+  <data key="d0">DATE</data>
+  <data key="d1">July 31, 2015</data>
+</node>
+<node id="May 24, 2018">
+  <data key="d0">DATE</data>
+  <data key="d1">May 24, 2018</data>
+</node>
+<node id="September 25, 2022">
+  <data key="d0">DATE</data>
+  <data key="d1">September 25, 2022</data>
+</node>
+<node id="September 29, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">September 29, 2024</data>
+</node>
+<node id="September 10, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">September 10, 2024</data>
+</node>
+<node id="September 26, 2017">
+  <data key="d0">DATE</data>
+  <data key="d1">September 26, 2017</data>
+</node>
+<node id="July 31, 2042">
+  <data key="d0">DATE</data>
+  <data key="d1">July 31, 2042</data>
+</node>
+<node id="September 17, 2016">
+  <data key="d0">DATE</data>
+  <data key="d1">September 17, 2016</data>
+</node>
+<node id="March 29, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">March 29, 2024</data>
+</node>
+<node id="November 15, 2031">
+  <data key="d0">DATE</data>
+  <data key="d1">November 15, 2031</data>
+</node>
+<node id="September 28, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">September 28, 2024</data>
+</node>
+<node id="March 21, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">March 21, 2024</data>
+</node>
+<node id="November 5, 2018">
+  <data key="d0">DATE</data>
+  <data key="d1">November 5, 2018</data>
+</node>
+<node id="October 1, &#10;2017">
+  <data key="d0">DATE</data>
+  <data key="d1">October 1, 
+2017</data>
+</node>
+<node id="September 27, 2019">
+  <data key="d0">DATE</data>
+  <data key="d1">September 27, 2019</data>
+</node>
+<node id="September 12, 2017">
+  <data key="d0">DATE</data>
+  <data key="d1">September 12, 2017</data>
+</node>
+<node id="August 15, 2031">
+  <data key="d0">DATE</data>
+  <data key="d1">August 15, 2031</data>
+</node>
+<node id="September 30, 2023">
+  <data key="d0">DATE</data>
+  <data key="d1">September 30, 2023</data>
+</node>
+<node id="October 18, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">October 18, 2024</data>
+</node>
+<node id="February 9, 2017">
+  <data key="d0">DATE</data>
+  <data key="d1">February 9, 2017</data>
+</node>
+<node id="January 16, &#10;2024">
+  <data key="d0">DATE</data>
+  <data key="d1">January 16, 
+2024</data>
+</node>
+<node id="September 24, 2022">
+  <data key="d0">DATE</data>
+  <data key="d1">September 24, 2022</data>
+</node>
+<node id="September 25, 2021">
+  <data key="d0">DATE</data>
+  <data key="d1">September 25, 2021</data>
+</node>
+<node id="August 3, 2020">
+  <data key="d0">DATE</data>
+  <data key="d1">August 3, 2020</data>
+</node>
+<node id="May 2, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">May 2, 2024</data>
+</node>
+<node id="September 25, 2020">
+  <data key="d0">DATE</data>
+  <data key="d1">September 25, 2020</data>
+</node>
+<node id="August 21, 2018">
+  <data key="d0">DATE</data>
+  <data key="d1">August 21, 2018</data>
+</node>
+<node id="May 24, 2029">
+  <data key="d0">DATE</data>
+  <data key="d1">May 24, 2029</data>
+</node>
+<node id="May 10, 2023">
+  <data key="d0">DATE</data>
+  <data key="d1">May 10, 2023</data>
+</node>
+<node id="November 13, 2017">
+  <data key="d0">DATE</data>
+  <data key="d1">November 13, 2017</data>
+</node>
+<node id="also lead to"/>
+<node id="credit and collectibility"/>
+<node id="restrictions can be"/>
+<node id="with little or"/>
+<node id="investigations, has generally"/>
+<node id="over time and"/>
+<node id="to potential liabilities,"/>
+<node id="costs and other"/>
+<node id="business may be"/>
+<node id="costs, reputational harm,"/>
+<node id="of the company’s"/>
+<node id="goals and initiatives"/>
+<node id="will achieve its"/>
+<node id="environmental, social and"/>
+<node id="to such pressures;"/>
+<node id="competition; the company’s"/>
+<node id="2024, the commission"/>
+<node id="that it had"/>
+<node id="part of publicly"/>
+<node id="plans or programsapproximate"/>
+<node id="share repurchase program"/>
+<node id="on may 2,"/>
+<node id="americas net sales"/>
+<node id="during 2024 compared"/>
+<node id="europe net sales"/>
+<node id="china net sales"/>
+<node id="japan net sales"/>
+<node id="pacific net sales"/>
+<node id="mac net sales"/>
+<node id="ipad net sales"/>
+<node id="accessories net sales"/>
+<node id="services net sales"/>
+<node id="gross margin percentage"/>
+<node id="services gross margin"/>
+<node id="and administrative expense"/>
+<node id="$1"/>
+<node id=", the company"/>
+<node id="a new share"/>
+<node id="2024, the ecj"/>
+<node id="amendment is 6"/>
+<node id="or becomes effective"/>
+<node id="investigated, and p"/>
+<node id="cuted"/>
+<node id="not been publicly"/>
+<node id="and that could"/>
+<edge source="also lead to" target="credit and collectibility">
+  <data key="d2">increased</data>
+  <data key="d3">Adverse economic conditions can also lead to increased credit and collectibility risk on the Company’s trade receivables; the 
+failure of derivative counterparties and other financial institutions; limitations on the Company’s ability to issue new debt; reduced 
+liquidity; and declines in the fair values of the Company’s financial instruments</data>
+</edge>
+<edge source="restrictions can be" target="with little or">
+  <data key="d2">announced</data>
+  <data key="d3">Such restrictions can be announced with little or no advance notice, which can create uncertainty, and the Company 
+may not be able to effectively mitigate all adverse impacts from such measures</data>
+</edge>
+<edge source="investigations, has generally" target="over time and">
+  <data key="d2">increased</data>
+  <data key="d3">The number of claims, legal proceedings and government 
+investigations involving the Company, and the alleged magnitude of such claims, proceedings and government investigations, 
+has generally increased over time and may continue to increase</data>
+</edge>
+<edge source="to potential liabilities," target="costs and other">
+  <data key="d2">increased</data>
+  <data key="d3">The Company is subject to complex and changing laws and regulations worldwide, which exposes the Company to 
+potential liabilities, increased costs and other adverse effects on the Company’s business</data>
+</edge>
+<edge source="to potential liabilities," target="costs, reputational harm,">
+  <data key="d2">increased</data>
+  <data key="d3">Expectations relating to environmental, social and governance considerations and related reporting obligations expose 
+the Company to potential liabilities, increased costs, reputational harm, and other adverse effects on the Company’s 
+business</data>
+</edge>
+<edge source="business may be" target="with little or">
+  <data key="d2">announced</data>
+  <data key="d3">| 2024  Form 10-K | 13
+
+Regulatory changes and other actions that materially adversely affect the Company’s business may be announced with little or 
+no advance notice and the Company may not be able to effectively mitigate all adverse impacts from such measures</data>
+</edge>
+<edge source="of the company’s" target="goals and initiatives">
+  <data key="d2">announced</data>
+  <data key="d3">Responding to these environmental, social and governance considerations and implementation of the 
+Company’s announced goals and initiatives involves risks and uncertainties, requires investments, and depends in part on third-
+party performance or data that is outside the Company’s control</data>
+</edge>
+<edge source="will achieve its" target="environmental, social and">
+  <data key="d2">announced</data>
+  <data key="d3">The Company cannot guarantee that it will achieve its 
+announced environmental, social and governance goals and initiatives</data>
+</edge>
+<edge source="to such pressures;" target="competition; the company’s">
+  <data key="d2">increased</data>
+  <data key="d3">The Company’s gross 
+margins are subject to volatility and downward pressure due to a variety of factors, including: continued industry-wide global 
+product pricing pressures and product pricing actions that the Company may take in response to such pressures; increased 
+competition; the Company’s ability to effectively stimulate demand for certain of its products and services; compressed product 
+life cycles; supply shortages; potential increases in the cost of components, outside manufacturing services, and developing, 
+acquiring and delivering content for the Company’s services; the Company’s ability to manage product quality and warranty costs 
+effectively; shifts in the mix of products and services, or in the geographic, currency or channel mix, including to the extent that 
+regulatory changes require the Company to modify its product and service offerings; fluctuations in foreign exchange rates; 
+inflation and other macroeconomic pressures; and the introduction of new products or services, including new products or 
+services with lower profit margins</data>
+</edge>
+<edge source="2024, the commission" target="that it had">
+  <data key="d2">announced</data>
+  <data key="d3">Legal Pr oceedings
+Digital Markets Act Investigations
+On March 25, 2024, the Commission announced that it had opened two formal noncompliance investigations against the 
+Company under the DMA</data>
+</edge>
+<edge source="part of publicly" target="plans or programsapproximate">
+  <data key="d2">announced</data>
+  <data key="d3">Purchases  of Equity Securities by the Issuer and Affiliated Purchasers
+Share repurchase activity during the three months ended September  28, 2024  was as follows (in millions, except number of 
+shares, which are reflected in thousands, and per-share amounts):
+PeriodsTotal Number
+of Shares 
+PurchasedAverage 
+Price
+Paid Per 
+ShareTotal Number 
+of Shares
+Purchased as 
+Part of Publicly
+Announced 
+Plans or 
+ProgramsApproximate 
+Dollar Value of
+Shares That May 
+Yet Be Purchased
+Under the Plans 
+or Programs (1)
+June 30, 2024 to August 3, 2024:
+Open market and privately negotiated purchases  35,697 $ 224</data>
+</edge>
+<edge source="share repurchase program" target="on may 2,">
+  <data key="d2">announced</data>
+  <data key="d3">86  33,653 
+Total  112,260 $ 89,074 
+(1) As of September 28, 2024 , the Company was authorized by the Board to purchase up to $110 billion  of the Company’s 
+common stock under a share repurchase program announced on May 2, 2024, of which $20</data>
+</edge>
+<edge source="americas net sales" target="during 2024 compared">
+  <data key="d2">increased</data>
+  <data key="d3">| 2024  Form 10-K | 21
+
+Segment  Operating Performance
+The following table shows net sales by reportable segment for 2024 , 2023  and 2022  (dollars in millions):
+2024 Change 2023 Change 2022
+Americas $ 167,045  3 % $ 162,560  (4) % $ 169,658 
+Europe  101,328  7 %  94,294  (1) %  95,118 
+Greater China  66,952  (8) %  72,559  (2) %  74,200 
+Japan  25,052  3 %  24,257  (7) %  25,977 
+Rest of Asia Pacific  30,658  4 %  29,615  1 %  29,375 
+Total net sales $ 391,035  2 % $ 383,285  (3) % $ 394,328 
+Americas
+Americas net sales increased  during 2024  compared to 2023  due primarily to higher net sales of Services</data>
+</edge>
+<edge source="europe net sales" target="during 2024 compared">
+  <data key="d2">increased</data>
+  <data key="d3">Europe
+Europe net sales increased  during 2024  compared to 2023  due primarily to higher net sales of Services and iPhone</data>
+</edge>
+<edge source="china net sales" target="during 2024 compared">
+  <data key="d2">decreased</data>
+  <data key="d3">Greater China
+Greater China net sales decreased  during 2024  compared to 2023  due primarily to lower net sales of iPhone and iPad</data>
+</edge>
+<edge source="japan net sales" target="during 2024 compared">
+  <data key="d2">increased</data>
+  <data key="d3">Japan
+Japan net sales increased  during 2024  compared to 2023  due primarily to higher net sales of iPhone</data>
+</edge>
+<edge source="pacific net sales" target="during 2024 compared">
+  <data key="d2">increased</data>
+  <data key="d3">Rest of Asia Pacific
+Rest of Asia Pacific net sales increased  during 2024  compared to 2023  due primarily to higher net sales of Services</data>
+</edge>
+<edge source="mac net sales" target="during 2024 compared">
+  <data key="d2">increased</data>
+  <data key="d3">Mac
+Mac net sales increased  during 2024  compared to 2023  due primarily to higher net sales of laptops</data>
+</edge>
+<edge source="ipad net sales" target="during 2024 compared">
+  <data key="d2">decreased</data>
+  <data key="d3">iPad
+iPad net sales decreased  during 2024  compared to 2023  due primarily to lower net sales of iPad Pro and the entry-level iPad 
+models, partially offset by higher net sales of iPad Air</data>
+</edge>
+<edge source="accessories net sales" target="during 2024 compared">
+  <data key="d2">decreased</data>
+  <data key="d3">Wearables, Home and Accessories
+Wearables, Home and Accessories net sales decreased  during 2024  compared to 2023  due primarily to lower net sales of 
+Wearables and Accessories</data>
+</edge>
+<edge source="services net sales" target="during 2024 compared">
+  <data key="d2">increased</data>
+  <data key="d3">Services
+Services net sales increased  during 2024  compared to 2023  due primarily to higher net sales from advertising, the App Store® 
+and cloud services</data>
+</edge>
+<edge source="gross margin percentage" target="during 2024 compared">
+  <data key="d2">increased</data>
+  <data key="d3">Services gross margin percentage increased during 2024  compared to 2023  due to a different Services mix</data>
+</edge>
+<edge source="services gross margin" target="during 2024 compared">
+  <data key="d2">increased</data>
+  <data key="d3">Services Gross Margin
+Services gross margin increased during 2024  compared to 2023  due primarily to higher Services net sales</data>
+</edge>
+<edge source="and administrative expense" target="$1">
+  <data key="d2">increased</data>
+  <data key="d3">Selling, General and Administrative
+Selling, general and administrative expense increased $1</data>
+</edge>
+<edge source=", the company" target="a new share">
+  <data key="d2">announced</data>
+  <data key="d3">In May 2024 , the Company announced a new share repurchase program of up to $110 billion  and raised its quarterly dividend 
+from $0</data>
+</edge>
+<edge source="2024, the ecj" target="that it had">
+  <data key="d2">announced</data>
+  <data key="d3">On September 10, 2024, the ECJ announced that it had set aside the 2020 judgment of the General Court and 
+confirmed the Commission’s 2016 State Aid Decision</data>
+</edge>
+<edge source="amendment is 6" target="or becomes effective">
+  <data key="d2">announced</data>
+  <data key="d3">000% 2025 Notes and the 2031 
+Notes, introduction of, the laws (or any regulations or rulings promulgated under the laws) of the United States (or any 
+political subdivision or taxing authority of or in the United States), or any change in, or amendments to, an official 
+position regarding the application or interpretation of such laws, regulations or rulings, which change or amendment is 
+6
+
+announced or becomes effective on or after the date of the applicable prospectus supplement, we become, or based 
+upon a written opinion of independent counsel selected by us, will become obligated to pay additional amounts as 
+described above under the heading “Payments of Additional Amounts” with respect to a series of the Notes, then we 
+may at our option redeem, in whole, but not in part , in the case of the 2026 Notes, the 2027 Notes, the 3</data>
+</edge>
+<edge source="investigated, and p" target="cuted">
+  <data key="d2">rose</data>
+  <data key="d3">The reason for the transaction, size of the transaction, or the amount 
+of profit received does not have to be significant — even small insider trading violations may be 
+monitored, aggressively investigated, and prosecuted</data>
+</edge>
+<edge source="not been publicly" target="and that could">
+  <data key="d2">announced</data>
+  <data key="d3">Never buy or sell Apple securities 
+when aware of information that has not been publicly announced and that could have a material effect 
+on the value of the securities</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,3766 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="context" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d1" for="node" attr.name="label" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="Apple Inc">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Apple Inc</data>
+</node>
+<node id="Company">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Company</data>
+</node>
+<node id="The Company">
+  <data key="d0">COMPANY</data>
+  <data key="d1">The Company</data>
+</node>
+<node id="Officer’s Certificate of the Registrant">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Officer’s Certificate of the Registrant</data>
+</node>
+<node id="Apple">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Apple</data>
+</node>
+<node id="Asia">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Asia</data>
+</node>
+<node id="component and product manufacturing and logistical services">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">component and product manufacturing and logistical services</data>
+</node>
+<node id="artificial intelligence features">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">artificial intelligence features</data>
+</node>
+<node id="third-party software applications and services">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">third-party software applications and services</data>
+</node>
+<node id="Android">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Android</data>
+</node>
+<node id="Windows">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Windows</data>
+</node>
+<node id="PlayStation">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">PlayStation</data>
+</node>
+<node id="Nintendo">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Nintendo</data>
+</node>
+<node id="Xbox">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Xbox</data>
+</node>
+<node id="smartphone">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">smartphone</data>
+</node>
+<node id="personal computer">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">personal computer</data>
+</node>
+<node id="tablet">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">tablet</data>
+</node>
+<node id="App Store">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">App Store</data>
+</node>
+<node id="technology industry">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">technology industry</data>
+</node>
+<node id="carriers">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">carriers</data>
+</node>
+<node id="wholesalers">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">wholesalers</data>
+</node>
+<node id="retailers">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">retailers</data>
+</node>
+<node id="resellers">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">resellers</data>
+</node>
+<node id="cellular network carriers">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">cellular network carriers</data>
+</node>
+<node id="third-party products">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">third-party products</data>
+</node>
+<node id="Legal and Regulatory Compliance Risks">
+  <data key="d0">EVENT</data>
+  <data key="d1">Legal and Regulatory Compliance Risks</data>
+</node>
+<node id="agreements or other arrangements to settle litigation and resolve such challenges">
+  <data key="d0">EVENT</data>
+  <data key="d1">agreements or other arrangements to settle litigation and resolve such challenges</data>
+</node>
+<node id="injury to the Company’s reputation">
+  <data key="d0">EVENT</data>
+  <data key="d1">injury to the Company’s reputation</data>
+</node>
+<node id="foreign currency derivative instruments">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">foreign currency derivative instruments</data>
+</node>
+<node id="March 25, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">March 25, 2024</data>
+</node>
+<node id="June 24, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">June 24, 2024</data>
+</node>
+<node id="March 21, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">March 21, 2024</data>
+</node>
+<node id="U.S. District Court for the District of New Jersey">
+  <data key="d0">LOCATION</data>
+  <data key="d1">U.S. District Court for the District of New Jersey</data>
+</node>
+<node id="$16,741">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$16,741</data>
+</node>
+<node id="$19,300">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$19,300</data>
+</node>
+<node id="14.7%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">14.7%</data>
+</node>
+<node id="16.2%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">16.2%</data>
+</node>
+<node id="May 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">May 2024</data>
+</node>
+<node id="FASB">
+  <data key="d0">ORGANIZATION</data>
+  <data key="d1">FASB</data>
+</node>
+<node id="173,752">
+  <data key="d0">NUMBER</data>
+  <data key="d1">173,752</data>
+</node>
+<node id="162,099">
+  <data key="d0">NUMBER</data>
+  <data key="d1">162,099</data>
+</node>
+<node id="29,965">
+  <data key="d0">NUMBER</data>
+  <data key="d1">29,965</data>
+</node>
+<node id="31,590">
+  <data key="d0">NUMBER</data>
+  <data key="d1">31,590</data>
+</node>
+<node id="100,544">
+  <data key="d0">NUMBER</data>
+  <data key="d1">100,544</data>
+</node>
+<node id="$8.2 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$8.2 billion</data>
+</node>
+<node id="$8.5 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$8.5 billion</data>
+</node>
+<node id="$8.7 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$8.7 billion</data>
+</node>
+<node id="Other Non-Current Assets">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Other Non-Current Assets</data>
+</node>
+<node id="Deferred tax assets">
+  <data key="d0">METRIC</data>
+  <data key="d1">Deferred tax assets</data>
+</node>
+<node id="Total other non-current assets">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Total other non-current assets</data>
+</node>
+<node id="Other Current Liabilities">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Other Current Liabilities</data>
+</node>
+<node id="Income taxes payable">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Income taxes payable</data>
+</node>
+<node id="Total other current liabilities">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Total other current liabilities</data>
+</node>
+<node id="Other Non-Current Liabilities">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Other Non-Current Liabilities</data>
+</node>
+<node id="Total other non-current liabilities">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Total other non-current liabilities</data>
+</node>
+<node id="Deferred tax liabilities">
+  <data key="d0">METRIC</data>
+  <data key="d1">Deferred tax liabilities</data>
+</node>
+<node id="Capitalized research and development">
+  <data key="d0">METRIC</data>
+  <data key="d1">Capitalized research and development</data>
+</node>
+<node id="Tax credit carryforwards">
+  <data key="d0">METRIC</data>
+  <data key="d1">Tax credit carryforwards</data>
+</node>
+<node id="Accrued liabilities and other reserves">
+  <data key="d0">METRIC</data>
+  <data key="d1">Accrued liabilities and other reserves</data>
+</node>
+<node id="Deferred revenue">
+  <data key="d0">METRIC</data>
+  <data key="d1">Deferred revenue</data>
+</node>
+<node id="Lease liabilities">
+  <data key="d0">METRIC</data>
+  <data key="d1">Lease liabilities</data>
+</node>
+<node id="Unrealized losses">
+  <data key="d0">METRIC</data>
+  <data key="d1">Unrealized losses</data>
+</node>
+<node id="Other">
+  <data key="d0">METRIC</data>
+  <data key="d1">Other</data>
+</node>
+<node id="Total deferred tax assets">
+  <data key="d0">METRIC</data>
+  <data key="d1">Total deferred tax assets</data>
+</node>
+<node id="Valuation allowance">
+  <data key="d0">METRIC</data>
+  <data key="d1">Valuation allowance</data>
+</node>
+<node id="Total deferred tax assets, net">
+  <data key="d0">METRIC</data>
+  <data key="d1">Total deferred tax assets, net</data>
+</node>
+<node id="Depreciation">
+  <data key="d0">METRIC</data>
+  <data key="d1">Depreciation</data>
+</node>
+<node id="Right-of-use assets">
+  <data key="d0">METRIC</data>
+  <data key="d1">Right-of-use assets</data>
+</node>
+<node id="Minimum tax on foreign earnings">
+  <data key="d0">METRIC</data>
+  <data key="d1">Minimum tax on foreign earnings</data>
+</node>
+<node id="Unrealized gains">
+  <data key="d0">METRIC</data>
+  <data key="d1">Unrealized gains</data>
+</node>
+<node id="Total deferred tax liabilities">
+  <data key="d0">METRIC</data>
+  <data key="d1">Total deferred tax liabilities</data>
+</node>
+<node id="Net deferred tax assets">
+  <data key="d0">METRIC</data>
+  <data key="d1">Net deferred tax assets</data>
+</node>
+<node id="Uncertain Tax Positions">
+  <data key="d0">METRIC</data>
+  <data key="d1">Uncertain Tax Positions</data>
+</node>
+<node id="2022 Employee Stock Plan">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">2022 Employee Stock Plan</data>
+</node>
+<node id="2014 Employee Stock Plan">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">2014 Employee Stock Plan</data>
+</node>
+<node id="March 4, 2022">
+  <data key="d0">DATE</data>
+  <data key="d1">March 4, 2022</data>
+</node>
+<node id="September 25, 2021">
+  <data key="d0">DATE</data>
+  <data key="d1">September 25, 2021</data>
+</node>
+<node id="$15.9 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$15.9 billion</data>
+</node>
+<node id="$18.2 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$18.2 billion</data>
+</node>
+<node id="2.4 years">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.4 years</data>
+</node>
+<node id="management">
+  <data key="d0">PERSON</data>
+  <data key="d1">management</data>
+</node>
+<node id="San Jose">
+  <data key="d0">LOCATION</data>
+  <data key="d1">San Jose</data>
+</node>
+<node id="November 1, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">November 1, 2024</data>
+</node>
+<node id="Senior Vice President, Retail">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Senior Vice President, Retail</data>
+</node>
+<node id="Chief Operating Officer">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Chief Operating Officer</data>
+</node>
+<node id="Rule 10b5-1(c)">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Rule 10b5-1(c)</data>
+</node>
+<node id="Exchange Act">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Exchange Act</data>
+</node>
+<node id="August 27, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">August 27, 2024</data>
+</node>
+<node id="August 29, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">August 29, 2024</data>
+</node>
+<node id="December 31, 2026">
+  <data key="d0">DATE</data>
+  <data key="d1">December 31, 2026</data>
+</node>
+<node id="December 15, 2025">
+  <data key="d0">DATE</data>
+  <data key="d1">December 15, 2025</data>
+</node>
+<node id="2025 annual meeting of shareholders">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">2025 annual meeting of shareholders</data>
+</node>
+<node id="8/7/20">
+  <data key="d0">DATE</data>
+  <data key="d1">8/7/20</data>
+</node>
+<node id="8/23/24">
+  <data key="d0">DATE</data>
+  <data key="d1">8/23/24</data>
+</node>
+<node id="4/29/13">
+  <data key="d0">DATE</data>
+  <data key="d1">4/29/13</data>
+</node>
+<node id="5/3/13">
+  <data key="d0">DATE</data>
+  <data key="d1">5/3/13</data>
+</node>
+<node id="5/6/14">
+  <data key="d0">DATE</data>
+  <data key="d1">5/6/14</data>
+</node>
+<node id="November 10, 2014">
+  <data key="d0">DATE</data>
+  <data key="d1">November 10, 2014</data>
+</node>
+<node id="Common Stock">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Common Stock</data>
+</node>
+<node id="November 15, 2019">
+  <data key="d0">DATE</data>
+  <data key="d1">November 15, 2019</data>
+</node>
+<node id="November 15, 2025">
+  <data key="d0">DATE</data>
+  <data key="d1">November 15, 2025</data>
+</node>
+<node id="May 24, 2017">
+  <data key="d0">DATE</data>
+  <data key="d1">May 24, 2017</data>
+</node>
+<node id="May 24, 2025">
+  <data key="d0">DATE</data>
+  <data key="d1">May 24, 2025</data>
+</node>
+<node id="0.000%">
+  <data key="d0">METRIC</data>
+  <data key="d1">0.000%</data>
+</node>
+<node id="0.875%">
+  <data key="d0">METRIC</data>
+  <data key="d1">0.875%</data>
+</node>
+<node id="November 15, 2031">
+  <data key="d0">DATE</data>
+  <data key="d1">November 15, 2031</data>
+</node>
+<node id="0.500%">
+  <data key="d0">METRIC</data>
+  <data key="d1">0.500%</data>
+</node>
+<node id="£500,000,000">
+  <data key="d0">NUMBER</data>
+  <data key="d1">£500,000,000</data>
+</node>
+<node id="July 31, 2042">
+  <data key="d0">DATE</data>
+  <data key="d1">July 31, 2042</data>
+</node>
+<node id="3.600%">
+  <data key="d0">METRIC</data>
+  <data key="d1">3.600%</data>
+</node>
+<node id="Bankruptcy Law">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Bankruptcy Law</data>
+</node>
+<node id="Custodian">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Custodian</data>
+</node>
+<node id="Indentures">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Indentures</data>
+</node>
+<node id="Shares">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Shares</data>
+</node>
+<node id="Plan">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Plan</data>
+</node>
+<node id="Tax-Related Items">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Tax-Related Items</data>
+</node>
+<node id="national securities exchange">
+  <data key="d0">LOCATION</data>
+  <data key="d1">national securities exchange</data>
+</node>
+<node id="Beginning Price">
+  <data key="d0">METRIC</data>
+  <data key="d1">Beginning Price</data>
+</node>
+<node id="Ending Price">
+  <data key="d0">METRIC</data>
+  <data key="d1">Ending Price</data>
+</node>
+<node id="dividends and other distributions">
+  <data key="d0">METRIC</data>
+  <data key="d1">dividends and other distributions</data>
+</node>
+<node id="Subsidiary">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Subsidiary</data>
+</node>
+<node id="Retirement">
+  <data key="d0">EVENT</data>
+  <data key="d1">Retirement</data>
+</node>
+<node id="Termination of Service">
+  <data key="d0">EVENT</data>
+  <data key="d1">Termination of Service</data>
+</node>
+<node id="Disability">
+  <data key="d0">EVENT</data>
+  <data key="d1">Disability</data>
+</node>
+<node id="Death">
+  <data key="d0">EVENT</data>
+  <data key="d1">Death</data>
+</node>
+<node id="Award Date">
+  <data key="d0">DATE</data>
+  <data key="d1">Award Date</data>
+</node>
+<node id="Severance Date">
+  <data key="d0">DATE</data>
+  <data key="d1">Severance Date</data>
+</node>
+<node id="October 2, 2023">
+  <data key="d0">DATE</data>
+  <data key="d1">October 2, 2023</data>
+</node>
+<node id="Nasdaq Stock Market">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Nasdaq Stock Market</data>
+</node>
+<node id="September 28, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">September 28, 2024</data>
+</node>
+<node id="2024">
+  <data key="d0">DATE</data>
+  <data key="d1">2024</data>
+</node>
+<node id="RSUs">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">RSUs</data>
+</node>
+<node id="3.050% 2029 Notes">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">3.050% 2029 Notes</data>
+</node>
+<node id="Japan">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Japan</data>
+</node>
+<node id="Americas">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Americas</data>
+</node>
+<node id="Europe">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Europe</data>
+</node>
+<node id="Greater China">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Greater China</data>
+</node>
+<node id="Rest of Asia Pacific">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Rest of Asia Pacific</data>
+</node>
+<node id="September 30, 2023">
+  <data key="d0">DATE</data>
+  <data key="d1">September 30, 2023</data>
+</node>
+<node id="iPhone">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">iPhone</data>
+</node>
+<node id="Services">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Services</data>
+</node>
+<node id="Mac">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Mac</data>
+</node>
+<node id="iPad">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">iPad</data>
+</node>
+<node id="The Bank of New York Mellon Trust Company, N.A.">
+  <data key="d0">COMPANY</data>
+  <data key="d1">The Bank of New York Mellon Trust Company, N.A.</data>
+</node>
+<node id="2042 Notes">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">2042 Notes</data>
+</node>
+<node id="Participant">
+  <data key="d0">PERSON</data>
+  <data key="d1">Participant</data>
+</node>
+<node id="Committee">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Committee</data>
+</node>
+<node id="Tim Cook">
+  <data key="d0">PERSON</data>
+  <data key="d1">Tim Cook</data>
+</node>
+<node id="Ireland">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Ireland</data>
+</node>
+<node id="0.875% 2025 Notes">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">0.875% 2025 Notes</data>
+</node>
+<node id="German government bond">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">German government bond</data>
+</node>
+<node id="$95.3 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$95.3 billion</data>
+</node>
+<node id="California">
+  <data key="d0">LOCATION</data>
+  <data key="d1">California</data>
+</node>
+<node id="Commission">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Commission</data>
+</node>
+<node id="$97.3 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$97.3 billion</data>
+</node>
+<node id="$10.0 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$10.0 billion</data>
+</node>
+<node id="1.375% 2029 Notes">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">1.375% 2029 Notes</data>
+</node>
+<node id="2031 Notes">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">2031 Notes</data>
+</node>
+<node id="Comparison Group member">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Comparison Group member</data>
+</node>
+<node id="South Korea">
+  <data key="d0">LOCATION</data>
+  <data key="d1">South Korea</data>
+</node>
+<node id="outsourcing partners">
+  <data key="d0">COMPANY</data>
+  <data key="d1">outsourcing partners</data>
+</node>
+<node id="customers">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">customers</data>
+</node>
+<node id="hardware products">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">hardware products</data>
+</node>
+<node id="third parties">
+  <data key="d0">COMPANY</data>
+  <data key="d1">third parties</data>
+</node>
+<node id="gross margins">
+  <data key="d0">METRIC</data>
+  <data key="d1">gross margins</data>
+</node>
+<node id="investment portfolio">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">investment portfolio</data>
+</node>
+<node id="$2.0 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$2.0 billion</data>
+</node>
+<node id="Timothy D. Cook">
+  <data key="d0">PERSON</data>
+  <data key="d1">Timothy D. Cook</data>
+</node>
+<node id="93,736">
+  <data key="d0">NUMBER</data>
+  <data key="d1">93,736</data>
+</node>
+<node id="96,995">
+  <data key="d0">NUMBER</data>
+  <data key="d1">96,995</data>
+</node>
+<node id="99,803">
+  <data key="d0">NUMBER</data>
+  <data key="d1">99,803</data>
+</node>
+<node id="25%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">25%</data>
+</node>
+<node id="15,550,061">
+  <data key="d0">NUMBER</data>
+  <data key="d1">15,550,061</data>
+</node>
+<node id="15,943,425">
+  <data key="d0">NUMBER</data>
+  <data key="d1">15,943,425</data>
+</node>
+<node id="Ernst &amp; Young LLP">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Ernst &amp; Young LLP</data>
+</node>
+<node id="Deirdre O'Brien">
+  <data key="d0">PERSON</data>
+  <data key="d1">Deirdre O'Brien</data>
+</node>
+<node id="Registrant">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Registrant</data>
+</node>
+<node id="U.S. dollars">
+  <data key="d0">LOCATION</data>
+  <data key="d1">U.S. dollars</data>
+</node>
+<node id="2026 Notes">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">2026 Notes</data>
+</node>
+<node id="2027 Notes">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">2027 Notes</data>
+</node>
+<node id="United Kingdom government bond">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">United Kingdom government bond</data>
+</node>
+<node id="Dividend Equivalent Rights">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Dividend Equivalent Rights</data>
+</node>
+<node id="TSR Percentile">
+  <data key="d0">METRIC</data>
+  <data key="d1">TSR Percentile</data>
+</node>
+<node id="Performance Period">
+  <data key="d0">DATE</data>
+  <data key="d1">Performance Period</data>
+</node>
+<node id="Vesting Date">
+  <data key="d0">DATE</data>
+  <data key="d1">Vesting Date</data>
+</node>
+<node id="People and Compensation Committee">
+  <data key="d0">COMPANY</data>
+  <data key="d1">People and Compensation Committee</data>
+</node>
+<node id="Covered Executive">
+  <data key="d0">PERSON</data>
+  <data key="d1">Covered Executive</data>
+</node>
+<node id="AppleCare">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">AppleCare</data>
+</node>
+<node id="Cloud Services">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Cloud Services</data>
+</node>
+<node id="Digital Content">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Digital Content</data>
+</node>
+<node id="Apple Arcade">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Apple Arcade</data>
+</node>
+<node id="Apple Fitness+">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Apple Fitness+</data>
+</node>
+<node id="Apple Music">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Apple Music</data>
+</node>
+<node id="Apple News+">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Apple News+</data>
+</node>
+<node id="Apple TV+">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Apple TV+</data>
+</node>
+<node id="Apple Card">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Apple Card</data>
+</node>
+<node id="Apple Pay">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Apple Pay</data>
+</node>
+<node id="164,000 full-time equivalent employees">
+  <data key="d0">NUMBER</data>
+  <data key="d1">164,000 full-time equivalent employees</data>
+</node>
+<node id="China mainland">
+  <data key="d0">LOCATION</data>
+  <data key="d1">China mainland</data>
+</node>
+<node id="India">
+  <data key="d0">LOCATION</data>
+  <data key="d1">India</data>
+</node>
+<node id="Taiwan">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Taiwan</data>
+</node>
+<node id="Vietnam">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Vietnam</data>
+</node>
+<node id="U.S.">
+  <data key="d0">LOCATION</data>
+  <data key="d1">U.S.</data>
+</node>
+<node id="Global markets">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Global markets</data>
+</node>
+<node id="Global smartphone, personal computer and tablet markets">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Global smartphone, personal computer and tablet markets</data>
+</node>
+<node id="patents, trademarks and copyrights">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">patents, trademarks and copyrights</data>
+</node>
+<node id="R&amp;D">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">R&amp;D</data>
+</node>
+<node id="Sophisticated operating system software">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Sophisticated operating system software</data>
+</node>
+<node id="health">
+  <data key="d0">LOCATION</data>
+  <data key="d1">health</data>
+</node>
+<node id="third-party software developers">
+  <data key="d0">COMPANY</data>
+  <data key="d1">third-party software developers</data>
+</node>
+<node id="Chief Executive Officer">
+  <data key="d0">PERSON</data>
+  <data key="d1">Chief Executive Officer</data>
+</node>
+<node id="executive team">
+  <data key="d0">PERSON</data>
+  <data key="d1">executive team</data>
+</node>
+<node id="Silicon Valley">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Silicon Valley</data>
+</node>
+<node id="malicious attacks">
+  <data key="d0">EVENT</data>
+  <data key="d1">malicious attacks</data>
+</node>
+<node id="unauthorized access">
+  <data key="d0">EVENT</data>
+  <data key="d1">unauthorized access</data>
+</node>
+<node id="confidential information">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">confidential information</data>
+</node>
+<node id="stock price">
+  <data key="d0">METRIC</data>
+  <data key="d1">stock price</data>
+</node>
+<node id="commercial relationships">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">commercial relationships</data>
+</node>
+<node id="litigation">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">litigation</data>
+</node>
+<node id="government investigations">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">government investigations</data>
+</node>
+<node id="geopolitical tensions">
+  <data key="d0">EVENT</data>
+  <data key="d1">geopolitical tensions</data>
+</node>
+<node id="personal information">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">personal information</data>
+</node>
+<node id="information technology systems">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">information technology systems</data>
+</node>
+<node id="sensitive data">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">sensitive data</data>
+</node>
+<node id="encryption">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">encryption</data>
+</node>
+<node id="authentication technologies">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">authentication technologies</data>
+</node>
+<node id="multifactor authentication">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">multifactor authentication</data>
+</node>
+<node id="employees">
+  <data key="d0">PERSON</data>
+  <data key="d1">employees</data>
+</node>
+<node id="unfavorable results of legal proceedings or government investigations">
+  <data key="d0">EVENT</data>
+  <data key="d1">unfavorable results of legal proceedings or government investigations</data>
+</node>
+<node id="various claims, legal proceedings and government investigations">
+  <data key="d0">EVENT</data>
+  <data key="d1">various claims, legal proceedings and government investigations</data>
+</node>
+<node id="patent claims relating to its cellular-enabled products">
+  <data key="d0">EVENT</data>
+  <data key="d1">patent claims relating to its cellular-enabled products</data>
+</node>
+<node id="technology and other patent-holding companies">
+  <data key="d0">COMPANY</data>
+  <data key="d1">technology and other patent-holding companies</data>
+</node>
+<node id="vigorously defending infringement actions">
+  <data key="d0">EVENT</data>
+  <data key="d1">vigorously defending infringement actions</data>
+</node>
+<node id="expensive, time-consuming and disruptive to the Company’s operations">
+  <data key="d0">EVENT</data>
+  <data key="d1">expensive, time-consuming and disruptive to the Company’s operations</data>
+</node>
+<node id="U.S. dollar">
+  <data key="d0">LOCATION</data>
+  <data key="d1">U.S. dollar</data>
+</node>
+<node id="local currencies">
+  <data key="d0">LOCATION</data>
+  <data key="d1">local currencies</data>
+</node>
+<node id="non–U.S. dollar–denominated sales">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">non–U.S. dollar–denominated sales</data>
+</node>
+<node id="foreign currency–denominated sales">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">foreign currency–denominated sales</data>
+</node>
+<node id="credit risk">
+  <data key="d0">METRIC</data>
+  <data key="d1">credit risk</data>
+</node>
+<node id="U.S. Internal Revenue Service">
+  <data key="d0">LOCATION</data>
+  <data key="d1">U.S. Internal Revenue Service</data>
+</node>
+<node id="Board">
+  <data key="d0">PERSON</data>
+  <data key="d1">Board</data>
+</node>
+<node id="Cupertino">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Cupertino</data>
+</node>
+<node id="Digital Markets Act Investigations">
+  <data key="d0">EVENT</data>
+  <data key="d1">Digital Markets Act Investigations</data>
+</node>
+<node id="Article 5(4) of the DMA">
+  <data key="d0">EVENT</data>
+  <data key="d1">Article 5(4) of the DMA</data>
+</node>
+<node id="Article 6(3) of the DMA">
+  <data key="d0">EVENT</data>
+  <data key="d1">Article 6(3) of the DMA</data>
+</node>
+<node id="U.S. Department of Justice">
+  <data key="d0">COMPANY</data>
+  <data key="d1">U.S. Department of Justice</data>
+</node>
+<node id="AAPL">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">AAPL</data>
+</node>
+<node id="23,301">
+  <data key="d0">NUMBER</data>
+  <data key="d1">23,301</data>
+</node>
+<node id="October 18, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">October 18, 2024</data>
+</node>
+<node id="35,697">
+  <data key="d0">NUMBER</data>
+  <data key="d1">35,697</data>
+</node>
+<node id="224.11">
+  <data key="d0">NUMBER</data>
+  <data key="d1">224.11</data>
+</node>
+<node id="89,074">
+  <data key="d0">NUMBER</data>
+  <data key="d1">89,074</data>
+</node>
+<node id="110 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">110 billion</data>
+</node>
+<node id="20.9 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">20.9 billion</data>
+</node>
+<node id="4.1 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.1 billion</data>
+</node>
+<node id="MacBook Pro 14-in.">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">MacBook Pro 14-in.</data>
+</node>
+<node id="MacBook Pro 16-in.">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">MacBook Pro 16-in.</data>
+</node>
+<node id="iMac">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">iMac</data>
+</node>
+<node id="MacBook Air 13-in.">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">MacBook Air 13-in.</data>
+</node>
+<node id="MacBook Air 15-in.">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">MacBook Air 15-in.</data>
+</node>
+<node id="iPad Air">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">iPad Air</data>
+</node>
+<node id="iPad Pro">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">iPad Pro</data>
+</node>
+<node id="iOS 18">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">iOS 18</data>
+</node>
+<node id="macOS Sequoia">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">macOS Sequoia</data>
+</node>
+<node id="iPadOS 18">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">iPadOS 18</data>
+</node>
+<node id="watchOS 11">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">watchOS 11</data>
+</node>
+<node id="vision OS 2">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">vision OS 2</data>
+</node>
+<node id="tvOS 18">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">tvOS 18</data>
+</node>
+<node id="Apple Intelligence™">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Apple Intelligence™</data>
+</node>
+<node id="iPhone 16">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">iPhone 16</data>
+</node>
+<node id="iPhone 16 Plus">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">iPhone 16 Plus</data>
+</node>
+<node id="iPhone 16 Pro">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">iPhone 16 Pro</data>
+</node>
+<node id="iPhone 16 Pro Max">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">iPhone 16 Pro Max</data>
+</node>
+<node id="Apple Watch Series 10">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Apple Watch Series 10</data>
+</node>
+<node id="AirPods 4">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">AirPods 4</data>
+</node>
+<node id="Wearables, Home and Accessories">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Wearables, Home and Accessories</data>
+</node>
+<node id="$29,749">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$29,749</data>
+</node>
+<node id="24.1%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">24.1%</data>
+</node>
+<node id="21%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">21%</data>
+</node>
+<node id="$10.2 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$10.2 billion</data>
+</node>
+<node id="$140.8 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$140.8 billion</data>
+</node>
+<node id="$10.9 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$10.9 billion</data>
+</node>
+<node id="$38.5 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$38.5 billion</data>
+</node>
+<node id="$2.6 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$2.6 billion</data>
+</node>
+<node id="$15.6 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$15.6 billion</data>
+</node>
+<node id="€14.2 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">€14.2 billion</data>
+</node>
+<node id="$15.8 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$15.8 billion</data>
+</node>
+<node id="Capital Return Program">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Capital Return Program</data>
+</node>
+<node id="share repurchase program">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">share repurchase program</data>
+</node>
+<node id="quarterly cash dividend">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">quarterly cash dividend</data>
+</node>
+<node id="ASU 2023-09">
+  <data key="d0">EVENT</data>
+  <data key="d1">ASU 2023-09</data>
+</node>
+<node id="ASU 2023-07">
+  <data key="d0">EVENT</data>
+  <data key="d1">ASU 2023-07</data>
+</node>
+<node id="U.S. interest rates">
+  <data key="d0">METRIC</data>
+  <data key="d1">U.S. interest rates</data>
+</node>
+<node id="100 basis points">
+  <data key="d0">NUMBER</data>
+  <data key="d1">100 basis points</data>
+</node>
+<node id="term debt">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">term debt</data>
+</node>
+<node id="September 24, 2022">
+  <data key="d0">DATE</data>
+  <data key="d1">September 24, 2022</data>
+</node>
+<node id="$93,736 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$93,736 million</data>
+</node>
+<node id="$96,995 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$96,995 million</data>
+</node>
+<node id="$99,803 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$99,803 million</data>
+</node>
+<node id="$4,280 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$4,280 million</data>
+</node>
+<node id="$98,016 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$98,016 million</data>
+</node>
+<node id="$364,980 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$364,980 million</data>
+</node>
+<node id="$352,583 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$352,583 million</data>
+</node>
+<node id="$308,030 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$308,030 million</data>
+</node>
+<node id="$29,943 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$29,943 million</data>
+</node>
+<node id="$35,228 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$35,228 million</data>
+</node>
+<node id="$33,410 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$33,410 million</data>
+</node>
+<node id="$32,833 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$32,833 million</data>
+</node>
+<node id="$7,286 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$7,286 million</data>
+</node>
+<node id="$14,287 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$14,287 million</data>
+</node>
+<node id="$91,479 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$91,479 million</data>
+</node>
+<node id="$45,680 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$45,680 million</data>
+</node>
+<node id="$74,834 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$74,834 million</data>
+</node>
+<node id="$68,960 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$68,960 million</data>
+</node>
+<node id="$78,304 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$78,304 million</data>
+</node>
+<node id="$8,249 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$8,249 million</data>
+</node>
+<node id="$9,967 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$9,967 million</data>
+</node>
+<node id="$10,912 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$10,912 million</data>
+</node>
+<node id="$85,750 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$85,750 million</data>
+</node>
+<node id="$45,888 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$45,888 million</data>
+</node>
+<node id="118,254">
+  <data key="d0">NUMBER</data>
+  <data key="d1">118,254</data>
+</node>
+<node id="2,935">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2,935</data>
+</node>
+<node id="121,983">
+  <data key="d0">NUMBER</data>
+  <data key="d1">121,983</data>
+</node>
+<node id="30,737">
+  <data key="d0">NUMBER</data>
+  <data key="d1">30,737</data>
+</node>
+<node id="29,943">
+  <data key="d0">NUMBER</data>
+  <data key="d1">29,943</data>
+</node>
+<node id="$12.8 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$12.8 billion</data>
+</node>
+<node id="$12.1 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$12.1 billion</data>
+</node>
+<node id="15,343,783">
+  <data key="d0">NUMBER</data>
+  <data key="d1">15,343,783</data>
+</node>
+<node id="15,744,231">
+  <data key="d0">NUMBER</data>
+  <data key="d1">15,744,231</data>
+</node>
+<node id="16,215,963">
+  <data key="d0">NUMBER</data>
+  <data key="d1">16,215,963</data>
+</node>
+<node id="15,408,095">
+  <data key="d0">NUMBER</data>
+  <data key="d1">15,408,095</data>
+</node>
+<node id="15,812,547">
+  <data key="d0">NUMBER</data>
+  <data key="d1">15,812,547</data>
+</node>
+<node id="16,325,819">
+  <data key="d0">NUMBER</data>
+  <data key="d1">16,325,819</data>
+</node>
+<node id="64%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">64%</data>
+</node>
+<node id="9%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">9%</data>
+</node>
+<node id="2%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2%</data>
+</node>
+<node id="24 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">24 million</data>
+</node>
+<node id="2.6 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.6 billion</data>
+</node>
+<node id="13.2 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">13.2 billion</data>
+</node>
+<node id="13.8 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">13.8 billion</data>
+</node>
+<node id="Land and buildings">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Land and buildings</data>
+</node>
+<node id="Machinery, equipment and internal-use software">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Machinery, equipment and internal-use software</data>
+</node>
+<node id="Leasehold improvements">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Leasehold improvements</data>
+</node>
+<node id="Depreciation expense on property, plant and equipment">
+  <data key="d0">METRIC</data>
+  <data key="d1">Depreciation expense on property, plant and equipment</data>
+</node>
+<node id="European Commission">
+  <data key="d0">LOCATION</data>
+  <data key="d1">European Commission</data>
+</node>
+<node id="State Aid Decision">
+  <data key="d0">EVENT</data>
+  <data key="d1">State Aid Decision</data>
+</node>
+<node id="€13.1 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">€13.1 billion</data>
+</node>
+<node id="€1.2 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">€1.2 billion</data>
+</node>
+<node id="€12.7 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">€12.7 billion</data>
+</node>
+<node id="foreign tax credit carryforwards">
+  <data key="d0">METRIC</data>
+  <data key="d1">foreign tax credit carryforwards</data>
+</node>
+<node id="California R&amp;D credit carryforwards">
+  <data key="d0">METRIC</data>
+  <data key="d1">California R&amp;D credit carryforwards</data>
+</node>
+<node id="gross unrecognized tax benefits">
+  <data key="d0">METRIC</data>
+  <data key="d1">gross unrecognized tax benefits</data>
+</node>
+<node id="$13.8 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$13.8 billion</data>
+</node>
+<node id="$1.9 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$1.9 billion</data>
+</node>
+<node id="$1.0 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$1.0 billion</data>
+</node>
+<node id="September 28, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">September 28, 2024</data>
+</node>
+<node id="September 30, 2023">
+  <data key="d0">DATE</data>
+  <data key="d1">September 30, 2023</data>
+</node>
+<node id="$10,234 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$10,234 million</data>
+</node>
+<node id="$10,661 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$10,661 million</data>
+</node>
+<node id="$1,069 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$1,069 million</data>
+</node>
+<node id="$1,015 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$1,015 million</data>
+</node>
+<node id="$11,303 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$11,303 million</data>
+</node>
+<node id="$11,676 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$11,676 million</data>
+</node>
+<node id="$1,488 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$1,488 million</data>
+</node>
+<node id="$1,410 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$1,410 million</data>
+</node>
+<node id="$10,046 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$10,046 million</data>
+</node>
+<node id="$10,408 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$10,408 million</data>
+</node>
+<node id="$12,430 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$12,430 million</data>
+</node>
+<node id="$12,842 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$12,842 million</data>
+</node>
+<node id="1,820 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1,820 million</data>
+</node>
+<node id="1,914 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1,914 million</data>
+</node>
+<node id="1,674 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1,674 million</data>
+</node>
+<node id="1,360 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1,360 million</data>
+</node>
+<node id="1,187 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1,187 million</data>
+</node>
+<node id="5,563 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">5,563 million</data>
+</node>
+<node id="13,518 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">13,518 million</data>
+</node>
+<node id="(1,984) million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">(1,984) million</data>
+</node>
+<node id="11,534 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">11,534 million</data>
+</node>
+<node id="10.3 years">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.3 years</data>
+</node>
+<node id="10.6 years">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10.6 years</data>
+</node>
+<node id="$6.0 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$6.0 billion</data>
+</node>
+<node id="9.0 months">
+  <data key="d0">NUMBER</data>
+  <data key="d1">9.0 months</data>
+</node>
+<node id="5.00%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">5.00%</data>
+</node>
+<node id="5.28%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">5.28%</data>
+</node>
+<node id="$88.4 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$88.4 billion</data>
+</node>
+<node id="$90.8 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$90.8 billion</data>
+</node>
+<node id="499 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">499 million</data>
+</node>
+<node id="$95.0 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$95.0 billion</data>
+</node>
+<node id="16,426,786">
+  <data key="d0">NUMBER</data>
+  <data key="d1">16,426,786</data>
+</node>
+<node id="499,372">
+  <data key="d0">NUMBER</data>
+  <data key="d1">499,372</data>
+</node>
+<node id="471,419">
+  <data key="d0">NUMBER</data>
+  <data key="d1">471,419</data>
+</node>
+<node id="568,589">
+  <data key="d0">NUMBER</data>
+  <data key="d1">568,589</data>
+</node>
+<node id="66,097">
+  <data key="d0">NUMBER</data>
+  <data key="d1">66,097</data>
+</node>
+<node id="78,055">
+  <data key="d0">NUMBER</data>
+  <data key="d1">78,055</data>
+</node>
+<node id="85,228">
+  <data key="d0">NUMBER</data>
+  <data key="d1">85,228</data>
+</node>
+<node id="15,116,786">
+  <data key="d0">NUMBER</data>
+  <data key="d1">15,116,786</data>
+</node>
+<node id="31 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">31 million</data>
+</node>
+<node id="37 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">37 million</data>
+</node>
+<node id="41 million">
+  <data key="d0">NUMBER</data>
+  <data key="d1">41 million</data>
+</node>
+<node id="$5.6 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$5.6 billion</data>
+</node>
+<node id="$6.4 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$6.4 billion</data>
+</node>
+<node id="$19.4 billion">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$19.4 billion</data>
+</node>
+<node id="China">
+  <data key="d0">LOCATION</data>
+  <data key="d1">China</data>
+</node>
+<node id="principal executive officer">
+  <data key="d0">PERSON</data>
+  <data key="d1">principal executive officer</data>
+</node>
+<node id="principal financial officer">
+  <data key="d0">PERSON</data>
+  <data key="d1">principal financial officer</data>
+</node>
+<node id="Jeff Williams">
+  <data key="d0">PERSON</data>
+  <data key="d1">Jeff Williams</data>
+</node>
+<node id="Exhibit 19.1">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Exhibit 19.1</data>
+</node>
+<node id="Form 10-K">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Form 10-K</data>
+</node>
+<node id="SEC">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">SEC</data>
+</node>
+<node id="2025 Proxy Statement">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">2025 Proxy Statement</data>
+</node>
+<node id="Floating Rate Notes due 2019">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Floating Rate Notes due 2019</data>
+</node>
+<node id="1.300% Notes due 2018">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">1.300% Notes due 2018</data>
+</node>
+<node id="1.700% Notes due 2019">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">1.700% Notes due 2019</data>
+</node>
+<node id="2.250% Notes due 2021">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">2.250% Notes due 2021</data>
+</node>
+<node id="2.850% Notes due 2023">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">2.850% Notes due 2023</data>
+</node>
+<node id="3.250% Notes due 2026">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">3.250% Notes due 2026</data>
+</node>
+<node id="4.500% Notes due 2036">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">4.500% Notes due 2036</data>
+</node>
+<node id="4.650% Notes due 2046">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">4.650% Notes due 2046</data>
+</node>
+<node id="Supplement No. 1 to the Officer’s Certificate of the Registrant">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Supplement No. 1 to the Officer’s Certificate of the Registrant</data>
+</node>
+<node id="Floating Rate Notes due 2020">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Floating Rate Notes due 2020</data>
+</node>
+<node id="Floating Rate Notes due 2022">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Floating Rate Notes due 2022</data>
+</node>
+<node id="1.550% Notes due 2019">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">1.550% Notes due 2019</data>
+</node>
+<node id="1.900% Notes due 2020">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">1.900% Notes due 2020</data>
+</node>
+<node id="2.500% Notes due 2022">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">2.500% Notes due 2022</data>
+</node>
+<node id="3.000% Notes due 2024">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">3.000% Notes due 2024</data>
+</node>
+<node id="3.350% Notes due 2027">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">3.350% Notes due 2027</data>
+</node>
+<node id="4.250% Notes due 2047">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">4.250% Notes due 2047</data>
+</node>
+<node id="0.875% Notes due 2025">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">0.875% Notes due 2025</data>
+</node>
+<node id="1.375% Notes due 2029">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">1.375% Notes due 2029</data>
+</node>
+<node id="3.000% Notes due 2027">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">3.000% Notes due 2027</data>
+</node>
+<node id="1.500% Notes due 2019">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">1.500% Notes due 2019</data>
+</node>
+<node id="2.100% Notes due 2022">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">2.100% Notes due 2022</data>
+</node>
+<node id="2.900% Notes due 2027">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">2.900% Notes due 2027</data>
+</node>
+<node id="3.750% Notes due 2047">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">3.750% Notes due 2047</data>
+</node>
+<node id="1.800% Notes due 2019">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">1.800% Notes due 2019</data>
+</node>
+<node id="2.000% Notes due 2020">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">2.000% Notes due 2020</data>
+</node>
+<node id="2.400% Notes due 2023">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">2.400% Notes due 2023</data>
+</node>
+<node id="2.750% Notes due 2025">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">2.750% Notes due 2025</data>
+</node>
+<node id="Indenture">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Indenture</data>
+</node>
+<node id="Luca Maestri">
+  <data key="d0">PERSON</data>
+  <data key="d1">Luca Maestri</data>
+</node>
+<node id="Board of Directors">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Board of Directors</data>
+</node>
+<node id="€1,000,000,000">
+  <data key="d0">NUMBER</data>
+  <data key="d1">€1,000,000,000</data>
+</node>
+<node id="€1,250,000,000">
+  <data key="d0">NUMBER</data>
+  <data key="d1">€1,250,000,000</data>
+</node>
+<node id="0.000% 2025 Notes">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">0.000% 2025 Notes</data>
+</node>
+<node id="£750,000,000">
+  <data key="d0">NUMBER</data>
+  <data key="d1">£750,000,000</data>
+</node>
+<node id="July 31, 2015">
+  <data key="d0">DATE</data>
+  <data key="d1">July 31, 2015</data>
+</node>
+<node id="July 31, 2029">
+  <data key="d0">DATE</data>
+  <data key="d1">July 31, 2029</data>
+</node>
+<node id="3.050%">
+  <data key="d0">METRIC</data>
+  <data key="d1">3.050%</data>
+</node>
+<node id="pound sterling">
+  <data key="d0">LOCATION</data>
+  <data key="d1">pound sterling</data>
+</node>
+<node id="euro">
+  <data key="d0">LOCATION</data>
+  <data key="d1">euro</data>
+</node>
+<node id="The City of New York">
+  <data key="d0">LOCATION</data>
+  <data key="d1">The City of New York</data>
+</node>
+<node id="London">
+  <data key="d0">LOCATION</data>
+  <data key="d1">London</data>
+</node>
+<node id="The Wall Street Journal">
+  <data key="d0">LOCATION</data>
+  <data key="d1">The Wall Street Journal</data>
+</node>
+<node id="2025 Notes">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">2025 Notes</data>
+</node>
+<node id="33%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">33%</data>
+</node>
+<node id="2013 Indenture">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">2013 Indenture</data>
+</node>
+<node id="2018 Indenture">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">2018 Indenture</data>
+</node>
+<node id="The Bank of New York Mellon Trust Company, N.A. and its affiliates">
+  <data key="d0">COMPANY</data>
+  <data key="d1">The Bank of New York Mellon Trust Company, N.A. and its affiliates</data>
+</node>
+<node id="Euroclear">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Euroclear</data>
+</node>
+<node id="Clearstream">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Clearstream</data>
+</node>
+<node id="new parent company">
+  <data key="d0">COMPANY</data>
+  <data key="d1">new parent company</data>
+</node>
+<node id="surviving, resulting or successor entity">
+  <data key="d0">COMPANY</data>
+  <data key="d1">surviving, resulting or successor entity</data>
+</node>
+<node id="TSR">
+  <data key="d0">METRIC</data>
+  <data key="d1">TSR</data>
+</node>
+<node id="Imposition of Other Requirements">
+  <data key="d0">EVENT</data>
+  <data key="d1">Imposition of Other Requirements</data>
+</node>
+<node id="Comparison Group">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Comparison Group</data>
+</node>
+<node id="Standard &amp; Poor’s 500 Index">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Standard &amp; Poor’s 500 Index</data>
+</node>
+<node id="first-quarter results">
+  <data key="d0">METRIC</data>
+  <data key="d1">first-quarter results</data>
+</node>
+<node id="early February">
+  <data key="d0">DATE</data>
+  <data key="d1">early February</data>
+</node>
+<node id="second-quarter results">
+  <data key="d0">METRIC</data>
+  <data key="d1">second-quarter results</data>
+</node>
+<node id="early May">
+  <data key="d0">DATE</data>
+  <data key="d1">early May</data>
+</node>
+<node id="third-quarter results">
+  <data key="d0">METRIC</data>
+  <data key="d1">third-quarter results</data>
+</node>
+<node id="early August">
+  <data key="d0">DATE</data>
+  <data key="d1">early August</data>
+</node>
+<node id="year-end results">
+  <data key="d0">METRIC</data>
+  <data key="d1">year-end results</data>
+</node>
+<node id="early November">
+  <data key="d0">DATE</data>
+  <data key="d1">early November</data>
+</node>
+<node id="special restricted trading period">
+  <data key="d0">EVENT</data>
+  <data key="d1">special restricted trading period</data>
+</node>
+<node id="extended restricted trading period">
+  <data key="d0">EVENT</data>
+  <data key="d1">extended restricted trading period</data>
+</node>
+<node id="Apple’s General Counsel">
+  <data key="d0">PERSON</data>
+  <data key="d1">Apple’s General Counsel</data>
+</node>
+<node id="Designated Individuals">
+  <data key="d0">PERSON</data>
+  <data key="d1">Designated Individuals</data>
+</node>
+<node id="Apple Asia Limited">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Apple Asia Limited</data>
+</node>
+<node id="Apple Asia LLC">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Apple Asia LLC</data>
+</node>
+<node id="Apple Canada Inc.">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Apple Canada Inc.</data>
+</node>
+<node id="Apple Computer Trading (Shanghai) Co., Ltd.">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Apple Computer Trading (Shanghai) Co., Ltd.</data>
+</node>
+<node id="Apple Distribution International Limited">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Apple Distribution International Limited</data>
+</node>
+<node id="Apple India Private Limited">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Apple India Private Limited</data>
+</node>
+<node id="Apple Insurance Company, Inc.">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Apple Insurance Company, Inc.</data>
+</node>
+<node id="Apple Japan, Inc.">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Apple Japan, Inc.</data>
+</node>
+<node id="Apple Korea Limited">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Apple Korea Limited</data>
+</node>
+<node id="Apple Operations International Limited">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Apple Operations International Limited</data>
+</node>
+<node id="Apple Operations Limited">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Apple Operations Limited</data>
+</node>
+<node id="Apple Operations Mexico, S.A. de C.V.">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Apple Operations Mexico, S.A. de C.V.</data>
+</node>
+<node id="Apple Pty Limited">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Apple Pty Limited</data>
+</node>
+<node id="Apple Sales International Limited">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Apple Sales International Limited</data>
+</node>
+<node id="Apple South Asia (Thailand) Limited">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Apple South Asia (Thailand) Limited</data>
+</node>
+<node id="Apple Vietnam Limited Liability Company">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Apple Vietnam Limited Liability Company</data>
+</node>
+<node id="Braeburn Capital, Inc.">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Braeburn Capital, Inc.</data>
+</node>
+<node id="iTunes K.K.">
+  <data key="d0">COMPANY</data>
+  <data key="d1">iTunes K.K.</data>
+</node>
+<node id="Nevada, U.S.">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Nevada, U.S.</data>
+</node>
+<node id="Hong Kong">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Hong Kong</data>
+</node>
+<node id="Delaware, U.S.">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Delaware, U.S.</data>
+</node>
+<node id="Canada">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Canada</data>
+</node>
+<node id="Australia">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Australia</data>
+</node>
+<node id="Mexico">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Mexico</data>
+</node>
+<node id="Thailand">
+  <data key="d0">LOCATION</data>
+  <data key="d1">Thailand</data>
+</node>
+<node id="San Jose, California">
+  <data key="d0">LOCATION</data>
+  <data key="d1">San Jose, California</data>
+</node>
+<node id="Incentive-Based Compensation">
+  <data key="d0">PRODUCT</data>
+  <data key="d1">Incentive-Based Compensation</data>
+</node>
+<node id="Covered Executives">
+  <data key="d0">PERSON</data>
+  <data key="d1">Covered Executives</data>
+</node>
+<node id="Accounting Restatement">
+  <data key="d0">EVENT</data>
+  <data key="d1">Accounting Restatement</data>
+</node>
+<edge source="Apple Inc" target="$95.3 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="AppleCare">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Cloud Services">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Digital Content">
+  <data key="d2">OPERATES</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Arcade">
+  <data key="d2">OFFERS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Fitness+">
+  <data key="d2">OFFERS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Music">
+  <data key="d2">OFFERS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple News+">
+  <data key="d2">OFFERS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple TV+">
+  <data key="d2">OFFERS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Card">
+  <data key="d2">OFFERS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Pay">
+  <data key="d2">OFFERS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Americas">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3">167,045</data>
+</edge>
+<edge source="Apple Inc" target="Europe">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3">101,328</data>
+</edge>
+<edge source="Apple Inc" target="Greater China">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3">66,952</data>
+</edge>
+<edge source="Apple Inc" target="Japan">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3">25,052</data>
+</edge>
+<edge source="Apple Inc" target="Rest of Asia Pacific">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3">30,658</data>
+</edge>
+<edge source="Apple Inc" target="AAPL">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="23,301">
+  <data key="d2">HAS_SHAREHOLDERS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="October 18, 2024">
+  <data key="d2">HAS_SHAREHOLDERS_DATE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="35,697">
+  <data key="d2">Purchased_SHARES</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="224.11">
+  <data key="d2">AVERAGE_PRICE_PER_SHARE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="89,074">
+  <data key="d2">TOTAL_DOLLAR_VALUE_OF_SHARES_PURCHASED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="110 billion">
+  <data key="d2">AUTHORIZED_SHARE_REPURCHASE_PROGRAM</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="20.9 billion">
+  <data key="d2">UTILIZED_SHARE_REPURCHASE_PROGRAM</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="4.1 billion">
+  <data key="d2">UTILIZED_PREVIOUS_REPURCHASE_PROGRAM</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="2024">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="MacBook Pro 14-in.">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="MacBook Pro 16-in.">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="iMac">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="MacBook Air 13-in.">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="MacBook Air 15-in.">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="iPad Air">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="iPad Pro">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="iOS 18">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="macOS Sequoia">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="iPadOS 18">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="watchOS 11">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="vision OS 2">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="tvOS 18">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Intelligence™">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="iPhone 16">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="iPhone 16 Plus">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="iPhone 16 Pro">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="iPhone 16 Pro Max">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Watch Series 10">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="AirPods 4">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="September 30, 2023">
+  <data key="d2">HAS_DATE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Services">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3">96,169</data>
+</edge>
+<edge source="Apple Inc" target="iPhone">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3">201,183</data>
+</edge>
+<edge source="Apple Inc" target="Mac">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3">29,984</data>
+</edge>
+<edge source="Apple Inc" target="iPad">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3">26,694</data>
+</edge>
+<edge source="Apple Inc" target="Wearables, Home and Accessories">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3">37,005</data>
+</edge>
+<edge source="Apple Inc" target="September 28, 2024">
+  <data key="d2">AS_OF</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="September 24, 2022">
+  <data key="d2">DATE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$93,736 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$96,995 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$99,803 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$4,280 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$98,016 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$364,980 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$352,583 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$308,030 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$29,943 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$35,228 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$33,410 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$32,833 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$7,286 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$14,287 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$91,479 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$45,680 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$74,834 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$68,960 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$78,304 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$8,249 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$9,967 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$10,912 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$85,750 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$45,888 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="93,736">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="96,995">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="99,803">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="118,254">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="2,935">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="121,983">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="30,737">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="29,943">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$88.4 billion">
+  <data key="d2">FAIR_VALUE_OF_NOTES</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$90.8 billion">
+  <data key="d2">FAIR_VALUE_OF_NOTES</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="499 million">
+  <data key="d2">SHARES_REPURCHASED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="$95.0 billion">
+  <data key="d2">AMOUNT_SPENT_ON_SHARE_REPURCHASE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="15,550,061">
+  <data key="d2">COMMON_STOCK_OUTSTANDING_ENDING_BALANCES</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="15,943,425">
+  <data key="d2">COMMON_STOCK_OUTSTANDING_ENDING_BALANCES</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="16,426,786">
+  <data key="d2">COMMON_STOCK_OUTSTANDING_BEGINNING_BALANCES</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="499,372">
+  <data key="d2">SHARES_REPURCHASED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="471,419">
+  <data key="d2">SHARES_REPURCHASED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="568,589">
+  <data key="d2">SHARES_REPURCHASED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="66,097">
+  <data key="d2">COMMON_STOCK_ISSUED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="78,055">
+  <data key="d2">COMMON_STOCK_ISSUED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="85,228">
+  <data key="d2">COMMON_STOCK_ISSUED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="15,116,786">
+  <data key="d2">COMMON_STOCK_OUTSTANDING_ENDING_BALANCES</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Tim Cook">
+  <data key="d2">IS_CEO_OF</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="The Bank of New York Mellon Trust Company, N.A.">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="€1,000,000,000">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="€1,250,000,000">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="0.000% 2025 Notes">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="0.875% 2025 Notes">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="California">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Participant">
+  <data key="d2">IMPOSES_REQUIREMENTS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Imposition of Other Requirements">
+  <data key="d2">ANNOUNCED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Asia Limited">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Asia LLC">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Canada Inc.">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Computer Trading (Shanghai) Co., Ltd.">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Distribution International Limited">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple India Private Limited">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Insurance Company, Inc.">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Japan, Inc.">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Korea Limited">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Operations International Limited">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Operations Limited">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Operations Mexico, S.A. de C.V.">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Pty Limited">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Sales International Limited">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple South Asia (Thailand) Limited">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Apple Vietnam Limited Liability Company">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Braeburn Capital, Inc.">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="iTunes K.K.">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Nevada, U.S.">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Hong Kong">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Delaware, U.S.">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Canada">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="China">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Ireland">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Australia">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Mexico">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="Thailand">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="South Korea">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="San Jose, California">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple Inc" target="People and Compensation Committee">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Global markets">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Global smartphone, personal computer and tablet markets">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="patents, trademarks and copyrights">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="R&amp;D">
+  <data key="d2">INVESTED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Sophisticated operating system software">
+  <data key="d2">OFFERS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="health">
+  <data key="d2">INTRODUCED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Chief Executive Officer">
+  <data key="d2">IS_CEO_OF</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="executive team">
+  <data key="d2">IS_CEO_OF</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Silicon Valley">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="malicious attacks">
+  <data key="d2">EXPERIENCES</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="unauthorized access">
+  <data key="d2">EXPERIENCES</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="confidential information">
+  <data key="d2">IMPACTS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="customers">
+  <data key="d2">IMPACTS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="stock price">
+  <data key="d2">IMPACTS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="commercial relationships">
+  <data key="d2">IMPACTS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="litigation">
+  <data key="d2">IMPACTS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="government investigations">
+  <data key="d2">IMPACTS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="geopolitical tensions">
+  <data key="d2">IMPACTS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="personal information">
+  <data key="d2">IMPACTS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="information technology systems">
+  <data key="d2">SECURES</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="sensitive data">
+  <data key="d2">SECURES</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="encryption">
+  <data key="d2">USES</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="authentication technologies">
+  <data key="d2">USES</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="multifactor authentication">
+  <data key="d2">DEPLOYED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="third parties">
+  <data key="d2">INDUCES</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="unfavorable results of legal proceedings or government investigations">
+  <data key="d2">ANNOUNCED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="various claims, legal proceedings and government investigations">
+  <data key="d2">IS_SUBJECT_TO</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="patent claims relating to its cellular-enabled products">
+  <data key="d2">FACED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="expensive, time-consuming and disruptive to the Company’s operations">
+  <data key="d2">HAS_EVENT</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="$95.3 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="U.S. Internal Revenue Service">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Board">
+  <data key="d2">IS_CEO_OF</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Ireland">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="€14.2 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="$15.8 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Capital Return Program">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="share repurchase program">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="quarterly cash dividend">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="ASU 2023-09">
+  <data key="d2">ANNOUNCED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="ASU 2023-07">
+  <data key="d2">ANNOUNCED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Timothy D. Cook">
+  <data key="d2">IS_CEO_OF</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="U.S. interest rates">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="100 basis points">
+  <data key="d2">INCREASED_BY</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="September 28, 2024">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="September 30, 2023">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="investment portfolio">
+  <data key="d2">IS_CEO_OF</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="term debt">
+  <data key="d2">IS_CEO_OF</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="iPhone">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="$12.8 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="$12.1 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="93,736">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="96,995">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="99,803">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="15,343,783">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="15,744,231">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="16,215,963">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="15,408,095">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="15,812,547">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="16,325,819">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="64%">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="25%">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="9%">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="2%">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="24 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Land and buildings">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Machinery, equipment and internal-use software">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Leasehold improvements">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Depreciation expense on property, plant and equipment">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="€13.1 billion">
+  <data key="d2">INCREASED_BY</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="€1.2 billion">
+  <data key="d2">INCREASED_BY</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="€12.7 billion">
+  <data key="d2">INCREASED_BY</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="State Aid Decision">
+  <data key="d2">ANNOUNCED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="$10.0 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="$6.0 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="9.0 months">
+  <data key="d2">DECREASED_BY</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="5.00%">
+  <data key="d2">DECREASED_BY</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="5.28%">
+  <data key="d2">DECREASED_BY</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="principal financial officer">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3">effective as of September 28, 2024</data>
+</edge>
+<edge source="Company" target="Deirdre O'Brien">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Exhibit 19.1">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Form 10-K">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="SEC">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="2025 Proxy Statement">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Board of Directors">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3">California</data>
+</edge>
+<edge source="Company" target="Dividend Equivalent Rights">
+  <data key="d2">HAS_PRODUCT</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="RSUs">
+  <data key="d2">ACQUIRED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="TSR Percentile">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Performance Period">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Vesting Date">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Comparison Group">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Company" target="Standard &amp; Poor’s 500 Index">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="$95.3 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="164,000 full-time equivalent employees">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="September 28, 2024">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="China mainland">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="India">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="Japan">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="South Korea">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="Taiwan">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="Vietnam">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="U.S.">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="Cupertino">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="California">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="Digital Markets Act Investigations">
+  <data key="d2">ANNOUNCED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="2024">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="$2.0 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="$13.8 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="$1.9 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="$1.0 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="September 28, 2024">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="September 30, 2023">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="$10,234 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="$10,661 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="$1,069 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="$1,015 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="$11,303 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="$11,676 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="$1,488 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="$1,410 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="$10,046 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="$10,408 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="$12,430 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="$12,842 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="1,820 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="1,914 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="1,674 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="1,360 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="1,187 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="5,563 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="13,518 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="(1,984) million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="11,534 million">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="10.3 years">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Company" target="10.6 years">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="Floating Rate Notes due 2019">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="1.300% Notes due 2018">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="1.700% Notes due 2019">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="2.250% Notes due 2021">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="2.850% Notes due 2023">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="3.250% Notes due 2026">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="4.500% Notes due 2036">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="4.650% Notes due 2046">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="Floating Rate Notes due 2022">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="1.550% Notes due 2019">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="1.900% Notes due 2020">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="2.500% Notes due 2022">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="3.000% Notes due 2024">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="3.350% Notes due 2027">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="4.250% Notes due 2047">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="0.875% Notes due 2025">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="1.375% Notes due 2029">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="3.000% Notes due 2027">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="1.500% Notes due 2019">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="2.100% Notes due 2022">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="2.900% Notes due 2027">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="3.750% Notes due 2047">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="1.800% Notes due 2019">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="2.000% Notes due 2020">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="2.400% Notes due 2023">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Officer’s Certificate of the Registrant" target="2.750% Notes due 2025">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple" target="first-quarter results">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple" target="early February">
+  <data key="d2">TRADING_WINDOW</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple" target="second-quarter results">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple" target="early May">
+  <data key="d2">TRADING_WINDOW</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple" target="third-quarter results">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple" target="early August">
+  <data key="d2">TRADING_WINDOW</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple" target="year-end results">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple" target="early November">
+  <data key="d2">TRADING_WINDOW</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple" target="special restricted trading period">
+  <data key="d2">ACQUIRED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple" target="extended restricted trading period">
+  <data key="d2">ACQUIRED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple" target="Designated Individuals">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple" target="Committee">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple" target="Covered Executives">
+  <data key="d2">ANNOUNCED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple" target="Accounting Restatement">
+  <data key="d2">ACQUIRED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple" target="Covered Executive">
+  <data key="d2">RECOVER</data>
+  <data key="d3"></data>
+</edge>
+<edge source="September 28, 2024" target="$140.8 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="September 28, 2024" target="2.6 billion">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="September 28, 2024" target="13.2 billion">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="September 28, 2024" target="foreign tax credit carryforwards">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="September 28, 2024" target="California R&amp;D credit carryforwards">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="September 28, 2024" target="Ireland">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="September 28, 2024" target="California">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="2024" target="$29,749">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="2024" target="24.1%">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="2024" target="21%">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="2024" target="$10.2 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="2024" target="gross unrecognized tax benefits">
+  <data key="d2">INCREASED_BY</data>
+  <data key="d3"></data>
+</edge>
+<edge source="RSUs" target="2024">
+  <data key="d2">FAIR_VALUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="RSUs" target="31 million">
+  <data key="d2">SHARES_WITHHELD</data>
+  <data key="d3"></data>
+</edge>
+<edge source="RSUs" target="37 million">
+  <data key="d2">SHARES_WITHHELD</data>
+  <data key="d3"></data>
+</edge>
+<edge source="RSUs" target="41 million">
+  <data key="d2">SHARES_WITHHELD</data>
+  <data key="d3"></data>
+</edge>
+<edge source="RSUs" target="$5.6 billion">
+  <data key="d2">PAYMENTS_TO_TAXING_AUTHORITIES</data>
+  <data key="d3"></data>
+</edge>
+<edge source="RSUs" target="$6.4 billion">
+  <data key="d2">PAYMENTS_TO_TAXING_AUTHORITIES</data>
+  <data key="d3"></data>
+</edge>
+<edge source="RSUs" target="$19.4 billion">
+  <data key="d2">UNRECOGNIZED_COMPENSATION_COST</data>
+  <data key="d3"></data>
+</edge>
+<edge source="RSUs" target="Participant">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="3.050% 2029 Notes" target="£750,000,000">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="3.050% 2029 Notes" target="July 31, 2015">
+  <data key="d2">ISSUED_ON</data>
+  <data key="d3"></data>
+</edge>
+<edge source="3.050% 2029 Notes" target="July 31, 2029">
+  <data key="d2">MATURITY_DATE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="3.050% 2029 Notes" target="3.050%">
+  <data key="d2">INTEREST_RATE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="3.050% 2029 Notes" target="pound sterling">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="3.050% 2029 Notes" target="U.S. dollars">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="3.050% 2029 Notes" target="The City of New York">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="3.050% 2029 Notes" target="The Wall Street Journal">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="3.050% 2029 Notes" target="3.050% 2029 Notes">
+  <data key="d2">OPTIONAL_REDEMPTION</data>
+  <data key="d3"></data>
+</edge>
+<edge source="3.050% 2029 Notes" target="United Kingdom government bond">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Japan" target="Apple Inc">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Japan" target="Services">
+  <data key="d2">INCREASED_BY</data>
+  <data key="d3">3%</data>
+</edge>
+<edge source="Japan" target="iPhone">
+  <data key="d2">INCREASED_BY</data>
+  <data key="d3">3%</data>
+</edge>
+<edge source="Japan" target="Mac">
+  <data key="d2">INCREASED_BY</data>
+  <data key="d3">27%</data>
+</edge>
+<edge source="Japan" target="iPad">
+  <data key="d2">DECREASED_BY</data>
+  <data key="d3">7%</data>
+</edge>
+<edge source="Americas" target="Apple Inc">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Americas" target="Services">
+  <data key="d2">INCREASED_BY</data>
+  <data key="d3">3%</data>
+</edge>
+<edge source="Americas" target="iPhone">
+  <data key="d2">INCREASED_BY</data>
+  <data key="d3">3%</data>
+</edge>
+<edge source="Americas" target="Mac">
+  <data key="d2">INCREASED_BY</data>
+  <data key="d3">2%</data>
+</edge>
+<edge source="Americas" target="iPad">
+  <data key="d2">DECREASED_BY</data>
+  <data key="d3">6%</data>
+</edge>
+<edge source="Europe" target="Apple Inc">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Europe" target="Services">
+  <data key="d2">INCREASED_BY</data>
+  <data key="d3">7%</data>
+</edge>
+<edge source="Europe" target="iPhone">
+  <data key="d2">INCREASED_BY</data>
+  <data key="d3">7%</data>
+</edge>
+<edge source="Europe" target="Mac">
+  <data key="d2">INCREASED_BY</data>
+  <data key="d3">27%</data>
+</edge>
+<edge source="Europe" target="iPad">
+  <data key="d2">INCREASED_BY</data>
+  <data key="d3">3%</data>
+</edge>
+<edge source="Greater China" target="Apple Inc">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Greater China" target="Services">
+  <data key="d2">DECREASED_BY</data>
+  <data key="d3">8%</data>
+</edge>
+<edge source="Greater China" target="iPhone">
+  <data key="d2">DECREASED_BY</data>
+  <data key="d3">8%</data>
+</edge>
+<edge source="Greater China" target="Mac">
+  <data key="d2">INCREASED_BY</data>
+  <data key="d3">3%</data>
+</edge>
+<edge source="Greater China" target="iPad">
+  <data key="d2">DECREASED_BY</data>
+  <data key="d3">3%</data>
+</edge>
+<edge source="Rest of Asia Pacific" target="Apple Inc">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Rest of Asia Pacific" target="Services">
+  <data key="d2">INCREASED_BY</data>
+  <data key="d3">4%</data>
+</edge>
+<edge source="Rest of Asia Pacific" target="iPhone">
+  <data key="d2">INCREASED_BY</data>
+  <data key="d3">0%</data>
+</edge>
+<edge source="Rest of Asia Pacific" target="Mac">
+  <data key="d2">INCREASED_BY</data>
+  <data key="d3">27%</data>
+</edge>
+<edge source="Rest of Asia Pacific" target="iPad">
+  <data key="d2">DECREASED_BY</data>
+  <data key="d3">3%</data>
+</edge>
+<edge source="September 30, 2023" target="13.8 billion">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Bank of New York Mellon Trust Company, N.A." target="Registrant">
+  <data key="d2">TRUSTEE_OF</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Bank of New York Mellon Trust Company, N.A." target="The Bank of New York Mellon Trust Company, N.A. and its affiliates">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Bank of New York Mellon Trust Company, N.A." target="Euroclear">
+  <data key="d2">ACQUIRED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="The Bank of New York Mellon Trust Company, N.A." target="Clearstream">
+  <data key="d2">ACQUIRED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="2042 Notes" target="euro">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="2042 Notes" target="U.S. dollars">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="2042 Notes" target="London">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="2042 Notes" target="2042 Notes">
+  <data key="d2">OPTIONAL_REDEMPTION</data>
+  <data key="d3"></data>
+</edge>
+<edge source="2042 Notes" target="United Kingdom government bond">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Participant" target="Apple Inc">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Participant" target="Company">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Committee" target="Company">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Committee" target="Apple">
+  <data key="d2">DIRECTED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Committee" target="Incentive-Based Compensation">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Committee" target="Covered Executive">
+  <data key="d2">DETERMINED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Tim Cook" target="Apple Inc">
+  <data key="d2">IS_CEO_OF</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Tim Cook" target="The Company">
+  <data key="d2">IS_CEO_OF</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Tim Cook" target="Company">
+  <data key="d2">IS_CEO_OF</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Tim Cook" target="Apple">
+  <data key="d2">IS_CEO_OF</data>
+  <data key="d3"></data>
+</edge>
+<edge source="0.875% 2025 Notes" target="0.875% 2025 Notes">
+  <data key="d2">OPTIONAL_REDEMPTION</data>
+  <data key="d3"></data>
+</edge>
+<edge source="0.875% 2025 Notes" target="German government bond">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Commission" target="The Company">
+  <data key="d2">ACQUIRED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Commission" target="Article 5(4) of the DMA">
+  <data key="d2">ANNOUNCED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Commission" target="Article 6(3) of the DMA">
+  <data key="d2">ANNOUNCED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="$97.3 billion" target="$10.9 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="$97.3 billion" target="$38.5 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="$97.3 billion" target="$2.6 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="$10.0 billion" target="$10.0 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="1.375% 2029 Notes" target="1.375% 2029 Notes">
+  <data key="d2">OPTIONAL_REDEMPTION</data>
+  <data key="d3"></data>
+</edge>
+<edge source="1.375% 2029 Notes" target="German government bond">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="2031 Notes" target="2031 Notes">
+  <data key="d2">OPTIONAL_REDEMPTION</data>
+  <data key="d3"></data>
+</edge>
+<edge source="2031 Notes" target="German government bond">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="outsourcing partners" target="outsourcing partners">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3">China mainland, India, Japan, South Korea, Taiwan, Vietnam</data>
+</edge>
+<edge source="customers" target="hardware products">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="third parties" target="employees">
+  <data key="d2">INDUCES</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Timothy D. Cook" target="Apple Inc">
+  <data key="d2">IS_CEO_OF</data>
+  <data key="d3"></data>
+</edge>
+<edge source="25%" target="2013 Indenture">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Ernst &amp; Young LLP" target="Apple Inc">
+  <data key="d2">HAS_SERVED_AS_AUDITOR_SINCE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Ernst &amp; Young LLP" target="Registrant">
+  <data key="d2">REPORTS_TO</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Deirdre O'Brien" target="Company">
+  <data key="d2">IS_CEO_OF</data>
+  <data key="d3"></data>
+</edge>
+<edge source="2026 Notes" target="2026 Notes">
+  <data key="d2">OPTIONAL_REDEMPTION</data>
+  <data key="d3"></data>
+</edge>
+<edge source="2027 Notes" target="2027 Notes">
+  <data key="d2">OPTIONAL_REDEMPTION</data>
+  <data key="d3"></data>
+</edge>
+<edge source="People and Compensation Committee" target="Apple Inc">
+  <data key="d2">IS_CEO_OF</data>
+  <data key="d3"></data>
+</edge>
+<edge source="third-party software developers" target="hardware products">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="technology and other patent-holding companies" target="vigorously defending infringement actions">
+  <data key="d2">DEFENDED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="U.S. dollar" target="local currencies">
+  <data key="d2">RELATIVE_TO</data>
+  <data key="d3"></data>
+</edge>
+<edge source="non–U.S. dollar–denominated sales" target="gross margins">
+  <data key="d2">AFFECTS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="foreign currency–denominated sales" target="gross margins">
+  <data key="d2">AFFECTS</data>
+  <data key="d3"></data>
+</edge>
+<edge source="credit risk" target="investment portfolio">
+  <data key="d2">EXPOSED_TO</data>
+  <data key="d3"></data>
+</edge>
+<edge source="U.S. Department of Justice" target="The Company">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="$15.6 billion" target="$2.0 billion">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="European Commission" target="Ireland">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="principal executive officer" target="Company">
+  <data key="d2">IS_CEO_OF</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Jeff Williams" target="Company">
+  <data key="d2">IS_CEO_OF</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Supplement No. 1 to the Officer’s Certificate of the Registrant" target="Floating Rate Notes due 2020">
+  <data key="d2">LAUNCHED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Indenture" target="The Bank of New York Mellon Trust Company, N.A.">
+  <data key="d2">ACQUIRED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Luca Maestri" target="Apple Inc">
+  <data key="d2">IS_CEO_OF</data>
+  <data key="d3"></data>
+</edge>
+<edge source="2025 Notes" target="German government bond">
+  <data key="d2">LOCATED_IN</data>
+  <data key="d3"></data>
+</edge>
+<edge source="33%" target="2018 Indenture">
+  <data key="d2">HAS_REVENUE</data>
+  <data key="d3"></data>
+</edge>
+<edge source="new parent company" target="Comparison Group member">
+  <data key="d2">ACQUIRED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="surviving, resulting or successor entity" target="Comparison Group member">
+  <data key="d2">MERGED</data>
+  <data key="d3"></data>
+</edge>
+<edge source="TSR" target="Comparison Group member">
+  <data key="d2">DECREASED_BY</data>
+  <data key="d3"></data>
+</edge>
+<edge source="Apple’s General Counsel" target="Apple">
+  <data key="d2">IS_CEO_OF</data>
+  <data key="d3"></data>
+</edge>
+</graph></graphml>

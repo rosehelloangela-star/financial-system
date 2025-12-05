@@ -1,0 +1,437 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="context" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d1" for="node" attr.name="label" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="$4.1">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$4.1</data>
+</node>
+<node id="2024">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2024</data>
+</node>
+<node id="3">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3</data>
+</node>
+<node id="1">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1</data>
+</node>
+<node id="42">
+  <data key="d0">NUMBER</data>
+  <data key="d1">42</data>
+</node>
+<node id="33">
+  <data key="d0">NUMBER</data>
+  <data key="d1">33</data>
+</node>
+<node id="22">
+  <data key="d0">NUMBER</data>
+  <data key="d1">22</data>
+</node>
+<node id="156">
+  <data key="d0">NUMBER</data>
+  <data key="d1">156</data>
+</node>
+<node id="19">
+  <data key="d0">NUMBER</data>
+  <data key="d1">19</data>
+</node>
+<node id="$100">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$100</data>
+</node>
+<node id="131">
+  <data key="d0">NUMBER</data>
+  <data key="d1">131</data>
+</node>
+<node id="6.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">6.</data>
+</node>
+<node id="430">
+  <data key="d0">NUMBER</data>
+  <data key="d1">430</data>
+</node>
+<node id="113">
+  <data key="d0">NUMBER</data>
+  <data key="d1">113</data>
+</node>
+<node id="27">
+  <data key="d0">NUMBER</data>
+  <data key="d1">27</data>
+</node>
+<node id="$400">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$400</data>
+</node>
+<node id="4.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4.</data>
+</node>
+<node id="910">
+  <data key="d0">NUMBER</data>
+  <data key="d1">910</data>
+</node>
+<node id="2016.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2016.</data>
+</node>
+<node id="216">
+  <data key="d0">NUMBER</data>
+  <data key="d1">216</data>
+</node>
+<node id="2.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2.</data>
+</node>
+<node id="18">
+  <data key="d0">NUMBER</data>
+  <data key="d1">18</data>
+</node>
+<node id="697">
+  <data key="d0">NUMBER</data>
+  <data key="d1">697</data>
+</node>
+<node id="322">
+  <data key="d0">NUMBER</data>
+  <data key="d1">322</data>
+</node>
+<node id="1B">
+  <data key="d0">NUMBER</data>
+  <data key="d1">1B</data>
+</node>
+<node id="224.11">
+  <data key="d0">NUMBER</data>
+  <data key="d1">224.11</data>
+</node>
+<node id="89">
+  <data key="d0">NUMBER</data>
+  <data key="d1">89</data>
+</node>
+<node id="6">
+  <data key="d0">NUMBER</data>
+  <data key="d1">6</data>
+</node>
+<node id="2022">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2022</data>
+</node>
+<node id="5.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">5.</data>
+</node>
+<node id="301">
+  <data key="d0">NUMBER</data>
+  <data key="d1">301</data>
+</node>
+<node id="260">
+  <data key="d0">NUMBER</data>
+  <data key="d1">260</data>
+</node>
+<node id="2019">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2019</data>
+</node>
+<node id="146">
+  <data key="d0">NUMBER</data>
+  <data key="d1">146</data>
+</node>
+<node id="215">
+  <data key="d0">NUMBER</data>
+  <data key="d1">215</data>
+</node>
+<node id="074">
+  <data key="d0">NUMBER</data>
+  <data key="d1">074</data>
+</node>
+<node id="$110">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$110</data>
+</node>
+<node id="$20.9">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$20.9</data>
+</node>
+<node id="31">
+  <data key="d0">NUMBER</data>
+  <data key="d1">31</data>
+</node>
+<node id="2023.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2023.</data>
+</node>
+<node id="281">
+  <data key="d0">NUMBER</data>
+  <data key="d1">281</data>
+</node>
+<node id="30">
+  <data key="d0">NUMBER</data>
+  <data key="d1">30</data>
+</node>
+<node id="10">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10</data>
+</node>
+<node id="28">
+  <data key="d0">NUMBER</data>
+  <data key="d1">28</data>
+</node>
+<node id="653">
+  <data key="d0">NUMBER</data>
+  <data key="d1">653</data>
+</node>
+<node id="2">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2</data>
+</node>
+<node id="16">
+  <data key="d0">NUMBER</data>
+  <data key="d1">16</data>
+</node>
+<node id="$300">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$300</data>
+</node>
+<node id="210">
+  <data key="d0">NUMBER</data>
+  <data key="d1">210</data>
+</node>
+<node id="4">
+  <data key="d0">NUMBER</data>
+  <data key="d1">4</data>
+</node>
+<node id="35">
+  <data key="d0">NUMBER</data>
+  <data key="d1">35</data>
+</node>
+<node id="207">
+  <data key="d0">NUMBER</data>
+  <data key="d1">207</data>
+</node>
+<node id="155">
+  <data key="d0">NUMBER</data>
+  <data key="d1">155</data>
+</node>
+<node id="5">
+  <data key="d0">NUMBER</data>
+  <data key="d1">5</data>
+</node>
+<node id="222.86">
+  <data key="d0">NUMBER</data>
+  <data key="d1">222.86</data>
+</node>
+<node id="221.39">
+  <data key="d0">NUMBER</data>
+  <data key="d1">221.39</data>
+</node>
+<node id="23">
+  <data key="d0">NUMBER</data>
+  <data key="d1">23</data>
+</node>
+<node id="24">
+  <data key="d0">NUMBER</data>
+  <data key="d1">24</data>
+</node>
+<node id="$500">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$500</data>
+</node>
+<node id="25">
+  <data key="d0">NUMBER</data>
+  <data key="d1">25</data>
+</node>
+<node id="2023">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2023</data>
+</node>
+<node id="21">
+  <data key="d0">NUMBER</data>
+  <data key="d1">21</data>
+</node>
+<node id="2020">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2020</data>
+</node>
+<node id="17">
+  <data key="d0">NUMBER</data>
+  <data key="d1">17</data>
+</node>
+<node id="$200">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$200</data>
+</node>
+<node id="20">
+  <data key="d0">NUMBER</data>
+  <data key="d1">20</data>
+</node>
+<node id="100">
+  <data key="d0">NUMBER</data>
+  <data key="d1">100</data>
+</node>
+<node id="$0">
+  <data key="d0">NUMBER</data>
+  <data key="d1">$0</data>
+</node>
+<node id="9">
+  <data key="d0">NUMBER</data>
+  <data key="d1">9</data>
+</node>
+<node id="26">
+  <data key="d0">NUMBER</data>
+  <data key="d1">26</data>
+</node>
+<node id="10%">
+  <data key="d0">NUMBER</data>
+  <data key="d1">10%</data>
+</node>
+<node id="500">
+  <data key="d0">NUMBER</data>
+  <data key="d1">500</data>
+</node>
+<node id="2021">
+  <data key="d0">NUMBER</data>
+  <data key="d1">2021</data>
+</node>
+<node id="3.">
+  <data key="d0">NUMBER</data>
+  <data key="d1">3.</data>
+</node>
+<node id="112">
+  <data key="d0">NUMBER</data>
+  <data key="d1">112</data>
+</node>
+<node id="273">
+  <data key="d0">NUMBER</data>
+  <data key="d1">273</data>
+</node>
+<node id="Apple Inc">
+  <data key="d0">ORG</data>
+  <data key="d1">Apple Inc</data>
+</node>
+<node id="Among Apple Inc">
+  <data key="d0">ORG</data>
+  <data key="d1">Among Apple Inc</data>
+</node>
+<node id="The Nasdaq Stock Market LLC">
+  <data key="d0">ORG</data>
+  <data key="d1">The Nasdaq Stock Market LLC</data>
+</node>
+<node id="Technology Supersector Index&#10;Apple Inc">
+  <data key="d0">ORG</data>
+  <data key="d1">Technology Supersector Index
+Apple Inc</data>
+</node>
+<node id="June 24, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">June 24, 2024</data>
+</node>
+<node id="October 18, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">October 18, 2024</data>
+</node>
+<node id="June 30, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">June 30, 2024</data>
+</node>
+<node id="August 3, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">August 3, 2024</data>
+</node>
+<node id="September 1, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">September 1, 2024</data>
+</node>
+<node id="August 31, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">August 31, 2024</data>
+</node>
+<node id="May 2, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">May 2, 2024</data>
+</node>
+<node id="March 25, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">March 25, 2024</data>
+</node>
+<node id="September 30, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">September 30, 2024</data>
+</node>
+<node id="August 4, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">August 4, 2024</data>
+</node>
+<node id="September  28, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">September  28, 2024</data>
+</node>
+<node id="September 28, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">September 28, 2024</data>
+</node>
+<node id="September 28, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">September 28, 2024</data>
+</node>
+<node id="January 16, &#10;2024">
+  <data key="d0">DATE</data>
+  <data key="d1">January 16, 
+2024</data>
+</node>
+<node id="March 21, 2024">
+  <data key="d0">DATE</data>
+  <data key="d1">March 21, 2024</data>
+</node>
+<node id="September 27, 2019">
+  <data key="d0">DATE</data>
+  <data key="d1">September 27, 2019</data>
+</node>
+<node id="2024, the commission"/>
+<node id="that it had"/>
+<node id="part of publicly"/>
+<node id="plans or programsapproximate"/>
+<node id="share repurchase program"/>
+<node id="on may 2,"/>
+<edge source="2024, the commission" target="that it had">
+  <data key="d2">announced</data>
+  <data key="d3">Legal Pr oceedings
+Digital Markets Act Investigations
+On March 25, 2024, the Commission announced that it had opened two formal noncompliance investigations against the 
+Company under the DMA</data>
+</edge>
+<edge source="part of publicly" target="plans or programsapproximate">
+  <data key="d2">announced</data>
+  <data key="d3">Purchases  of Equity Securities by the Issuer and Affiliated Purchasers
+Share repurchase activity during the three months ended September  28, 2024  was as follows (in millions, except number of 
+shares, which are reflected in thousands, and per-share amounts):
+PeriodsTotal Number
+of Shares 
+PurchasedAverage 
+Price
+Paid Per 
+ShareTotal Number 
+of Shares
+Purchased as 
+Part of Publicly
+Announced 
+Plans or 
+ProgramsApproximate 
+Dollar Value of
+Shares That May 
+Yet Be Purchased
+Under the Plans 
+or Programs (1)
+June 30, 2024 to August 3, 2024:
+Open market and privately negotiated purchases  35,697 $ 224</data>
+</edge>
+<edge source="share repurchase program" target="on may 2,">
+  <data key="d2">announced</data>
+  <data key="d3">86  33,653 
+Total  112,260 $ 89,074 
+(1) As of September 28, 2024 , the Company was authorized by the Board to purchase up to $110 billion  of the Company’s 
+common stock under a share repurchase program announced on May 2, 2024, of which $20</data>
+</edge>
+</graph></graphml>

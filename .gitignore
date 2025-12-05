@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+
+# Claude Code IDE configurations (contains API keys)
+.claude/
+frontend/.claude/
+
+# ChromaDB data
+data/chroma/
+
+# SEC EDGAR downloaded filings (large data files, regeneratable)
+data/edgar_filings/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+test_*.py
+check_settings.py
+diagnose_openai.py
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+
+# Temporary files
+*.png
+!assets/*.png
+PHASE_1-4_SOLUTION.md
+
+# Project documentation (internal use only)
+docs/
+PLAN.md
+CLAUDE.md

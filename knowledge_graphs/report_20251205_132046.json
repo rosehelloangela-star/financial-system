@@ -1,0 +1,6983 @@
+{
+  "metadata": {
+    "title": "10-K 2024, 09.28.2024-2024-10-31-12-16",
+    "author": "anonymous",
+    "subject": "",
+    "file_name": "report.pdf"
+  },
+  "created_at": "2025-12-05T13:20:46.873749",
+  "entities": [
+    {
+      "text": "113",
+      "type": "NUMBER",
+      "start": 104378,
+      "end": 104381
+    },
+    {
+      "text": "2.10%",
+      "type": "NUMBER",
+      "start": 194618,
+      "end": 194623
+    },
+    {
+      "text": "2017.10",
+      "type": "NUMBER",
+      "start": 201164,
+      "end": 201171
+    },
+    {
+      "text": "2024",
+      "type": "NUMBER",
+      "start": 223,
+      "end": 227
+    },
+    {
+      "text": "2047.8",
+      "type": "NUMBER",
+      "start": 197112,
+      "end": 197118
+    },
+    {
+      "text": "741",
+      "type": "NUMBER",
+      "start": 111811,
+      "end": 111814
+    },
+    {
+      "text": "645",
+      "type": "NUMBER",
+      "start": 161975,
+      "end": 161978
+    },
+    {
+      "text": "226986",
+      "type": "NUMBER",
+      "start": 398357,
+      "end": 398363
+    },
+    {
+      "text": "$15.8",
+      "type": "NUMBER",
+      "start": 115383,
+      "end": 115388
+    },
+    {
+      "text": "038",
+      "type": "NUMBER",
+      "start": 130370,
+      "end": 130373
+    },
+    {
+      "text": "2024.",
+      "type": "NUMBER",
+      "start": 193908,
+      "end": 193913
+    },
+    {
+      "text": "40",
+      "type": "NUMBER",
+      "start": 503,
+      "end": 505
+    },
+    {
+      "text": "2.750%",
+      "type": "NUMBER",
+      "start": 198208,
+      "end": 198214
+    },
+    {
+      "text": "948",
+      "type": "NUMBER",
+      "start": 161932,
+      "end": 161935
+    },
+    {
+      "text": "984",
+      "type": "NUMBER",
+      "start": 108461,
+      "end": 108464
+    },
+    {
+      "text": "062",
+      "type": "NUMBER",
+      "start": 162580,
+      "end": 162583
+    },
+    {
+      "text": "672",
+      "type": "NUMBER",
+      "start": 128705,
+      "end": 128708
+    },
+    {
+      "text": "105",
+      "type": "NUMBER",
+      "start": 141788,
+      "end": 141791
+    },
+    {
+      "text": "2020.10",
+      "type": "NUMBER",
+      "start": 201853,
+      "end": 201860
+    },
+    {
+      "text": "2017.",
+      "type": "NUMBER",
+      "start": 201164,
+      "end": 201169
+    },
+    {
+      "text": "110",
+      "type": "NUMBER",
+      "start": 506,
+      "end": 509
+    },
+    {
+      "text": "454",
+      "type": "NUMBER",
+      "start": 129329,
+      "end": 129332
+    },
+    {
+      "text": "8B",
+      "type": "NUMBER",
+      "start": 228677,
+      "end": 228679
+    },
+    {
+      "text": "31",
+      "type": "NUMBER",
+      "start": 1325,
+      "end": 1327
+    },
+    {
+      "text": "520",
+      "type": "NUMBER",
+      "start": 130554,
+      "end": 130557
+    },
+    {
+      "text": "$15.9",
+      "type": "NUMBER",
+      "start": 167158,
+      "end": 167163
+    },
+    {
+      "text": "849",
+      "type": "NUMBER",
+      "start": 128795,
+      "end": 128798
+    },
+    {
+      "text": "4.650%",
+      "type": "NUMBER",
+      "start": 196341,
+      "end": 196347
+    },
+    {
+      "text": "42",
+      "type": "NUMBER",
+      "start": 1377,
+      "end": 1379
+    },
+    {
+      "text": "66",
+      "type": "NUMBER",
+      "start": 106962,
+      "end": 106964
+    },
+    {
+      "text": "2013",
+      "type": "NUMBER",
+      "start": 162508,
+      "end": 162512
+    },
+    {
+      "text": "823",
+      "type": "NUMBER",
+      "start": 4799,
+      "end": 4802
+    },
+    {
+      "text": "173",
+      "type": "NUMBER",
+      "start": 143614,
+      "end": 143617
+    },
+    {
+      "text": "10.6",
+      "type": "NUMBER",
+      "start": 160208,
+      "end": 160212
+    },
+    {
+      "text": "62%",
+      "type": "NUMBER",
+      "start": 13174,
+      "end": 13177
+    },
+    {
+      "text": "404",
+      "type": "NUMBER",
+      "start": 503,
+      "end": 506
+    },
+    {
+      "text": "32",
+      "type": "NUMBER",
+      "start": 2292,
+      "end": 2294
+    },
+    {
+      "text": "6.72%",
+      "type": "NUMBER",
+      "start": 162627,
+      "end": 162632
+    },
+    {
+      "text": "227",
+      "type": "NUMBER",
+      "start": 130394,
+      "end": 130397
+    },
+    {
+      "text": "628",
+      "type": "NUMBER",
+      "start": 4422,
+      "end": 4425
+    },
+    {
+      "text": "6.11",
+      "type": "NUMBER",
+      "start": 125334,
+      "end": 125338
+    },
+    {
+      "text": "10%",
+      "type": "NUMBER",
+      "start": 98240,
+      "end": 98243
+    },
+    {
+      "text": "790",
+      "type": "NUMBER",
+      "start": 159948,
+      "end": 159951
+    },
+    {
+      "text": "75.16",
+      "type": "NUMBER",
+      "start": 166620,
+      "end": 166625
+    },
+    {
+      "text": "312",
+      "type": "NUMBER",
+      "start": 140872,
+      "end": 140875
+    },
+    {
+      "text": "49",
+      "type": "NUMBER",
+      "start": 69,
+      "end": 71
+    },
+    {
+      "text": "124",
+      "type": "NUMBER",
+      "start": 154370,
+      "end": 154373
+    },
+    {
+      "text": "$10.9",
+      "type": "NUMBER",
+      "start": 113380,
+      "end": 113385
+    },
+    {
+      "text": "0.750%",
+      "type": "NUMBER",
+      "start": 199025,
+      "end": 199031
+    },
+    {
+      "text": "228",
+      "type": "NUMBER",
+      "start": 127044,
+      "end": 127047
+    },
+    {
+      "text": "458",
+      "type": "NUMBER",
+      "start": 173512,
+      "end": 173515
+    },
+    {
+      "text": "164",
+      "type": "NUMBER",
+      "start": 20829,
+      "end": 20832
+    },
+    {
+      "text": "852",
+      "type": "NUMBER",
+      "start": 150538,
+      "end": 150541
+    },
+    {
+      "text": "2.950%",
+      "type": "NUMBER",
+      "start": 198671,
+      "end": 198677
+    },
+    {
+      "text": "88",
+      "type": "NUMBER",
+      "start": 126681,
+      "end": 126683
+    },
+    {
+      "text": "56",
+      "type": "NUMBER",
+      "start": 6664,
+      "end": 6666
+    },
+    {
+      "text": "44.1%",
+      "type": "NUMBER",
+      "start": 110010,
+      "end": 110015
+    },
+    {
+      "text": "271",
+      "type": "NUMBER",
+      "start": 130546,
+      "end": 130549
+    },
+    {
+      "text": "478",
+      "type": "NUMBER",
+      "start": 142157,
+      "end": 142160
+    },
+    {
+      "text": "$90.8",
+      "type": "NUMBER",
+      "start": 163977,
+      "end": 163982
+    },
+    {
+      "text": "048",
+      "type": "NUMBER",
+      "start": 143170,
+      "end": 143173
+    },
+    {
+      "text": "850",
+      "type": "NUMBER",
+      "start": 126364,
+      "end": 126367
+    },
+    {
+      "text": "221.39",
+      "type": "NUMBER",
+      "start": 102567,
+      "end": 102573
+    },
+    {
+      "text": "768",
+      "type": "NUMBER",
+      "start": 166792,
+      "end": 166795
+    },
+    {
+      "text": "089",
+      "type": "NUMBER",
+      "start": 121479,
+      "end": 121482
+    },
+    {
+      "text": "840",
+      "type": "NUMBER",
+      "start": 143355,
+      "end": 143358
+    },
+    {
+      "text": "465",
+      "type": "NUMBER",
+      "start": 131575,
+      "end": 131578
+    },
+    {
+      "text": "$13.2",
+      "type": "NUMBER",
+      "start": 144383,
+      "end": 144388
+    },
+    {
+      "text": "1.25%",
+      "type": "NUMBER",
+      "start": 199284,
+      "end": 199289
+    },
+    {
+      "text": "210",
+      "type": "NUMBER",
+      "start": 104402,
+      "end": 104405
+    },
+    {
+      "text": "14%",
+      "type": "NUMBER",
+      "start": 111251,
+      "end": 111254
+    },
+    {
+      "text": "343",
+      "type": "NUMBER",
+      "start": 125439,
+      "end": 125442
+    },
+    {
+      "text": "$15.2",
+      "type": "NUMBER",
+      "start": 116336,
+      "end": 116341
+    },
+    {
+      "text": "358",
+      "type": "NUMBER",
+      "start": 162790,
+      "end": 162793
+    },
+    {
+      "text": "3.",
+      "type": "NUMBER",
+      "start": 1254,
+      "end": 1256
+    },
+    {
+      "text": "78",
+      "type": "NUMBER",
+      "start": 108650,
+      "end": 108652
+    },
+    {
+      "text": "612",
+      "type": "NUMBER",
+      "start": 129311,
+      "end": 129314
+    },
+    {
+      "text": "2062",
+      "type": "NUMBER",
+      "start": 162579,
+      "end": 162583
+    },
+    {
+      "text": "25",
+      "type": "NUMBER",
+      "start": 1013,
+      "end": 1015
+    },
+    {
+      "text": "278",
+      "type": "NUMBER",
+      "start": 142421,
+      "end": 142424
+    },
+    {
+      "text": "1.55%",
+      "type": "NUMBER",
+      "start": 195071,
+      "end": 195076
+    },
+    {
+      "text": "43.3%",
+      "type": "NUMBER",
+      "start": 110017,
+      "end": 110022
+    },
+    {
+      "text": "10.11",
+      "type": "NUMBER",
+      "start": 202003,
+      "end": 202008
+    },
+    {
+      "text": "2020.",
+      "type": "NUMBER",
+      "start": 193810,
+      "end": 193815
+    },
+    {
+      "text": "650",
+      "type": "NUMBER",
+      "start": 142543,
+      "end": 142546
+    },
+    {
+      "text": "531",
+      "type": "NUMBER",
+      "start": 126684,
+      "end": 126687
+    },
+    {
+      "text": "608",
+      "type": "NUMBER",
+      "start": 143298,
+      "end": 143301
+    },
+    {
+      "text": "243",
+      "type": "NUMBER",
+      "start": 143395,
+      "end": 143398
+    },
+    {
+      "text": "812",
+      "type": "NUMBER",
+      "start": 125496,
+      "end": 125499
+    },
+    {
+      "text": "$13.9",
+      "type": "NUMBER",
+      "start": 158506,
+      "end": 158511
+    },
+    {
+      "text": "2.550%",
+      "type": "NUMBER",
+      "start": 199333,
+      "end": 199339
+    },
+    {
+      "text": "172",
+      "type": "NUMBER",
+      "start": 128258,
+      "end": 128261
+    },
+    {
+      "text": "2022.",
+      "type": "NUMBER",
+      "start": 165765,
+      "end": 165770
+    },
+    {
+      "text": "2016.8",
+      "type": "NUMBER",
+      "start": 196472,
+      "end": 196478
+    },
+    {
+      "text": "183",
+      "type": "NUMBER",
+      "start": 108416,
+      "end": 108419
+    },
+    {
+      "text": "4.11",
+      "type": "NUMBER",
+      "start": 102461,
+      "end": 102465
+    },
+    {
+      "text": "$0",
+      "type": "NUMBER",
+      "start": 931,
+      "end": 933
+    },
+    {
+      "text": "515",
+      "type": "NUMBER",
+      "start": 141783,
+      "end": 141786
+    },
+    {
+      "text": "2062.8",
+      "type": "NUMBER",
+      "start": 200254,
+      "end": 200260
+    },
+    {
+      "text": "158",
+      "type": "NUMBER",
+      "start": 142073,
+      "end": 142076
+    },
+    {
+      "text": "0.98",
+      "type": "NUMBER",
+      "start": 129766,
+      "end": 129770
+    },
+    {
+      "text": "848",
+      "type": "NUMBER",
+      "start": 127849,
+      "end": 127852
+    },
+    {
+      "text": "361",
+      "type": "NUMBER",
+      "start": 131717,
+      "end": 131720
+    },
+    {
+      "text": "950",
+      "type": "NUMBER",
+      "start": 651,
+      "end": 654
+    },
+    {
+      "text": "20",
+      "type": "NUMBER",
+      "start": 66,
+      "end": 68
+    },
+    {
+      "text": "866",
+      "type": "NUMBER",
+      "start": 124585,
+      "end": 124588
+    },
+    {
+      "text": "007",
+      "type": "NUMBER",
+      "start": 151195,
+      "end": 151198
+    },
+    {
+      "text": "959",
+      "type": "NUMBER",
+      "start": 131141,
+      "end": 131144
+    },
+    {
+      "text": "3.250%",
+      "type": "NUMBER",
+      "start": 196291,
+      "end": 196297
+    },
+    {
+      "text": "2.400%",
+      "type": "NUMBER",
+      "start": 198185,
+      "end": 198191
+    },
+    {
+      "text": "2016",
+      "type": "NUMBER",
+      "start": 94842,
+      "end": 94846
+    },
+    {
+      "text": "143",
+      "type": "NUMBER",
+      "start": 127241,
+      "end": 127244
+    },
+    {
+      "text": "2023.",
+      "type": "NUMBER",
+      "start": 103115,
+      "end": 103120
+    },
+    {
+      "text": "352",
+      "type": "NUMBER",
+      "start": 124808,
+      "end": 124811
+    },
+    {
+      "text": "831",
+      "type": "NUMBER",
+      "start": 143574,
+      "end": 143577
+    },
+    {
+      "text": "805",
+      "type": "NUMBER",
+      "start": 155615,
+      "end": 155618
+    },
+    {
+      "text": "23%",
+      "type": "NUMBER",
+      "start": 149364,
+      "end": 149367
+    },
+    {
+      "text": "272",
+      "type": "NUMBER",
+      "start": 126628,
+      "end": 126631
+    },
+    {
+      "text": "300",
+      "type": "NUMBER",
+      "start": 104205,
+      "end": 104208
+    },
+    {
+      "text": "97.1",
+      "type": "NUMBER",
+      "start": 203895,
+      "end": 203899
+    },
+    {
+      "text": "2.850%",
+      "type": "NUMBER",
+      "start": 196268,
+      "end": 196274
+    },
+    {
+      "text": "906",
+      "type": "NUMBER",
+      "start": 150580,
+      "end": 150583
+    },
+    {
+      "text": "4.",
+      "type": "NUMBER",
+      "start": 5573,
+      "end": 5575
+    },
+    {
+      "text": "148",
+      "type": "NUMBER",
+      "start": 109870,
+      "end": 109873
+    },
+    {
+      "text": "963",
+      "type": "NUMBER",
+      "start": 125467,
+      "end": 125470
+    },
+    {
+      "text": "489",
+      "type": "NUMBER",
+      "start": 108448,
+      "end": 108451
+    },
+    {
+      "text": "516",
+      "type": "NUMBER",
+      "start": 141913,
+      "end": 141916
+    },
+    {
+      "text": "998",
+      "type": "NUMBER",
+      "start": 155451,
+      "end": 155454
+    },
+    {
+      "text": "20%",
+      "type": "NUMBER",
+      "start": 213179,
+      "end": 213182
+    },
+    {
+      "text": "284",
+      "type": "NUMBER",
+      "start": 156718,
+      "end": 156721
+    },
+    {
+      "text": "10.12",
+      "type": "NUMBER",
+      "start": 202146,
+      "end": 202151
+    },
+    {
+      "text": "41%",
+      "type": "NUMBER",
+      "start": 148453,
+      "end": 148456
+    },
+    {
+      "text": "2020",
+      "type": "NUMBER",
+      "start": 104243,
+      "end": 104247
+    },
+    {
+      "text": "96",
+      "type": "NUMBER",
+      "start": 716,
+      "end": 718
+    },
+    {
+      "text": "187",
+      "type": "NUMBER",
+      "start": 159851,
+      "end": 159854
+    },
+    {
+      "text": "64%",
+      "type": "NUMBER",
+      "start": 140324,
+      "end": 140327
+    },
+    {
+      "text": "7262",
+      "type": "NUMBER",
+      "start": 3430,
+      "end": 3434
+    },
+    {
+      "text": "2032",
+      "type": "NUMBER",
+      "start": 200205,
+      "end": 200209
+    },
+    {
+      "text": "$6.4",
+      "type": "NUMBER",
+      "start": 167893,
+      "end": 167897
+    },
+    {
+      "text": "491",
+      "type": "NUMBER",
+      "start": 143179,
+      "end": 143182
+    },
+    {
+      "text": "50",
+      "type": "NUMBER",
+      "start": 652,
+      "end": 654
+    },
+    {
+      "text": "19",
+      "type": "NUMBER",
+      "start": 178,
+      "end": 180
+    },
+    {
+      "text": "347",
+      "type": "NUMBER",
+      "start": 153769,
+      "end": 153772
+    },
+    {
+      "text": "4.13",
+      "type": "NUMBER",
+      "start": 196758,
+      "end": 196762
+    },
+    {
+      "text": "2015",
+      "type": "NUMBER",
+      "start": 151524,
+      "end": 151528
+    },
+    {
+      "text": "715",
+      "type": "NUMBER",
+      "start": 127357,
+      "end": 127360
+    },
+    {
+      "text": "$4.1",
+      "type": "NUMBER",
+      "start": 103032,
+      "end": 103036
+    },
+    {
+      "text": "635",
+      "type": "NUMBER",
+      "start": 142461,
+      "end": 142464
+    },
+    {
+      "text": "$1.0",
+      "type": "NUMBER",
+      "start": 158822,
+      "end": 158826
+    },
+    {
+      "text": "16.2%",
+      "type": "NUMBER",
+      "start": 111859,
+      "end": 111864
+    },
+    {
+      "text": "8%",
+      "type": "NUMBER",
+      "start": 13167,
+      "end": 13169
+    },
+    {
+      "text": "9%",
+      "type": "NUMBER",
+      "start": 109954,
+      "end": 109956
+    },
+    {
+      "text": "912",
+      "type": "NUMBER",
+      "start": 127698,
+      "end": 127701
+    },
+    {
+      "text": "374",
+      "type": "NUMBER",
+      "start": 155348,
+      "end": 155351
+    },
+    {
+      "text": "572",
+      "type": "NUMBER",
+      "start": 162614,
+      "end": 162617
+    },
+    {
+      "text": "103",
+      "type": "NUMBER",
+      "start": 125210,
+      "end": 125213
+    },
+    {
+      "text": "99",
+      "type": "NUMBER",
+      "start": 715,
+      "end": 717
+    },
+    {
+      "text": "484",
+      "type": "NUMBER",
+      "start": 130593,
+      "end": 130596
+    },
+    {
+      "text": "508",
+      "type": "NUMBER",
+      "start": 127094,
+      "end": 127097
+    },
+    {
+      "text": "37.2%",
+      "type": "NUMBER",
+      "start": 109920,
+      "end": 109925
+    },
+    {
+      "text": "131",
+      "type": "NUMBER",
+      "start": 104390,
+      "end": 104393
+    },
+    {
+      "text": "$10.2",
+      "type": "NUMBER",
+      "start": 112065,
+      "end": 112070
+    },
+    {
+      "text": "$71.3",
+      "type": "NUMBER",
+      "start": 153935,
+      "end": 153940
+    },
+    {
+      "text": "226",
+      "type": "NUMBER",
+      "start": 169179,
+      "end": 169182
+    },
+    {
+      "text": "10.18",
+      "type": "NUMBER",
+      "start": 202800,
+      "end": 202805
+    },
+    {
+      "text": "180",
+      "type": "NUMBER",
+      "start": 109856,
+      "end": 109859
+    },
+    {
+      "text": "002",
+      "type": "NUMBER",
+      "start": 168296,
+      "end": 168299
+    },
+    {
+      "text": "895",
+      "type": "NUMBER",
+      "start": 173406,
+      "end": 173409
+    },
+    {
+      "text": "878",
+      "type": "NUMBER",
+      "start": 166824,
+      "end": 166827
+    },
+    {
+      "text": "$7.5",
+      "type": "NUMBER",
+      "start": 139677,
+      "end": 139681
+    },
+    {
+      "text": "708",
+      "type": "NUMBER",
+      "start": 131151,
+      "end": 131154
+    },
+    {
+      "text": "95",
+      "type": "NUMBER",
+      "start": 651,
+      "end": 653
+    },
+    {
+      "text": "122",
+      "type": "NUMBER",
+      "start": 130828,
+      "end": 130831
+    },
+    {
+      "text": "423",
+      "type": "NUMBER",
+      "start": 128831,
+      "end": 128834
+    },
+    {
+      "text": "955",
+      "type": "NUMBER",
+      "start": 131704,
+      "end": 131707
+    },
+    {
+      "text": "403",
+      "type": "NUMBER",
+      "start": 142402,
+      "end": 142405
+    },
+    {
+      "text": "1995",
+      "type": "NUMBER",
+      "start": 6822,
+      "end": 6826
+    },
+    {
+      "text": "21%",
+      "type": "NUMBER",
+      "start": 111901,
+      "end": 111904
+    },
+    {
+      "text": "154",
+      "type": "NUMBER",
+      "start": 128204,
+      "end": 128207
+    },
+    {
+      "text": "603",
+      "type": "NUMBER",
+      "start": 153714,
+      "end": 153717
+    },
+    {
+      "text": "683",
+      "type": "NUMBER",
+      "start": 109860,
+      "end": 109863
+    },
+    {
+      "text": "602",
+      "type": "NUMBER",
+      "start": 143436,
+      "end": 143439
+    },
+    {
+      "text": "2027.8",
+      "type": "NUMBER",
+      "start": 195851,
+      "end": 195857
+    },
+    {
+      "text": "365",
+      "type": "NUMBER",
+      "start": 128803,
+      "end": 128806
+    },
+    {
+      "text": "$3.6",
+      "type": "NUMBER",
+      "start": 155780,
+      "end": 155784
+    },
+    {
+      "text": "730",
+      "type": "NUMBER",
+      "start": 147875,
+      "end": 147878
+    },
+    {
+      "text": "73",
+      "type": "NUMBER",
+      "start": 104334,
+      "end": 104336
+    },
+    {
+      "text": "075",
+      "type": "NUMBER",
+      "start": 124778,
+      "end": 124781
+    },
+    {
+      "text": "402",
+      "type": "NUMBER",
+      "start": 131515,
+      "end": 131518
+    },
+    {
+      "text": "005",
+      "type": "NUMBER",
+      "start": 108575,
+      "end": 108578
+    },
+    {
+      "text": "966",
+      "type": "NUMBER",
+      "start": 142478,
+      "end": 142481
+    },
+    {
+      "text": "513",
+      "type": "NUMBER",
+      "start": 130909,
+      "end": 130912
+    },
+    {
+      "text": "$1.2",
+      "type": "NUMBER",
+      "start": 111498,
+      "end": 111502
+    },
+    {
+      "text": "15%",
+      "type": "NUMBER",
+      "start": 111246,
+      "end": 111249
+    },
+    {
+      "text": "108",
+      "type": "NUMBER",
+      "start": 109782,
+      "end": 109785
+    },
+    {
+      "text": "14.",
+      "type": "NUMBER",
+      "start": 6529,
+      "end": 6532
+    },
+    {
+      "text": "10.",
+      "type": "NUMBER",
+      "start": 6232,
+      "end": 6235
+    },
+    {
+      "text": "59",
+      "type": "NUMBER",
+      "start": 106981,
+      "end": 106983
+    },
+    {
+      "text": "803",
+      "type": "NUMBER",
+      "start": 109786,
+      "end": 109789
+    },
+    {
+      "text": "13%",
+      "type": "NUMBER",
+      "start": 111256,
+      "end": 111259
+    },
+    {
+      "text": "316",
+      "type": "NUMBER",
+      "start": 124601,
+      "end": 124604
+    },
+    {
+      "text": "3.000%",
+      "type": "NUMBER",
+      "start": 197045,
+      "end": 197051
+    },
+    {
+      "text": "1.400%",
+      "type": "NUMBER",
+      "start": 199779,
+      "end": 199785
+    },
+    {
+      "text": "0.000%",
+      "type": "NUMBER",
+      "start": 994,
+      "end": 1000
+    },
+    {
+      "text": "72",
+      "type": "NUMBER",
+      "start": 3430,
+      "end": 3432
+    },
+    {
+      "text": "159",
+      "type": "NUMBER",
+      "start": 141990,
+      "end": 141993
+    },
+    {
+      "text": "728",
+      "type": "NUMBER",
+      "start": 109796,
+      "end": 109799
+    },
+    {
+      "text": "952",
+      "type": "NUMBER",
+      "start": 106965,
+      "end": 106968
+    },
+    {
+      "text": "457",
+      "type": "NUMBER",
+      "start": 150878,
+      "end": 150881
+    },
+    {
+      "text": "162",
+      "type": "NUMBER",
+      "start": 106876,
+      "end": 106879
+    },
+    {
+      "text": "2033",
+      "type": "NUMBER",
+      "start": 200621,
+      "end": 200625
+    },
+    {
+      "text": "$8.7",
+      "type": "NUMBER",
+      "start": 150212,
+      "end": 150216
+    },
+    {
+      "text": "559",
+      "type": "NUMBER",
+      "start": 106980,
+      "end": 106983
+    },
+    {
+      "text": "127.98",
+      "type": "NUMBER",
+      "start": 166863,
+      "end": 166869
+    },
+    {
+      "text": "4.250%",
+      "type": "NUMBER",
+      "start": 197095,
+      "end": 197101
+    },
+    {
+      "text": "$5",
+      "type": "NUMBER",
+      "start": 104212,
+      "end": 104214
+    },
+    {
+      "text": "618",
+      "type": "NUMBER",
+      "start": 130585,
+      "end": 130588
+    },
+    {
+      "text": "909",
+      "type": "NUMBER",
+      "start": 142956,
+      "end": 142959
+    },
+    {
+      "text": "2043.8",
+      "type": "NUMBER",
+      "start": 194395,
+      "end": 194401
+    },
+    {
+      "text": "4.7",
+      "type": "NUMBER",
+      "start": 111853,
+      "end": 111856
+    },
+    {
+      "text": "32.1",
+      "type": "NUMBER",
+      "start": 203803,
+      "end": 203807
+    },
+    {
+      "text": "068",
+      "type": "NUMBER",
+      "start": 129111,
+      "end": 129114
+    },
+    {
+      "text": "657",
+      "type": "NUMBER",
+      "start": 143564,
+      "end": 143567
+    },
+    {
+      "text": "25%",
+      "type": "NUMBER",
+      "start": 1101,
+      "end": 1104
+    },
+    {
+      "text": "304",
+      "type": "NUMBER",
+      "start": 127607,
+      "end": 127610
+    },
+    {
+      "text": "441",
+      "type": "NUMBER",
+      "start": 131359,
+      "end": 131362
+    },
+    {
+      "text": "006",
+      "type": "NUMBER",
+      "start": 130402,
+      "end": 130405
+    },
+    {
+      "text": "273",
+      "type": "NUMBER",
+      "start": 104333,
+      "end": 104336
+    },
+    {
+      "text": "452",
+      "type": "NUMBER",
+      "start": 128268,
+      "end": 128271
+    },
+    {
+      "text": "871",
+      "type": "NUMBER",
+      "start": 154615,
+      "end": 154618
+    },
+    {
+      "text": "2042.8",
+      "type": "NUMBER",
+      "start": 195659,
+      "end": 195665
+    },
+    {
+      "text": "89",
+      "type": "NUMBER",
+      "start": 102714,
+      "end": 102716
+    },
+    {
+      "text": "980",
+      "type": "NUMBER",
+      "start": 127467,
+      "end": 127470
+    },
+    {
+      "text": "84",
+      "type": "NUMBER",
+      "start": 108462,
+      "end": 108464
+    },
+    {
+      "text": "$1.8",
+      "type": "NUMBER",
+      "start": 158692,
+      "end": 158696
+    },
+    {
+      "text": "3.2",
+      "type": "NUMBER",
+      "start": 144385,
+      "end": 144388
+    },
+    {
+      "text": "2052",
+      "type": "NUMBER",
+      "start": 200228,
+      "end": 200232
+    },
+    {
+      "text": "2.200%",
+      "type": "NUMBER",
+      "start": 198645,
+      "end": 198651
+    },
+    {
+      "text": "281",
+      "type": "NUMBER",
+      "start": 104339,
+      "end": 104342
+    },
+    {
+      "text": "202",
+      "type": "NUMBER",
+      "start": 223,
+      "end": 226
+    },
+    {
+      "text": "2.300%",
+      "type": "NUMBER",
+      "start": 197338,
+      "end": 197344
+    },
+    {
+      "text": "425",
+      "type": "NUMBER",
+      "start": 164654,
+      "end": 164657
+    },
+    {
+      "text": "4.21",
+      "type": "NUMBER",
+      "start": 198710,
+      "end": 198714
+    },
+    {
+      "text": "2.650%",
+      "type": "NUMBER",
+      "start": 199098,
+      "end": 199104
+    },
+    {
+      "text": "1986",
+      "type": "NUMBER",
+      "start": 227140,
+      "end": 227144
+    },
+    {
+      "text": "2027",
+      "type": "NUMBER",
+      "start": 1167,
+      "end": 1171
+    },
+    {
+      "text": "$95.0",
+      "type": "NUMBER",
+      "start": 116253,
+      "end": 116258
+    },
+    {
+      "text": "$500",
+      "type": "NUMBER",
+      "start": 104212,
+      "end": 104216
+    },
+    {
+      "text": "893",
+      "type": "NUMBER",
+      "start": 154597,
+      "end": 154600
+    },
+    {
+      "text": "$22.0",
+      "type": "NUMBER",
+      "start": 156112,
+      "end": 156117
+    },
+    {
+      "text": "3.050%",
+      "type": "NUMBER",
+      "start": 1254,
+      "end": 1260
+    },
+    {
+      "text": "$16.5",
+      "type": "NUMBER",
+      "start": 115162,
+      "end": 115167
+    },
+    {
+      "text": "398",
+      "type": "NUMBER",
+      "start": 159838,
+      "end": 159841
+    },
+    {
+      "text": "760",
+      "type": "NUMBER",
+      "start": 131904,
+      "end": 131907
+    },
+    {
+      "text": "3.05%",
+      "type": "NUMBER",
+      "start": 195617,
+      "end": 195622
+    },
+    {
+      "text": "10.21",
+      "type": "NUMBER",
+      "start": 203173,
+      "end": 203178
+    },
+    {
+      "text": "22.",
+      "type": "NUMBER",
+      "start": 102682,
+      "end": 102685
+    },
+    {
+      "text": "332",
+      "type": "NUMBER",
+      "start": 143190,
+      "end": 143193
+    },
+    {
+      "text": "12",
+      "type": "NUMBER",
+      "start": 819,
+      "end": 821
+    },
+    {
+      "text": "463",
+      "type": "NUMBER",
+      "start": 156795,
+      "end": 156798
+    },
+    {
+      "text": "094",
+      "type": "NUMBER",
+      "start": 111104,
+      "end": 111107
+    },
+    {
+      "text": "563",
+      "type": "NUMBER",
+      "start": 126371,
+      "end": 126374
+    },
+    {
+      "text": "48",
+      "type": "NUMBER",
+      "start": 108448,
+      "end": 108450
+    },
+    {
+      "text": "430",
+      "type": "NUMBER",
+      "start": 104351,
+      "end": 104354
+    },
+    {
+      "text": "17",
+      "type": "NUMBER",
+      "start": 5488,
+      "end": 5490
+    },
+    {
+      "text": "697",
+      "type": "NUMBER",
+      "start": 102453,
+      "end": 102456
+    },
+    {
+      "text": "717",
+      "type": "NUMBER",
+      "start": 126124,
+      "end": 126127
+    },
+    {
+      "text": "090",
+      "type": "NUMBER",
+      "start": 128714,
+      "end": 128717
+    },
+    {
+      "text": "674",
+      "type": "NUMBER",
+      "start": 417,
+      "end": 420
+    },
+    {
+      "text": "10.16",
+      "type": "NUMBER",
+      "start": 201863,
+      "end": 201868
+    },
+    {
+      "text": "3.1",
+      "type": "NUMBER",
+      "start": 151646,
+      "end": 151649
+    },
+    {
+      "text": "2.",
+      "type": "NUMBER",
+      "start": 1150,
+      "end": 1152
+    },
+    {
+      "text": "264",
+      "type": "NUMBER",
+      "start": 161854,
+      "end": 161857
+    },
+    {
+      "text": "74",
+      "type": "NUMBER",
+      "start": 418,
+      "end": 420
+    },
+    {
+      "text": "383",
+      "type": "NUMBER",
+      "start": 107132,
+      "end": 107135
+    },
+    {
+      "text": "121",
+      "type": "NUMBER",
+      "start": 131773,
+      "end": 131776
+    },
+    {
+      "text": "455",
+      "type": "NUMBER",
+      "start": 155571,
+      "end": 155574
+    },
+    {
+      "text": "$2.1",
+      "type": "NUMBER",
+      "start": 158837,
+      "end": 158841
+    },
+    {
+      "text": "035",
+      "type": "NUMBER",
+      "start": 107121,
+      "end": 107124
+    },
+    {
+      "text": "930",
+      "type": "NUMBER",
+      "start": 163689,
+      "end": 163692
+    },
+    {
+      "text": "$15.6",
+      "type": "NUMBER",
+      "start": 114003,
+      "end": 114008
+    },
+    {
+      "text": "705",
+      "type": "NUMBER",
+      "start": 131250,
+      "end": 131253
+    },
+    {
+      "text": "1.3",
+      "type": "NUMBER",
+      "start": 1202,
+      "end": 1205
+    },
+    {
+      "text": "810",
+      "type": "NUMBER",
+      "start": 142081,
+      "end": 142084
+    },
+    {
+      "text": "1.625%",
+      "type": "NUMBER",
+      "start": 1098,
+      "end": 1104
+    },
+    {
+      "text": "656",
+      "type": "NUMBER",
+      "start": 130899,
+      "end": 130902
+    },
+    {
+      "text": "939",
+      "type": "NUMBER",
+      "start": 142269,
+      "end": 142272
+    },
+    {
+      "text": "67",
+      "type": "NUMBER",
+      "start": 417,
+      "end": 419
+    },
+    {
+      "text": "4.10",
+      "type": "NUMBER",
+      "start": 196010,
+      "end": 196014
+    },
+    {
+      "text": "8",
+      "type": "NUMBER",
+      "start": 220,
+      "end": 221
+    },
+    {
+      "text": "599",
+      "type": "NUMBER",
+      "start": 150010,
+      "end": 150013
+    },
+    {
+      "text": "07",
+      "type": "NUMBER",
+      "start": 102717,
+      "end": 102719
+    },
+    {
+      "text": "127.59",
+      "type": "NUMBER",
+      "start": 166978,
+      "end": 166984
+    },
+    {
+      "text": "0.900%",
+      "type": "NUMBER",
+      "start": 195360,
+      "end": 195366
+    },
+    {
+      "text": "485",
+      "type": "NUMBER",
+      "start": 125192,
+      "end": 125195
+    },
+    {
+      "text": "832",
+      "type": "NUMBER",
+      "start": 126022,
+      "end": 126025
+    },
+    {
+      "text": "23.",
+      "type": "NUMBER",
+      "start": 103117,
+      "end": 103120
+    },
+    {
+      "text": "5.",
+      "type": "NUMBER",
+      "start": 5616,
+      "end": 5618
+    },
+    {
+      "text": "70.8%",
+      "type": "NUMBER",
+      "start": 109958,
+      "end": 109963
+    },
+    {
+      "text": "726",
+      "type": "NUMBER",
+      "start": 3430,
+      "end": 3433
+    },
+    {
+      "text": "240",
+      "type": "NUMBER",
+      "start": 502,
+      "end": 505
+    },
+    {
+      "text": "670",
+      "type": "NUMBER",
+      "start": 169163,
+      "end": 169166
+    },
+    {
+      "text": "936",
+      "type": "NUMBER",
+      "start": 156892,
+      "end": 156895
+    },
+    {
+      "text": "3.350%",
+      "type": "NUMBER",
+      "start": 197069,
+      "end": 197075
+    },
+    {
+      "text": "027",
+      "type": "NUMBER",
+      "start": 1168,
+      "end": 1171
+    },
+    {
+      "text": "145",
+      "type": "NUMBER",
+      "start": 127746,
+      "end": 127749
+    },
+    {
+      "text": "$13",
+      "type": "NUMBER",
+      "start": 144383,
+      "end": 144386
+    },
+    {
+      "text": "4.1",
+      "type": "NUMBER",
+      "start": 102461,
+      "end": 102464
+    },
+    {
+      "text": "493",
+      "type": "NUMBER",
+      "start": 148015,
+      "end": 148018
+    },
+    {
+      "text": "$2.6",
+      "type": "NUMBER",
+      "start": 113499,
+      "end": 113503
+    },
+    {
+      "text": "845",
+      "type": "NUMBER",
+      "start": 108590,
+      "end": 108593
+    },
+    {
+      "text": "10.2",
+      "type": "NUMBER",
+      "start": 112066,
+      "end": 112070
+    },
+    {
+      "text": "38",
+      "type": "NUMBER",
+      "start": 13166,
+      "end": 13168
+    },
+    {
+      "text": "568",
+      "type": "NUMBER",
+      "start": 142066,
+      "end": 142069
+    },
+    {
+      "text": "625",
+      "type": "NUMBER",
+      "start": 1100,
+      "end": 1103
+    },
+    {
+      "text": "570",
+      "type": "NUMBER",
+      "start": 153652,
+      "end": 153655
+    },
+    {
+      "text": "48%",
+      "type": "NUMBER",
+      "start": 149529,
+      "end": 149532
+    },
+    {
+      "text": "923",
+      "type": "NUMBER",
+      "start": 130919,
+      "end": 130922
+    },
+    {
+      "text": "786",
+      "type": "NUMBER",
+      "start": 128097,
+      "end": 128100
+    },
+    {
+      "text": "542",
+      "type": "NUMBER",
+      "start": 156878,
+      "end": 156881
+    },
+    {
+      "text": "$0.00001",
+      "type": "NUMBER",
+      "start": 931,
+      "end": 939
+    },
+    {
+      "text": "10.22",
+      "type": "NUMBER",
+      "start": 203302,
+      "end": 203307
+    },
+    {
+      "text": "341",
+      "type": "NUMBER",
+      "start": 162589,
+      "end": 162592
+    },
+    {
+      "text": "500",
+      "type": "NUMBER",
+      "start": 1308,
+      "end": 1311
+    },
+    {
+      "text": "135",
+      "type": "NUMBER",
+      "start": 131049,
+      "end": 131052
+    },
+    {
+      "text": "669",
+      "type": "NUMBER",
+      "start": 122902,
+      "end": 122905
+    },
+    {
+      "text": "1474",
+      "type": "NUMBER",
+      "start": 229886,
+      "end": 229890
+    },
+    {
+      "text": "$5.1",
+      "type": "NUMBER",
+      "start": 155714,
+      "end": 155718
+    },
+    {
+      "text": "73.9%",
+      "type": "NUMBER",
+      "start": 109951,
+      "end": 109956
+    },
+    {
+      "text": "765",
+      "type": "NUMBER",
+      "start": 125885,
+      "end": 125888
+    },
+    {
+      "text": "257",
+      "type": "NUMBER",
+      "start": 107023,
+      "end": 107026
+    },
+    {
+      "text": "282",
+      "type": "NUMBER",
+      "start": 124732,
+      "end": 124735
+    },
+    {
+      "text": "51",
+      "type": "NUMBER",
+      "start": 6069,
+      "end": 6071
+    },
+    {
+      "text": "066",
+      "type": "NUMBER",
+      "start": 142185,
+      "end": 142188
+    },
+    {
+      "text": "501",
+      "type": "NUMBER",
+      "start": 652,
+      "end": 655
+    },
+    {
+      "text": "$19.4",
+      "type": "NUMBER",
+      "start": 168402,
+      "end": 168407
+    },
+    {
+      "text": "3",
+      "type": "NUMBER",
+      "start": 133,
+      "end": 134
+    },
+    {
+      "text": "2.000%",
+      "type": "NUMBER",
+      "start": 1150,
+      "end": 1156
+    },
+    {
+      "text": "09",
+      "type": "NUMBER",
+      "start": 109773,
+      "end": 109775
+    },
+    {
+      "text": "19.1",
+      "type": "NUMBER",
+      "start": 191211,
+      "end": 191215
+    },
+    {
+      "text": "167",
+      "type": "NUMBER",
+      "start": 106861,
+      "end": 106864
+    },
+    {
+      "text": "087",
+      "type": "NUMBER",
+      "start": 141934,
+      "end": 141937
+    },
+    {
+      "text": "201",
+      "type": "NUMBER",
+      "start": 94842,
+      "end": 94845
+    },
+    {
+      "text": "076",
+      "type": "NUMBER",
+      "start": 153781,
+      "end": 153784
+    },
+    {
+      "text": "$669",
+      "type": "NUMBER",
+      "start": 122901,
+      "end": 122905
+    },
+    {
+      "text": "342",
+      "type": "NUMBER",
+      "start": 163703,
+      "end": 163706
+    },
+    {
+      "text": "142",
+      "type": "NUMBER",
+      "start": 174049,
+      "end": 174052
+    },
+    {
+      "text": "19.",
+      "type": "NUMBER",
+      "start": 156301,
+      "end": 156304
+    },
+    {
+      "text": "360",
+      "type": "NUMBER",
+      "start": 159827,
+      "end": 159830
+    },
+    {
+      "text": "703",
+      "type": "NUMBER",
+      "start": 142000,
+      "end": 142003
+    },
+    {
+      "text": "800",
+      "type": "NUMBER",
+      "start": 163729,
+      "end": 163732
+    },
+    {
+      "text": "21.",
+      "type": "NUMBER",
+      "start": 102568,
+      "end": 102571
+    },
+    {
+      "text": "653",
+      "type": "NUMBER",
+      "start": 102675,
+      "end": 102678
+    },
+    {
+      "text": "$2.0",
+      "type": "NUMBER",
+      "start": 114024,
+      "end": 114028
+    },
+    {
+      "text": "$10.0",
+      "type": "NUMBER",
+      "start": 113685,
+      "end": 113690
+    },
+    {
+      "text": "326",
+      "type": "NUMBER",
+      "start": 167057,
+      "end": 167060
+    },
+    {
+      "text": "247",
+      "type": "NUMBER",
+      "start": 148335,
+      "end": 148338
+    },
+    {
+      "text": "0.700%",
+      "type": "NUMBER",
+      "start": 199498,
+      "end": 199504
+    },
+    {
+      "text": "12.",
+      "type": "NUMBER",
+      "start": 114925,
+      "end": 114928
+    },
+    {
+      "text": "77",
+      "type": "NUMBER",
+      "start": 107039,
+      "end": 107041
+    },
+    {
+      "text": "2030",
+      "type": "NUMBER",
+      "start": 199089,
+      "end": 199093
+    },
+    {
+      "text": "727",
+      "type": "NUMBER",
+      "start": 156704,
+      "end": 156707
+    },
+    {
+      "text": "440",
+      "type": "NUMBER",
+      "start": 169109,
+      "end": 169112
+    },
+    {
+      "text": "189",
+      "type": "NUMBER",
+      "start": 124728,
+      "end": 124731
+    },
+    {
+      "text": "737",
+      "type": "NUMBER",
+      "start": 130103,
+      "end": 130106
+    },
+    {
+      "text": "$12.8",
+      "type": "NUMBER",
+      "start": 140227,
+      "end": 140232
+    },
+    {
+      "text": "061",
+      "type": "NUMBER",
+      "start": 127647,
+      "end": 127650
+    },
+    {
+      "text": "109.48",
+      "type": "NUMBER",
+      "start": 166767,
+      "end": 166773
+    },
+    {
+      "text": "169",
+      "type": "NUMBER",
+      "start": 106893,
+      "end": 106896
+    },
+    {
+      "text": "301",
+      "type": "NUMBER",
+      "start": 101829,
+      "end": 101832
+    },
+    {
+      "text": "695",
+      "type": "NUMBER",
+      "start": 127205,
+      "end": 127208
+    },
+    {
+      "text": "$18.2",
+      "type": "NUMBER",
+      "start": 167177,
+      "end": 167182
+    },
+    {
+      "text": "694",
+      "type": "NUMBER",
+      "start": 108504,
+      "end": 108507
+    },
+    {
+      "text": "9.",
+      "type": "NUMBER",
+      "start": 5981,
+      "end": 5983
+    },
+    {
+      "text": "617",
+      "type": "NUMBER",
+      "start": 141798,
+      "end": 141801
+    },
+    {
+      "text": "664",
+      "type": "NUMBER",
+      "start": 174242,
+      "end": 174245
+    },
+    {
+      "text": "209",
+      "type": "NUMBER",
+      "start": 127439,
+      "end": 127442
+    },
+    {
+      "text": "2018",
+      "type": "NUMBER",
+      "start": 194303,
+      "end": 194307
+    },
+    {
+      "text": "4.000%",
+      "type": "NUMBER",
+      "start": 200557,
+      "end": 200563
+    },
+    {
+      "text": "150.70",
+      "type": "NUMBER",
+      "start": 166650,
+      "end": 166656
+    },
+    {
+      "text": "234",
+      "type": "NUMBER",
+      "start": 131436,
+      "end": 131439
+    },
+    {
+      "text": "16",
+      "type": "NUMBER",
+      "start": 6642,
+      "end": 6644
+    },
+    {
+      "text": "433",
+      "type": "NUMBER",
+      "start": 148279,
+      "end": 148282
+    },
+    {
+      "text": "23",
+      "type": "NUMBER",
+      "start": 2291,
+      "end": 2293
+    },
+    {
+      "text": "47",
+      "type": "NUMBER",
+      "start": 111197,
+      "end": 111199
+    },
+    {
+      "text": "80",
+      "type": "NUMBER",
+      "start": 109786,
+      "end": 109788
+    },
+    {
+      "text": "483",
+      "type": "NUMBER",
+      "start": 153740,
+      "end": 153743
+    },
+    {
+      "text": "755",
+      "type": "NUMBER",
+      "start": 121471,
+      "end": 121474
+    },
+    {
+      "text": "33%",
+      "type": "NUMBER",
+      "start": 243097,
+      "end": 243100
+    },
+    {
+      "text": "993",
+      "type": "NUMBER",
+      "start": 127434,
+      "end": 127437
+    },
+    {
+      "text": "$100",
+      "type": "NUMBER",
+      "start": 103675,
+      "end": 103679
+    },
+    {
+      "text": "$849",
+      "type": "NUMBER",
+      "start": 160653,
+      "end": 160657
+    },
+    {
+      "text": "223",
+      "type": "NUMBER",
+      "start": 124822,
+      "end": 124825
+    },
+    {
+      "text": "2031.8",
+      "type": "NUMBER",
+      "start": 198881,
+      "end": 198887
+    },
+    {
+      "text": "3.600%",
+      "type": "NUMBER",
+      "start": 1358,
+      "end": 1364
+    },
+    {
+      "text": "323",
+      "type": "NUMBER",
+      "start": 126028,
+      "end": 126031
+    },
+    {
+      "text": "4.23",
+      "type": "NUMBER",
+      "start": 199136,
+      "end": 199140
+    },
+    {
+      "text": "085",
+      "type": "NUMBER",
+      "start": 124595,
+      "end": 124598
+    },
+    {
+      "text": "233",
+      "type": "NUMBER",
+      "start": 124723,
+      "end": 124726
+    },
+    {
+      "text": "356",
+      "type": "NUMBER",
+      "start": 130538,
+      "end": 130541
+    },
+    {
+      "text": "328",
+      "type": "NUMBER",
+      "start": 106914,
+      "end": 106917
+    },
+    {
+      "text": "982",
+      "type": "NUMBER",
+      "start": 156804,
+      "end": 156807
+    },
+    {
+      "text": "17.",
+      "type": "NUMBER",
+      "start": 201166,
+      "end": 201169
+    },
+    {
+      "text": "10.10",
+      "type": "NUMBER",
+      "start": 201877,
+      "end": 201882
+    },
+    {
+      "text": "2.500%",
+      "type": "NUMBER",
+      "start": 197022,
+      "end": 197028
+    },
+    {
+      "text": "2%",
+      "type": "NUMBER",
+      "start": 13175,
+      "end": 13177
+    },
+    {
+      "text": "801",
+      "type": "NUMBER",
+      "start": 153615,
+      "end": 153618
+    },
+    {
+      "text": "8.",
+      "type": "NUMBER",
+      "start": 5926,
+      "end": 5928
+    },
+    {
+      "text": "758",
+      "type": "NUMBER",
+      "start": 127399,
+      "end": 127402
+    },
+    {
+      "text": "553",
+      "type": "NUMBER",
+      "start": 4426,
+      "end": 4429
+    },
+    {
+      "text": "4.17",
+      "type": "NUMBER",
+      "start": 197772,
+      "end": 197776
+    },
+    {
+      "text": "6%",
+      "type": "NUMBER",
+      "start": 111148,
+      "end": 111150
+    },
+    {
+      "text": "38%",
+      "type": "NUMBER",
+      "start": 13166,
+      "end": 13169
+    },
+    {
+      "text": "494",
+      "type": "NUMBER",
+      "start": 157047,
+      "end": 157050
+    },
+    {
+      "text": "6.13",
+      "type": "NUMBER",
+      "start": 125371,
+      "end": 125375
+    },
+    {
+      "text": "14.2",
+      "type": "NUMBER",
+      "start": 115366,
+      "end": 115370
+    },
+    {
+      "text": "6.15",
+      "type": "NUMBER",
+      "start": 125348,
+      "end": 125352
+    },
+    {
+      "text": "376",
+      "type": "NUMBER",
+      "start": 159987,
+      "end": 159990
+    },
+    {
+      "text": "956",
+      "type": "NUMBER",
+      "start": 143366,
+      "end": 143369
+    },
+    {
+      "text": "099",
+      "type": "NUMBER",
+      "start": 129320,
+      "end": 129323
+    },
+    {
+      "text": "14.7%",
+      "type": "NUMBER",
+      "start": 111852,
+      "end": 111857
+    },
+    {
+      "text": "2003",
+      "type": "NUMBER",
+      "start": 151445,
+      "end": 151449
+    },
+    {
+      "text": "22",
+      "type": "NUMBER",
+      "start": 102459,
+      "end": 102461
+    },
+    {
+      "text": "977",
+      "type": "NUMBER",
+      "start": 107038,
+      "end": 107041
+    },
+    {
+      "text": "$38.5",
+      "type": "NUMBER",
+      "start": 113479,
+      "end": 113484
+    },
+    {
+      "text": "387",
+      "type": "NUMBER",
+      "start": 142152,
+      "end": 142155
+    },
+    {
+      "text": "65",
+      "type": "NUMBER",
+      "start": 102675,
+      "end": 102677
+    },
+    {
+      "text": "158.73",
+      "type": "NUMBER",
+      "start": 167063,
+      "end": 167069
+    },
+    {
+      "text": "43",
+      "type": "NUMBER",
+      "start": 419,
+      "end": 421
+    },
+    {
+      "text": "232.405",
+      "type": "NUMBER",
+      "start": 2291,
+      "end": 2298
+    },
+    {
+      "text": "$110",
+      "type": "NUMBER",
+      "start": 102811,
+      "end": 102815
+    },
+    {
+      "text": "016",
+      "type": "NUMBER",
+      "start": 94843,
+      "end": 94846
+    },
+    {
+      "text": "750",
+      "type": "NUMBER",
+      "start": 127794,
+      "end": 127797
+    },
+    {
+      "text": "$77.3",
+      "type": "NUMBER",
+      "start": 153900,
+      "end": 153905
+    },
+    {
+      "text": "$19.5",
+      "type": "NUMBER",
+      "start": 156300,
+      "end": 156305
+    },
+    {
+      "text": "001",
+      "type": "NUMBER",
+      "start": 412,
+      "end": 415
+    },
+    {
+      "text": "518",
+      "type": "NUMBER",
+      "start": 154377,
+      "end": 154380
+    },
+    {
+      "text": "044",
+      "type": "NUMBER",
+      "start": 156711,
+      "end": 156714
+    },
+    {
+      "text": "280",
+      "type": "NUMBER",
+      "start": 117225,
+      "end": 117228
+    },
+    {
+      "text": "884",
+      "type": "NUMBER",
+      "start": 150055,
+      "end": 150058
+    },
+    {
+      "text": "2060.8",
+      "type": "NUMBER",
+      "start": 199350,
+      "end": 199356
+    },
+    {
+      "text": "68",
+      "type": "NUMBER",
+      "start": 109860,
+      "end": 109862
+    },
+    {
+      "text": "847",
+      "type": "NUMBER",
+      "start": 111196,
+      "end": 111199
+    },
+    {
+      "text": "35",
+      "type": "NUMBER",
+      "start": 102450,
+      "end": 102452
+    },
+    {
+      "text": "661",
+      "type": "NUMBER",
+      "start": 159244,
+      "end": 159247
+    },
+    {
+      "text": "833",
+      "type": "NUMBER",
+      "start": 127132,
+      "end": 127135
+    },
+    {
+      "text": "958",
+      "type": "NUMBER",
+      "start": 131608,
+      "end": 131611
+    },
+    {
+      "text": "546",
+      "type": "NUMBER",
+      "start": 124826,
+      "end": 124829
+    },
+    {
+      "text": "820",
+      "type": "NUMBER",
+      "start": 159751,
+      "end": 159754
+    },
+    {
+      "text": "2404110",
+      "type": "NUMBER",
+      "start": 502,
+      "end": 509
+    },
+    {
+      "text": "$8.2",
+      "type": "NUMBER",
+      "start": 139563,
+      "end": 139567
+    },
+    {
+      "text": "196",
+      "type": "NUMBER",
+      "start": 174053,
+      "end": 174056
+    },
+    {
+      "text": "074",
+      "type": "NUMBER",
+      "start": 102717,
+      "end": 102720
+    },
+    {
+      "text": "2015.8",
+      "type": "NUMBER",
+      "start": 200818,
+      "end": 200824
+    },
+    {
+      "text": "412",
+      "type": "NUMBER",
+      "start": 142316,
+      "end": 142319
+    },
+    {
+      "text": "1939",
+      "type": "NUMBER",
+      "start": 255497,
+      "end": 255501
+    },
+    {
+      "text": "85",
+      "type": "NUMBER",
+      "start": 107137,
+      "end": 107139
+    },
+    {
+      "text": "983",
+      "type": "NUMBER",
+      "start": 131777,
+      "end": 131780
+    },
+    {
+      "text": "10.5",
+      "type": "NUMBER",
+      "start": 201187,
+      "end": 201191
+    },
+    {
+      "text": "1010",
+      "type": "NUMBER",
+      "start": 719,
+      "end": 723
+    },
+    {
+      "text": "254",
+      "type": "NUMBER",
+      "start": 130814,
+      "end": 130817
+    },
+    {
+      "text": "086",
+      "type": "NUMBER",
+      "start": 131185,
+      "end": 131188
+    },
+    {
+      "text": "26",
+      "type": "NUMBER",
+      "start": 1117,
+      "end": 1119
+    },
+    {
+      "text": "170",
+      "type": "NUMBER",
+      "start": 109876,
+      "end": 109879
+    },
+    {
+      "text": "194",
+      "type": "NUMBER",
+      "start": 121567,
+      "end": 121570
+    },
+    {
+      "text": "128",
+      "type": "NUMBER",
+      "start": 142467,
+      "end": 142470
+    },
+    {
+      "text": "1.05%",
+      "type": "NUMBER",
+      "start": 194596,
+      "end": 194601
+    },
+    {
+      "text": "2.40%",
+      "type": "NUMBER",
+      "start": 194353,
+      "end": 194358
+    },
+    {
+      "text": "856",
+      "type": "NUMBER",
+      "start": 140889,
+      "end": 140892
+    },
+    {
+      "text": "2.85%",
+      "type": "NUMBER",
+      "start": 194640,
+      "end": 194645
+    },
+    {
+      "text": "00",
+      "type": "NUMBER",
+      "start": 412,
+      "end": 414
+    },
+    {
+      "text": "1.550%",
+      "type": "NUMBER",
+      "start": 196671,
+      "end": 196677
+    },
+    {
+      "text": "4.6",
+      "type": "NUMBER",
+      "start": 194916,
+      "end": 194919
+    },
+    {
+      "text": "2.15%",
+      "type": "NUMBER",
+      "start": 195094,
+      "end": 195099
+    },
+    {
+      "text": "4.28",
+      "type": "NUMBER",
+      "start": 200412,
+      "end": 200416
+    },
+    {
+      "text": "2015.",
+      "type": "NUMBER",
+      "start": 200818,
+      "end": 200823
+    },
+    {
+      "text": "846",
+      "type": "NUMBER",
+      "start": 129365,
+      "end": 129368
+    },
+    {
+      "text": "3.200%",
+      "type": "NUMBER",
+      "start": 195430,
+      "end": 195436
+    },
+    {
+      "text": "1.375%",
+      "type": "NUMBER",
+      "start": 1202,
+      "end": 1208
+    },
+    {
+      "text": "470",
+      "type": "NUMBER",
+      "start": 143551,
+      "end": 143554
+    },
+    {
+      "text": "64",
+      "type": "NUMBER",
+      "start": 20830,
+      "end": 20832
+    },
+    {
+      "text": "63",
+      "type": "NUMBER",
+      "start": 109776,
+      "end": 109778
+    },
+    {
+      "text": "034",
+      "type": "NUMBER",
+      "start": 128979,
+      "end": 128982
+    },
+    {
+      "text": "419",
+      "type": "NUMBER",
+      "start": 153803,
+      "end": 153806
+    },
+    {
+      "text": "28",
+      "type": "NUMBER",
+      "start": 219,
+      "end": 221
+    },
+    {
+      "text": "386",
+      "type": "NUMBER",
+      "start": 156786,
+      "end": 156789
+    },
+    {
+      "text": "2.100%",
+      "type": "NUMBER",
+      "start": 197923,
+      "end": 197929
+    },
+    {
+      "text": "10.17",
+      "type": "NUMBER",
+      "start": 201590,
+      "end": 201595
+    },
+    {
+      "text": "987",
+      "type": "NUMBER",
+      "start": 127236,
+      "end": 127239
+    },
+    {
+      "text": "177",
+      "type": "NUMBER",
+      "start": 108490,
+      "end": 108493
+    },
+    {
+      "text": "054",
+      "type": "NUMBER",
+      "start": 67,
+      "end": 70
+    },
+    {
+      "text": "$2",
+      "type": "NUMBER",
+      "start": 4419,
+      "end": 4421
+    },
+    {
+      "text": "017",
+      "type": "NUMBER",
+      "start": 115141,
+      "end": 115144
+    },
+    {
+      "text": "829",
+      "type": "NUMBER",
+      "start": 127615,
+      "end": 127618
+    },
+    {
+      "text": "627",
+      "type": "NUMBER",
+      "start": 143387,
+      "end": 143390
+    },
+    {
+      "text": "841",
+      "type": "NUMBER",
+      "start": 131456,
+      "end": 131459
+    },
+    {
+      "text": "1.500%",
+      "type": "NUMBER",
+      "start": 197900,
+      "end": 197906
+    },
+    {
+      "text": "940",
+      "type": "NUMBER",
+      "start": 155533,
+      "end": 155536
+    },
+    {
+      "text": "1.00%",
+      "type": "NUMBER",
+      "start": 194331,
+      "end": 194336
+    },
+    {
+      "text": "2.800%",
+      "type": "NUMBER",
+      "start": 199618,
+      "end": 199624
+    },
+    {
+      "text": "917",
+      "type": "NUMBER",
+      "start": 130995,
+      "end": 130998
+    },
+    {
+      "text": "287",
+      "type": "NUMBER",
+      "start": 127197,
+      "end": 127200
+    },
+    {
+      "text": "634",
+      "type": "NUMBER",
+      "start": 150917,
+      "end": 150920
+    },
+    {
+      "text": "20549",
+      "type": "NUMBER",
+      "start": 66,
+      "end": 71
+    },
+    {
+      "text": "33",
+      "type": "NUMBER",
+      "start": 102672,
+      "end": 102674
+    },
+    {
+      "text": "834",
+      "type": "NUMBER",
+      "start": 127391,
+      "end": 127394
+    },
+    {
+      "text": "27",
+      "type": "NUMBER",
+      "start": 1169,
+      "end": 1171
+    },
+    {
+      "text": "427",
+      "type": "NUMBER",
+      "start": 166614,
+      "end": 166617
+    },
+    {
+      "text": "2019",
+      "type": "NUMBER",
+      "start": 103844,
+      "end": 103848
+    },
+    {
+      "text": "0.45%",
+      "type": "NUMBER",
+      "start": 194309,
+      "end": 194314
+    },
+    {
+      "text": "7.",
+      "type": "NUMBER",
+      "start": 5758,
+      "end": 5760
+    },
+    {
+      "text": "2007",
+      "type": "NUMBER",
+      "start": 151194,
+      "end": 151198
+    },
+    {
+      "text": "2014",
+      "type": "NUMBER",
+      "start": 151467,
+      "end": 151471
+    },
+    {
+      "text": "6.",
+      "type": "NUMBER",
+      "start": 5736,
+      "end": 5738
+    },
+    {
+      "text": "421",
+      "type": "NUMBER",
+      "start": 155207,
+      "end": 155210
+    },
+    {
+      "text": "10.4",
+      "type": "NUMBER",
+      "start": 201079,
+      "end": 201083
+    },
+    {
+      "text": "132",
+      "type": "NUMBER",
+      "start": 142444,
+      "end": 142447
+    },
+    {
+      "text": "910",
+      "type": "NUMBER",
+      "start": 102561,
+      "end": 102564
+    },
+    {
+      "text": "4.29",
+      "type": "NUMBER",
+      "start": 200669,
+      "end": 200673
+    },
+    {
+      "text": "794",
+      "type": "NUMBER",
+      "start": 131896,
+      "end": 131899
+    },
+    {
+      "text": "31.1",
+      "type": "NUMBER",
+      "start": 203651,
+      "end": 203655
+    },
+    {
+      "text": "447",
+      "type": "NUMBER",
+      "start": 131131,
+      "end": 131134
+    },
+    {
+      "text": "1934",
+      "type": "NUMBER",
+      "start": 178,
+      "end": 182
+    },
+    {
+      "text": "0.875%",
+      "type": "NUMBER",
+      "start": 1046,
+      "end": 1052
+    },
+    {
+      "text": "394",
+      "type": "NUMBER",
+      "start": 107149,
+      "end": 107152
+    },
+    {
+      "text": "3.60%",
+      "type": "NUMBER",
+      "start": 195642,
+      "end": 195647
+    },
+    {
+      "text": "331",
+      "type": "NUMBER",
+      "start": 127167,
+      "end": 127170
+    },
+    {
+      "text": "160",
+      "type": "NUMBER",
+      "start": 131731,
+      "end": 131734
+    },
+    {
+      "text": "302",
+      "type": "NUMBER",
+      "start": 155088,
+      "end": 155091
+    },
+    {
+      "text": "3%",
+      "type": "NUMBER",
+      "start": 109937,
+      "end": 109939
+    },
+    {
+      "text": "175",
+      "type": "NUMBER",
+      "start": 128845,
+      "end": 128848
+    },
+    {
+      "text": "192",
+      "type": "NUMBER",
+      "start": 143444,
+      "end": 143447
+    },
+    {
+      "text": "333",
+      "type": "NUMBER",
+      "start": 161845,
+      "end": 161848
+    },
+    {
+      "text": "736",
+      "type": "NUMBER",
+      "start": 125201,
+      "end": 125204
+    },
+    {
+      "text": "87",
+      "type": "NUMBER",
+      "start": 1048,
+      "end": 1050
+    },
+    {
+      "text": "53",
+      "type": "NUMBER",
+      "start": 4427,
+      "end": 4429
+    },
+    {
+      "text": "2002",
+      "type": "NUMBER",
+      "start": 405739,
+      "end": 405743
+    },
+    {
+      "text": "468",
+      "type": "NUMBER",
+      "start": 143047,
+      "end": 143050
+    },
+    {
+      "text": "636",
+      "type": "NUMBER",
+      "start": 143516,
+      "end": 143519
+    },
+    {
+      "text": "4.45%",
+      "type": "NUMBER",
+      "start": 194688,
+      "end": 194693
+    },
+    {
+      "text": "367",
+      "type": "NUMBER",
+      "start": 416,
+      "end": 419
+    },
+    {
+      "text": "21.1",
+      "type": "NUMBER",
+      "start": 203451,
+      "end": 203455
+    },
+    {
+      "text": "2026",
+      "type": "NUMBER",
+      "start": 1115,
+      "end": 1119
+    },
+    {
+      "text": "069",
+      "type": "NUMBER",
+      "start": 147866,
+      "end": 147869
+    },
+    {
+      "text": "658",
+      "type": "NUMBER",
+      "start": 106897,
+      "end": 106900
+    },
+    {
+      "text": "534",
+      "type": "NUMBER",
+      "start": 160031,
+      "end": 160034
+    },
+    {
+      "text": "36",
+      "type": "NUMBER",
+      "start": 416,
+      "end": 418
+    },
+    {
+      "text": "57",
+      "type": "NUMBER",
+      "start": 107024,
+      "end": 107026
+    },
+    {
+      "text": "070",
+      "type": "NUMBER",
+      "start": 156958,
+      "end": 156961
+    },
+    {
+      "text": "409",
+      "type": "NUMBER",
+      "start": 289412,
+      "end": 289415
+    },
+    {
+      "text": "4.100%",
+      "type": "NUMBER",
+      "start": 200237,
+      "end": 200243
+    },
+    {
+      "text": "298",
+      "type": "NUMBER",
+      "start": 124591,
+      "end": 124594
+    },
+    {
+      "text": "050",
+      "type": "NUMBER",
+      "start": 1256,
+      "end": 1259
+    },
+    {
+      "text": "1.000%",
+      "type": "NUMBER",
+      "start": 194850,
+      "end": 194856
+    },
+    {
+      "text": "45",
+      "type": "NUMBER",
+      "start": 106866,
+      "end": 106868
+    },
+    {
+      "text": "71",
+      "type": "NUMBER",
+      "start": 109811,
+      "end": 109813
+    },
+    {
+      "text": "58",
+      "type": "NUMBER",
+      "start": 106898,
+      "end": 106900
+    },
+    {
+      "text": "995",
+      "type": "NUMBER",
+      "start": 6823,
+      "end": 6826
+    },
+    {
+      "text": "249",
+      "type": "NUMBER",
+      "start": 127640,
+      "end": 127643
+    },
+    {
+      "text": "12.7",
+      "type": "NUMBER",
+      "start": 151912,
+      "end": 151916
+    },
+    {
+      "text": "2053.8",
+      "type": "NUMBER",
+      "start": 200648,
+      "end": 200654
+    },
+    {
+      "text": "$400",
+      "type": "NUMBER",
+      "start": 104208,
+      "end": 104212
+    },
+    {
+      "text": "165214",
+      "type": "NUMBER",
+      "start": 398067,
+      "end": 398073
+    },
+    {
+      "text": "11.",
+      "type": "NUMBER",
+      "start": 6299,
+      "end": 6302
+    },
+    {
+      "text": "370",
+      "type": "NUMBER",
+      "start": 110956,
+      "end": 110959
+    },
+    {
+      "text": "052",
+      "type": "NUMBER",
+      "start": 107010,
+      "end": 107013
+    },
+    {
+      "text": "10.1",
+      "type": "NUMBER",
+      "start": 200730,
+      "end": 200734
+    },
+    {
+      "text": "4.14",
+      "type": "NUMBER",
+      "start": 197132,
+      "end": 197136
+    },
+    {
+      "text": "100%",
+      "type": "NUMBER",
+      "start": 196649,
+      "end": 196653
+    },
+    {
+      "text": "$7.7",
+      "type": "NUMBER",
+      "start": 139452,
+      "end": 139456
+    },
+    {
+      "text": "150.87",
+      "type": "NUMBER",
+      "start": 166798,
+      "end": 166804
+    },
+    {
+      "text": "2049.8",
+      "type": "NUMBER",
+      "start": 198689,
+      "end": 198695
+    },
+    {
+      "text": "$9.5",
+      "type": "NUMBER",
+      "start": 156325,
+      "end": 156329
+    },
+    {
+      "text": "$8.5",
+      "type": "NUMBER",
+      "start": 150194,
+      "end": 150198
+    },
+    {
+      "text": "147",
+      "type": "NUMBER",
+      "start": 174069,
+      "end": 174072
+    },
+    {
+      "text": "104",
+      "type": "NUMBER",
+      "start": 126380,
+      "end": 126383
+    },
+    {
+      "text": "4.20",
+      "type": "NUMBER",
+      "start": 198447,
+      "end": 198451
+    },
+    {
+      "text": "864",
+      "type": "NUMBER",
+      "start": 227275,
+      "end": 227278
+    },
+    {
+      "text": "156",
+      "type": "NUMBER",
+      "start": 104384,
+      "end": 104387
+    },
+    {
+      "text": "1.200%",
+      "type": "NUMBER",
+      "start": 199521,
+      "end": 199527
+    },
+    {
+      "text": "4.25",
+      "type": "NUMBER",
+      "start": 197095,
+      "end": 197099
+    },
+    {
+      "text": "679",
+      "type": "NUMBER",
+      "start": 132111,
+      "end": 132114
+    },
+    {
+      "text": "214",
+      "type": "NUMBER",
+      "start": 124813,
+      "end": 124816
+    },
+    {
+      "text": "3.85%",
+      "type": "NUMBER",
+      "start": 194379,
+      "end": 194384
+    },
+    {
+      "text": "025",
+      "type": "NUMBER",
+      "start": 1012,
+      "end": 1015
+    },
+    {
+      "text": "3.45%",
+      "type": "NUMBER",
+      "start": 194663,
+      "end": 194668
+    },
+    {
+      "text": "4.19",
+      "type": "NUMBER",
+      "start": 198297,
+      "end": 198301
+    },
+    {
+      "text": "246",
+      "type": "NUMBER",
+      "start": 154419,
+      "end": 154422
+    },
+    {
+      "text": "$4.8",
+      "type": "NUMBER",
+      "start": 153278,
+      "end": 153282
+    },
+    {
+      "text": "136",
+      "type": "NUMBER",
+      "start": 143103,
+      "end": 143106
+    },
+    {
+      "text": "294",
+      "type": "NUMBER",
+      "start": 106927,
+      "end": 106930
+    },
+    {
+      "text": "521",
+      "type": "NUMBER",
+      "start": 128935,
+      "end": 128938
+    },
+    {
+      "text": "1",
+      "type": "NUMBER",
+      "start": 77,
+      "end": 78
+    },
+    {
+      "text": "1.300%",
+      "type": "NUMBER",
+      "start": 196198,
+      "end": 196204
+    },
+    {
+      "text": "2021",
+      "type": "NUMBER",
+      "start": 104258,
+      "end": 104262
+    },
+    {
+      "text": "448",
+      "type": "NUMBER",
+      "start": 130700,
+      "end": 130703
+    },
+    {
+      "text": "77%",
+      "type": "NUMBER",
+      "start": 145064,
+      "end": 145067
+    },
+    {
+      "text": "$72.9",
+      "type": "NUMBER",
+      "start": 153916,
+      "end": 153921
+    },
+    {
+      "text": "$12.1",
+      "type": "NUMBER",
+      "start": 140246,
+      "end": 140251
+    },
+    {
+      "text": "686",
+      "type": "NUMBER",
+      "start": 130987,
+      "end": 130990
+    },
+    {
+      "text": "42.",
+      "type": "NUMBER",
+      "start": 193316,
+      "end": 193319
+    },
+    {
+      "text": "467",
+      "type": "NUMBER",
+      "start": 111182,
+      "end": 111185
+    },
+    {
+      "text": "$300",
+      "type": "NUMBER",
+      "start": 104204,
+      "end": 104208
+    },
+    {
+      "text": "97.31",
+      "type": "NUMBER",
+      "start": 166831,
+      "end": 166836
+    },
+    {
+      "text": "4.12",
+      "type": "NUMBER",
+      "start": 196493,
+      "end": 196497
+    },
+    {
+      "text": "$10.8",
+      "type": "NUMBER",
+      "start": 156137,
+      "end": 156142
+    },
+    {
+      "text": "965",
+      "type": "NUMBER",
+      "start": 127013,
+      "end": 127016
+    },
+    {
+      "text": "224.11",
+      "type": "NUMBER",
+      "start": 102459,
+      "end": 102465
+    },
+    {
+      "text": "23.1",
+      "type": "NUMBER",
+      "start": 203490,
+      "end": 203494
+    },
+    {
+      "text": "9",
+      "type": "NUMBER",
+      "start": 70,
+      "end": 71
+    },
+    {
+      "text": "4.150%",
+      "type": "NUMBER",
+      "start": 200581,
+      "end": 200587
+    },
+    {
+      "text": "$13.8",
+      "type": "NUMBER",
+      "start": 144403,
+      "end": 144408
+    },
+    {
+      "text": "949",
+      "type": "NUMBER",
+      "start": 131495,
+      "end": 131498
+    },
+    {
+      "text": "118",
+      "type": "NUMBER",
+      "start": 106942,
+      "end": 106945
+    },
+    {
+      "text": "181",
+      "type": "NUMBER",
+      "start": 174129,
+      "end": 174132
+    },
+    {
+      "text": "$7.2",
+      "type": "NUMBER",
+      "start": 115183,
+      "end": 115187
+    },
+    {
+      "text": "2019.",
+      "type": "NUMBER",
+      "start": 201718,
+      "end": 201723
+    },
+    {
+      "text": "2042",
+      "type": "NUMBER",
+      "start": 1375,
+      "end": 1379
+    },
+    {
+      "text": "91",
+      "type": "NUMBER",
+      "start": 102561,
+      "end": 102563
+    },
+    {
+      "text": "34",
+      "type": "NUMBER",
+      "start": 180,
+      "end": 182
+    },
+    {
+      "text": "4.9",
+      "type": "NUMBER",
+      "start": 158527,
+      "end": 158530
+    },
+    {
+      "text": "$140.8",
+      "type": "NUMBER",
+      "start": 112857,
+      "end": 112863
+    },
+    {
+      "text": "6",
+      "type": "NUMBER",
+      "start": 417,
+      "end": 418
+    },
+    {
+      "text": "1350",
+      "type": "NUMBER",
+      "start": 203819,
+      "end": 203823
+    },
+    {
+      "text": "887",
+      "type": "NUMBER",
+      "start": 174133,
+      "end": 174136
+    },
+    {
+      "text": "2031",
+      "type": "NUMBER",
+      "start": 1323,
+      "end": 1327
+    },
+    {
+      "text": "308",
+      "type": "NUMBER",
+      "start": 127750,
+      "end": 127753
+    },
+    {
+      "text": "36.3%",
+      "type": "NUMBER",
+      "start": 109934,
+      "end": 109939
+    },
+    {
+      "text": "550",
+      "type": "NUMBER",
+      "start": 128109,
+      "end": 128112
+    },
+    {
+      "text": "$97.3",
+      "type": "NUMBER",
+      "start": 113332,
+      "end": 113337
+    },
+    {
+      "text": "046",
+      "type": "NUMBER",
+      "start": 129375,
+      "end": 129378
+    },
+    {
+      "text": "935",
+      "type": "NUMBER",
+      "start": 131243,
+      "end": 131246
+    },
+    {
+      "text": "2028",
+      "type": "NUMBER",
+      "start": 159819,
+      "end": 159823
+    },
+    {
+      "text": "2022.10",
+      "type": "NUMBER",
+      "start": 202776,
+      "end": 202783
+    },
+    {
+      "text": "2029.8",
+      "type": "NUMBER",
+      "start": 197592,
+      "end": 197598
+    },
+    {
+      "text": "4%",
+      "type": "NUMBER",
+      "start": 111252,
+      "end": 111254
+    },
+    {
+      "text": "2.700%",
+      "type": "NUMBER",
+      "start": 195406,
+      "end": 195412
+    },
+    {
+      "text": "688",
+      "type": "NUMBER",
+      "start": 130355,
+      "end": 130358
+    },
+    {
+      "text": "11",
+      "type": "NUMBER",
+      "start": 506,
+      "end": 508
+    },
+    {
+      "text": "743",
+      "type": "NUMBER",
+      "start": 418,
+      "end": 421
+    },
+    {
+      "text": "90",
+      "type": "NUMBER",
+      "start": 2095,
+      "end": 2097
+    },
+    {
+      "text": "752",
+      "type": "NUMBER",
+      "start": 143618,
+      "end": 143621
+    },
+    {
+      "text": "10.3",
+      "type": "NUMBER",
+      "start": 160192,
+      "end": 160196
+    },
+    {
+      "text": "344",
+      "type": "NUMBER",
+      "start": 143524,
+      "end": 143527
+    },
+    {
+      "text": "896",
+      "type": "NUMBER",
+      "start": 160037,
+      "end": 160040
+    },
+    {
+      "text": "171",
+      "type": "NUMBER",
+      "start": 159757,
+      "end": 159760
+    },
+    {
+      "text": "168",
+      "type": "NUMBER",
+      "start": 155254,
+      "end": 155257
+    },
+    {
+      "text": "345",
+      "type": "NUMBER",
+      "start": 109822,
+      "end": 109825
+    },
+    {
+      "text": "139",
+      "type": "NUMBER",
+      "start": 121561,
+      "end": 121564
+    },
+    {
+      "text": "622",
+      "type": "NUMBER",
+      "start": 142247,
+      "end": 142250
+    },
+    {
+      "text": "2044.8",
+      "type": "NUMBER",
+      "start": 194704,
+      "end": 194710
+    },
+    {
+      "text": "426",
+      "type": "NUMBER",
+      "start": 164662,
+      "end": 164665
+    },
+    {
+      "text": "46",
+      "type": "NUMBER",
+      "start": 104460,
+      "end": 104462
+    },
+    {
+      "text": "782",
+      "type": "NUMBER",
+      "start": 109880,
+      "end": 109883
+    },
+    {
+      "text": "129",
+      "type": "NUMBER",
+      "start": 108653,
+      "end": 108656
+    },
+    {
+      "text": "2019.10",
+      "type": "NUMBER",
+      "start": 201718,
+      "end": 201725
+    },
+    {
+      "text": "2022.8",
+      "type": "NUMBER",
+      "start": 202449,
+      "end": 202455
+    },
+    {
+      "text": "292",
+      "type": "NUMBER",
+      "start": 108534,
+      "end": 108537
+    },
+    {
+      "text": "325",
+      "type": "NUMBER",
+      "start": 125508,
+      "end": 125511
+    },
+    {
+      "text": "2",
+      "type": "NUMBER",
+      "start": 66,
+      "end": 67
+    },
+    {
+      "text": "4.18",
+      "type": "NUMBER",
+      "start": 198011,
+      "end": 198015
+    },
+    {
+      "text": "322",
+      "type": "NUMBER",
+      "start": 104345,
+      "end": 104348
+    },
+    {
+      "text": "581",
+      "type": "NUMBER",
+      "start": 131724,
+      "end": 131727
+    },
+    {
+      "text": "98",
+      "type": "NUMBER",
+      "start": 108461,
+      "end": 108463
+    },
+    {
+      "text": "4.850%",
+      "type": "NUMBER",
+      "start": 162557,
+      "end": 162563
+    },
+    {
+      "text": "354",
+      "type": "NUMBER",
+      "start": 131259,
+      "end": 131262
+    },
+    {
+      "text": "2041",
+      "type": "NUMBER",
+      "start": 199585,
+      "end": 199589
+    },
+    {
+      "text": "215",
+      "type": "NUMBER",
+      "start": 104477,
+      "end": 104480
+    },
+    {
+      "text": "18.",
+      "type": "NUMBER",
+      "start": 167178,
+      "end": 167181
+    },
+    {
+      "text": "2023",
+      "type": "NUMBER",
+      "start": 103115,
+      "end": 103119
+    },
+    {
+      "text": "1471",
+      "type": "NUMBER",
+      "start": 229873,
+      "end": 229877
+    },
+    {
+      "text": "286",
+      "type": "NUMBER",
+      "start": 127160,
+      "end": 127163
+    },
+    {
+      "text": "240.10",
+      "type": "NUMBER",
+      "start": 4038,
+      "end": 4044
+    },
+    {
+      "text": "2.250%",
+      "type": "NUMBER",
+      "start": 196245,
+      "end": 196251
+    },
+    {
+      "text": "816",
+      "type": "NUMBER",
+      "start": 126554,
+      "end": 126557
+    },
+    {
+      "text": "357",
+      "type": "NUMBER",
+      "start": 108474,
+      "end": 108477
+    },
+    {
+      "text": "428",
+      "type": "NUMBER",
+      "start": 142915,
+      "end": 142918
+    },
+    {
+      "text": "552",
+      "type": "NUMBER",
+      "start": 130751,
+      "end": 130754
+    },
+    {
+      "text": "2025",
+      "type": "NUMBER",
+      "start": 1011,
+      "end": 1015
+    },
+    {
+      "text": "112",
+      "type": "NUMBER",
+      "start": 102704,
+      "end": 102707
+    },
+    {
+      "text": "830",
+      "type": "NUMBER",
+      "start": 153796,
+      "end": 153799
+    },
+    {
+      "text": "4.3",
+      "type": "NUMBER",
+      "start": 194128,
+      "end": 194131
+    },
+    {
+      "text": "511",
+      "type": "NUMBER",
+      "start": 125894,
+      "end": 125897
+    },
+    {
+      "text": "020",
+      "type": "NUMBER",
+      "start": 104244,
+      "end": 104247
+    },
+    {
+      "text": "13.1",
+      "type": "NUMBER",
+      "start": 151645,
+      "end": 151649
+    },
+    {
+      "text": "5.00%",
+      "type": "NUMBER",
+      "start": 161494,
+      "end": 161499
+    },
+    {
+      "text": "5",
+      "type": "NUMBER",
+      "start": 68,
+      "end": 69
+    },
+    {
+      "text": "364",
+      "type": "NUMBER",
+      "start": 127463,
+      "end": 127466
+    },
+    {
+      "text": "583",
+      "type": "NUMBER",
+      "start": 108431,
+      "end": 108434
+    },
+    {
+      "text": "$0.24",
+      "type": "NUMBER",
+      "start": 116166,
+      "end": 116171
+    },
+    {
+      "text": "303",
+      "type": "NUMBER",
+      "start": 159345,
+      "end": 159348
+    },
+    {
+      "text": "269",
+      "type": "NUMBER",
+      "start": 125127,
+      "end": 125130
+    },
+    {
+      "text": "914",
+      "type": "NUMBER",
+      "start": 159778,
+      "end": 159781
+    },
+    {
+      "text": "31.2",
+      "type": "NUMBER",
+      "start": 203727,
+      "end": 203731
+    },
+    {
+      "text": "2036",
+      "type": "NUMBER",
+      "start": 196332,
+      "end": 196336
+    },
+    {
+      "text": "731",
+      "type": "NUMBER",
+      "start": 130640,
+      "end": 130643
+    },
+    {
+      "text": "6.08",
+      "type": "NUMBER",
+      "start": 125364,
+      "end": 125368
+    },
+    {
+      "text": "320",
+      "type": "NUMBER",
+      "start": 143272,
+      "end": 143275
+    },
+    {
+      "text": "739",
+      "type": "NUMBER",
+      "start": 155040,
+      "end": 155043
+    },
+    {
+      "text": "204",
+      "type": "NUMBER",
+      "start": 1375,
+      "end": 1378
+    },
+    {
+      "text": "045",
+      "type": "NUMBER",
+      "start": 106865,
+      "end": 106868
+    },
+    {
+      "text": "749",
+      "type": "NUMBER",
+      "start": 111802,
+      "end": 111805
+    },
+    {
+      "text": "$14.9",
+      "type": "NUMBER",
+      "start": 158525,
+      "end": 158530
+    },
+    {
+      "text": "985",
+      "type": "NUMBER",
+      "start": 127679,
+      "end": 127682
+    },
+    {
+      "text": "60",
+      "type": "NUMBER",
+      "start": 1360,
+      "end": 1362
+    },
+    {
+      "text": "0.03%",
+      "type": "NUMBER",
+      "start": 162593,
+      "end": 162598
+    },
+    {
+      "text": "100",
+      "type": "NUMBER",
+      "start": 103676,
+      "end": 103679
+    },
+    {
+      "text": "778",
+      "type": "NUMBER",
+      "start": 141742,
+      "end": 141745
+    },
+    {
+      "text": "15",
+      "type": "NUMBER",
+      "start": 138,
+      "end": 140
+    },
+    {
+      "text": "595",
+      "type": "NUMBER",
+      "start": 142389,
+      "end": 142392
+    },
+    {
+      "text": "861",
+      "type": "NUMBER",
+      "start": 166676,
+      "end": 166679
+    },
+    {
+      "text": "$88.4",
+      "type": "NUMBER",
+      "start": 163957,
+      "end": 163962
+    },
+    {
+      "text": "6.65%",
+      "type": "NUMBER",
+      "start": 162602,
+      "end": 162607
+    },
+    {
+      "text": "4.27",
+      "type": "NUMBER",
+      "start": 200040,
+      "end": 200044
+    },
+    {
+      "text": "551",
+      "type": "NUMBER",
+      "start": 155444,
+      "end": 155447
+    },
+    {
+      "text": "953",
+      "type": "NUMBER",
+      "start": 142260,
+      "end": 142263
+    },
+    {
+      "text": "10.20",
+      "type": "NUMBER",
+      "start": 201311,
+      "end": 201316
+    },
+    {
+      "text": "13.",
+      "type": "NUMBER",
+      "start": 144384,
+      "end": 144387
+    },
+    {
+      "text": "219",
+      "type": "NUMBER",
+      "start": 174299,
+      "end": 174302
+    },
+    {
+      "text": "1.650%",
+      "type": "NUMBER",
+      "start": 199072,
+      "end": 199078
+    },
+    {
+      "text": "253",
+      "type": "NUMBER",
+      "start": 126463,
+      "end": 126466
+    },
+    {
+      "text": "735",
+      "type": "NUMBER",
+      "start": 143507,
+      "end": 143510
+    },
+    {
+      "text": "203698",
+      "type": "NUMBER",
+      "start": 398463,
+      "end": 398469
+    },
+    {
+      "text": "1203",
+      "type": "NUMBER",
+      "start": 213888,
+      "end": 213892
+    },
+    {
+      "text": "2061.8",
+      "type": "NUMBER",
+      "start": 199635,
+      "end": 199641
+    },
+    {
+      "text": "24",
+      "type": "NUMBER",
+      "start": 225,
+      "end": 227
+    },
+    {
+      "text": "015",
+      "type": "NUMBER",
+      "start": 151525,
+      "end": 151528
+    },
+    {
+      "text": "4.2",
+      "type": "NUMBER",
+      "start": 115367,
+      "end": 115370
+    },
+    {
+      "text": "1B",
+      "type": "NUMBER",
+      "start": 5458,
+      "end": 5460
+    },
+    {
+      "text": "99.77",
+      "type": "NUMBER",
+      "start": 166716,
+      "end": 166721
+    },
+    {
+      "text": "855",
+      "type": "NUMBER",
+      "start": 124770,
+      "end": 124773
+    },
+    {
+      "text": "2.375%",
+      "type": "NUMBER",
+      "start": 199568,
+      "end": 199574
+    },
+    {
+      "text": "4.22",
+      "type": "NUMBER",
+      "start": 198903,
+      "end": 198907
+    },
+    {
+      "text": "200",
+      "type": "NUMBER",
+      "start": 104201,
+      "end": 104204
+    },
+    {
+      "text": "633",
+      "type": "NUMBER",
+      "start": 109776,
+      "end": 109779
+    },
+    {
+      "text": "314",
+      "type": "NUMBER",
+      "start": 149915,
+      "end": 149918
+    },
+    {
+      "text": "106",
+      "type": "NUMBER",
+      "start": 162610,
+      "end": 162613
+    },
+    {
+      "text": "260",
+      "type": "NUMBER",
+      "start": 102708,
+      "end": 102711
+    },
+    {
+      "text": "479",
+      "type": "NUMBER",
+      "start": 127296,
+      "end": 127299
+    },
+    {
+      "text": "86%",
+      "type": "NUMBER",
+      "start": 144689,
+      "end": 144692
+    },
+    {
+      "text": "2014.",
+      "type": "NUMBER",
+      "start": 151467,
+      "end": 151472
+    },
+    {
+      "text": "72.12",
+      "type": "NUMBER",
+      "start": 166683,
+      "end": 166688
+    },
+    {
+      "text": "098",
+      "type": "NUMBER",
+      "start": 172872,
+      "end": 172875
+    },
+    {
+      "text": "6.16",
+      "type": "NUMBER",
+      "start": 125341,
+      "end": 125345
+    },
+    {
+      "text": "83",
+      "type": "NUMBER",
+      "start": 107133,
+      "end": 107135
+    },
+    {
+      "text": "20.",
+      "type": "NUMBER",
+      "start": 102925,
+      "end": 102928
+    },
+    {
+      "text": "873",
+      "type": "NUMBER",
+      "start": 142136,
+      "end": 142139
+    },
+    {
+      "text": "589",
+      "type": "NUMBER",
+      "start": 164724,
+      "end": 164727
+    },
+    {
+      "text": "744",
+      "type": "NUMBER",
+      "start": 125451,
+      "end": 125454
+    },
+    {
+      "text": "212",
+      "type": "NUMBER",
+      "start": 126035,
+      "end": 126038
+    },
+    {
+      "text": "082",
+      "type": "NUMBER",
+      "start": 172961,
+      "end": 172964
+    },
+    {
+      "text": "2022",
+      "type": "NUMBER",
+      "start": 104273,
+      "end": 104277
+    },
+    {
+      "text": "0.500%",
+      "type": "NUMBER",
+      "start": 1306,
+      "end": 1312
+    },
+    {
+      "text": "95014",
+      "type": "NUMBER",
+      "start": 651,
+      "end": 656
+    },
+    {
+      "text": "97",
+      "type": "NUMBER",
+      "start": 102454,
+      "end": 102456
+    },
+    {
+      "text": "231",
+      "type": "NUMBER",
+      "start": 125455,
+      "end": 125458
+    },
+    {
+      "text": "109",
+      "type": "NUMBER",
+      "start": 109772,
+      "end": 109775
+    },
+    {
+      "text": "290",
+      "type": "NUMBER",
+      "start": 127931,
+      "end": 127934
+    },
+    {
+      "text": "185",
+      "type": "NUMBER",
+      "start": 124719,
+      "end": 124722
+    },
+    {
+      "text": "573",
+      "type": "NUMBER",
+      "start": 132120,
+      "end": 132123
+    },
+    {
+      "text": "36.5%",
+      "type": "NUMBER",
+      "start": 109927,
+      "end": 109932
+    },
+    {
+      "text": "151",
+      "type": "NUMBER",
+      "start": 130832,
+      "end": 130835
+    },
+    {
+      "text": "471",
+      "type": "NUMBER",
+      "start": 124741,
+      "end": 124744
+    },
+    {
+      "text": "39",
+      "type": "NUMBER",
+      "start": 102571,
+      "end": 102573
+    },
+    {
+      "text": "566",
+      "type": "NUMBER",
+      "start": 127245,
+      "end": 127248
+    },
+    {
+      "text": "571",
+      "type": "NUMBER",
+      "start": 153541,
+      "end": 153544
+    },
+    {
+      "text": "2046.8",
+      "type": "NUMBER",
+      "start": 196358,
+      "end": 196364
+    },
+    {
+      "text": "14",
+      "type": "NUMBER",
+      "start": 654,
+      "end": 656
+    },
+    {
+      "text": "030",
+      "type": "NUMBER",
+      "start": 127926,
+      "end": 127929
+    },
+    {
+      "text": "031",
+      "type": "NUMBER",
+      "start": 1324,
+      "end": 1327
+    },
+    {
+      "text": "684",
+      "type": "NUMBER",
+      "start": 130649,
+      "end": 130652
+    },
+    {
+      "text": "890",
+      "type": "NUMBER",
+      "start": 143375,
+      "end": 143378
+    },
+    {
+      "text": "4.300%",
+      "type": "NUMBER",
+      "start": 200604,
+      "end": 200610
+    },
+    {
+      "text": "842",
+      "type": "NUMBER",
+      "start": 159616,
+      "end": 159619
+    },
+    {
+      "text": "337",
+      "type": "NUMBER",
+      "start": 126115,
+      "end": 126118
+    },
+    {
+      "text": "0.90",
+      "type": "NUMBER",
+      "start": 129780,
+      "end": 129784
+    },
+    {
+      "text": "372",
+      "type": "NUMBER",
+      "start": 164702,
+      "end": 164705
+    },
+    {
+      "text": "056",
+      "type": "NUMBER",
+      "start": 142471,
+      "end": 142474
+    },
+    {
+      "text": "144",
+      "type": "NUMBER",
+      "start": 143547,
+      "end": 143550
+    },
+    {
+      "text": "885",
+      "type": "NUMBER",
+      "start": 154311,
+      "end": 154314
+    },
+    {
+      "text": "13",
+      "type": "NUMBER",
+      "start": 132,
+      "end": 134
+    },
+    {
+      "text": "93",
+      "type": "NUMBER",
+      "start": 179,
+      "end": 181
+    },
+    {
+      "text": "565",
+      "type": "NUMBER",
+      "start": 125133,
+      "end": 125136
+    },
+    {
+      "text": "4.26",
+      "type": "NUMBER",
+      "start": 199889,
+      "end": 199893
+    },
+    {
+      "text": "0.550%",
+      "type": "NUMBER",
+      "start": 199261,
+      "end": 199267
+    },
+    {
+      "text": "10.15",
+      "type": "NUMBER",
+      "start": 201728,
+      "end": 201733
+    },
+    {
+      "text": "335",
+      "type": "NUMBER",
+      "start": 150572,
+      "end": 150575
+    },
+    {
+      "text": "547",
+      "type": "NUMBER",
+      "start": 125500,
+      "end": 125503
+    },
+    {
+      "text": "150",
+      "type": "NUMBER",
+      "start": 49104,
+      "end": 49107
+    },
+    {
+      "text": "3.1%",
+      "type": "NUMBER",
+      "start": 160351,
+      "end": 160355
+    },
+    {
+      "text": "2017",
+      "type": "NUMBER",
+      "start": 115140,
+      "end": 115144
+    },
+    {
+      "text": "1.100%",
+      "type": "NUMBER",
+      "start": 196647,
+      "end": 196653
+    },
+    {
+      "text": "3.750%",
+      "type": "NUMBER",
+      "start": 197973,
+      "end": 197979
+    },
+    {
+      "text": "783",
+      "type": "NUMBER",
+      "start": 125443,
+      "end": 125446
+    },
+    {
+      "text": "211",
+      "type": "NUMBER",
+      "start": 127430,
+      "end": 127433
+    },
+    {
+      "text": "2.B",
+      "type": "NUMBER",
+      "start": 399116,
+      "end": 399119
+    },
+    {
+      "text": "991",
+      "type": "NUMBER",
+      "start": 151186,
+      "end": 151189
+    },
+    {
+      "text": "2026.8",
+      "type": "NUMBER",
+      "start": 194894,
+      "end": 194900
+    },
+    {
+      "text": "793",
+      "type": "NUMBER",
+      "start": 129229,
+      "end": 129232
+    },
+    {
+      "text": "644",
+      "type": "NUMBER",
+      "start": 153584,
+      "end": 153587
+    },
+    {
+      "text": "1.",
+      "type": "NUMBER",
+      "start": 1098,
+      "end": 1100
+    },
+    {
+      "text": "321",
+      "type": "NUMBER",
+      "start": 162735,
+      "end": 162738
+    },
+    {
+      "text": "199",
+      "type": "NUMBER",
+      "start": 6822,
+      "end": 6825
+    },
+    {
+      "text": "9B",
+      "type": "NUMBER",
+      "start": 6113,
+      "end": 6115
+    },
+    {
+      "text": "2009.",
+      "type": "NUMBER",
+      "start": 180156,
+      "end": 180161
+    },
+    {
+      "text": "135.91",
+      "type": "NUMBER",
+      "start": 166915,
+      "end": 166921
+    },
+    {
+      "text": "94",
+      "type": "NUMBER",
+      "start": 499,
+      "end": 501
+    },
+    {
+      "text": "55",
+      "type": "NUMBER",
+      "start": 4426,
+      "end": 4428
+    },
+    {
+      "text": "978",
+      "type": "NUMBER",
+      "start": 131696,
+      "end": 131699
+    },
+    {
+      "text": "400",
+      "type": "NUMBER",
+      "start": 104209,
+      "end": 104212
+    },
+    {
+      "text": "241",
+      "type": "NUMBER",
+      "start": 108605,
+      "end": 108608
+    },
+    {
+      "text": "788",
+      "type": "NUMBER",
+      "start": 130481,
+      "end": 130484
+    },
+    {
+      "text": "137",
+      "type": "NUMBER",
+      "start": 124817,
+      "end": 124820
+    },
+    {
+      "text": "179",
+      "type": "NUMBER",
+      "start": 155486,
+      "end": 155489
+    },
+    {
+      "text": "733",
+      "type": "NUMBER",
+      "start": 159814,
+      "end": 159817
+    },
+    {
+      "text": "477",
+      "type": "NUMBER",
+      "start": 127140,
+      "end": 127143
+    },
+    {
+      "text": "380",
+      "type": "NUMBER",
+      "start": 141942,
+      "end": 141945
+    },
+    {
+      "text": "2045.8",
+      "type": "NUMBER",
+      "start": 195158,
+      "end": 195164
+    },
+    {
+      "text": "967",
+      "type": "NUMBER",
+      "start": 127672,
+      "end": 127675
+    },
+    {
+      "text": "899",
+      "type": "NUMBER",
+      "start": 126563,
+      "end": 126566
+    },
+    {
+      "text": "2016.",
+      "type": "NUMBER",
+      "start": 94842,
+      "end": 94847
+    },
+    {
+      "text": "822",
+      "type": "NUMBER",
+      "start": 127705,
+      "end": 127708
+    },
+    {
+      "text": "123",
+      "type": "NUMBER",
+      "start": 125071,
+      "end": 125074
+    },
+    {
+      "text": "229",
+      "type": "NUMBER",
+      "start": 157040,
+      "end": 157043
+    },
+    {
+      "text": "205",
+      "type": "NUMBER",
+      "start": 66,
+      "end": 69
+    },
+    {
+      "text": "$5.6",
+      "type": "NUMBER",
+      "start": 167850,
+      "end": 167854
+    },
+    {
+      "text": "155",
+      "type": "NUMBER",
+      "start": 104396,
+      "end": 104399
+    },
+    {
+      "text": "37",
+      "type": "NUMBER",
+      "start": 1204,
+      "end": 1206
+    },
+    {
+      "text": "575",
+      "type": "NUMBER",
+      "start": 147909,
+      "end": 147912
+    },
+    {
+      "text": "837",
+      "type": "NUMBER",
+      "start": 159886,
+      "end": 159889
+    },
+    {
+      "text": "115",
+      "type": "NUMBER",
+      "start": 4795,
+      "end": 4798
+    },
+    {
+      "text": "276",
+      "type": "NUMBER",
+      "start": 128166,
+      "end": 128169
+    },
+    {
+      "text": "395",
+      "type": "NUMBER",
+      "start": 125879,
+      "end": 125882
+    },
+    {
+      "text": "206",
+      "type": "NUMBER",
+      "start": 162579,
+      "end": 162582
+    },
+    {
+      "text": "21",
+      "type": "NUMBER",
+      "start": 5847,
+      "end": 5849
+    },
+    {
+      "text": "$2.8",
+      "type": "NUMBER",
+      "start": 158856,
+      "end": 158860
+    },
+    {
+      "text": "70",
+      "type": "NUMBER",
+      "start": 109877,
+      "end": 109879
+    },
+    {
+      "text": "000",
+      "type": "NUMBER",
+      "start": 934,
+      "end": 937
+    },
+    {
+      "text": "101",
+      "type": "NUMBER",
+      "start": 719,
+      "end": 722
+    },
+    {
+      "text": "971",
+      "type": "NUMBER",
+      "start": 128944,
+      "end": 128947
+    },
+    {
+      "text": "29",
+      "type": "NUMBER",
+      "start": 1221,
+      "end": 1223
+    },
+    {
+      "text": "010",
+      "type": "NUMBER",
+      "start": 720,
+      "end": 723
+    },
+    {
+      "text": "7",
+      "type": "NUMBER",
+      "start": 418,
+      "end": 419
+    },
+    {
+      "text": "072",
+      "type": "NUMBER",
+      "start": 153811,
+      "end": 153814
+    },
+    {
+      "text": "0.94",
+      "type": "NUMBER",
+      "start": 129773,
+      "end": 129777
+    },
+    {
+      "text": "60455",
+      "type": "NUMBER",
+      "start": 398575,
+      "end": 398580
+    },
+    {
+      "text": "080",
+      "type": "NUMBER",
+      "start": 153575,
+      "end": 153578
+    },
+    {
+      "text": "055",
+      "type": "NUMBER",
+      "start": 164805,
+      "end": 164808
+    },
+    {
+      "text": "334",
+      "type": "NUMBER",
+      "start": 125140,
+      "end": 125143
+    },
+    {
+      "text": "2.450%",
+      "type": "NUMBER",
+      "start": 196694,
+      "end": 196700
+    },
+    {
+      "text": "431",
+      "type": "NUMBER",
+      "start": 131368,
+      "end": 131371
+    },
+    {
+      "text": "2050",
+      "type": "NUMBER",
+      "start": 199115,
+      "end": 199119
+    },
+    {
+      "text": "293",
+      "type": "NUMBER",
+      "start": 141826,
+      "end": 141829
+    },
+    {
+      "text": "265",
+      "type": "NUMBER",
+      "start": 153593,
+      "end": 153596
+    },
+    {
+      "text": "2029",
+      "type": "NUMBER",
+      "start": 1219,
+      "end": 1223
+    },
+    {
+      "text": "391",
+      "type": "NUMBER",
+      "start": 107117,
+      "end": 107120
+    },
+    {
+      "text": "943",
+      "type": "NUMBER",
+      "start": 127004,
+      "end": 127007
+    },
+    {
+      "text": "600",
+      "type": "NUMBER",
+      "start": 1360,
+      "end": 1363
+    },
+    {
+      "text": "10",
+      "type": "NUMBER",
+      "start": 77,
+      "end": 79
+    },
+    {
+      "text": "488",
+      "type": "NUMBER",
+      "start": 131788,
+      "end": 131791
+    },
+    {
+      "text": "176",
+      "type": "NUMBER",
+      "start": 127737,
+      "end": 127740
+    },
+    {
+      "text": "46.2%",
+      "type": "NUMBER",
+      "start": 110003,
+      "end": 110008
+    },
+    {
+      "text": "119",
+      "type": "NUMBER",
+      "start": 124762,
+      "end": 124765
+    },
+    {
+      "text": "4",
+      "type": "NUMBER",
+      "start": 69,
+      "end": 70
+    },
+    {
+      "text": "410",
+      "type": "NUMBER",
+      "start": 127086,
+      "end": 127089
+    },
+    {
+      "text": "4.5",
+      "type": "NUMBER",
+      "start": 194724,
+      "end": 194727
+    },
+    {
+      "text": "437",
+      "type": "NUMBER",
+      "start": 125093,
+      "end": 125096
+    },
+    {
+      "text": "10.9",
+      "type": "NUMBER",
+      "start": 113381,
+      "end": 113385
+    },
+    {
+      "text": "152",
+      "type": "NUMBER",
+      "start": 127232,
+      "end": 127235
+    },
+    {
+      "text": "544",
+      "type": "NUMBER",
+      "start": 127305,
+      "end": 127308
+    },
+    {
+      "text": "601",
+      "type": "NUMBER",
+      "start": 150697,
+      "end": 150700
+    },
+    {
+      "text": "560",
+      "type": "NUMBER",
+      "start": 106880,
+      "end": 106883
+    },
+    {
+      "text": "828",
+      "type": "NUMBER",
+      "start": 131056,
+      "end": 131059
+    },
+    {
+      "text": "369",
+      "type": "NUMBER",
+      "start": 155397,
+      "end": 155400
+    },
+    {
+      "text": "915",
+      "type": "NUMBER",
+      "start": 110970,
+      "end": 110973
+    },
+    {
+      "text": "76",
+      "type": "NUMBER",
+      "start": 125885,
+      "end": 125887
+    },
+    {
+      "text": "413",
+      "type": "NUMBER",
+      "start": 155167,
+      "end": 155170
+    },
+    {
+      "text": "3.0%",
+      "type": "NUMBER",
+      "start": 160361,
+      "end": 160365
+    },
+    {
+      "text": "$12.0",
+      "type": "NUMBER",
+      "start": 114924,
+      "end": 114929
+    },
+    {
+      "text": "590",
+      "type": "NUMBER",
+      "start": 127052,
+      "end": 127055
+    },
+    {
+      "text": "116",
+      "type": "NUMBER",
+      "start": 128093,
+      "end": 128096
+    },
+    {
+      "text": "819",
+      "type": "NUMBER",
+      "start": 125512,
+      "end": 125515
+    },
+    {
+      "text": "929",
+      "type": "NUMBER",
+      "start": 130121,
+      "end": 130124
+    },
+    {
+      "text": "456",
+      "type": "NUMBER",
+      "start": 166940,
+      "end": 166943
+    },
+    {
+      "text": "18",
+      "type": "NUMBER",
+      "start": 4873,
+      "end": 4875
+    },
+    {
+      "text": "097",
+      "type": "NUMBER",
+      "start": 111074,
+      "end": 111077
+    },
+    {
+      "text": "10.7",
+      "type": "NUMBER",
+      "start": 201469,
+      "end": 201473
+    },
+    {
+      "text": "$823",
+      "type": "NUMBER",
+      "start": 153339,
+      "end": 153343
+    },
+    {
+      "text": "2.50%",
+      "type": "NUMBER",
+      "start": 195116,
+      "end": 195121
+    },
+    {
+      "text": "615",
+      "type": "NUMBER",
+      "start": 107081,
+      "end": 107084
+    },
+    {
+      "text": "10.13",
+      "type": "NUMBER",
+      "start": 202279,
+      "end": 202284
+    },
+    {
+      "text": "346",
+      "type": "NUMBER",
+      "start": 128838,
+      "end": 128841
+    },
+    {
+      "text": "397",
+      "type": "NUMBER",
+      "start": 154532,
+      "end": 154535
+    },
+    {
+      "text": "490",
+      "type": "NUMBER",
+      "start": 155576,
+      "end": 155579
+    },
+    {
+      "text": "7%",
+      "type": "NUMBER",
+      "start": 109968,
+      "end": 109970
+    },
+    {
+      "text": "4.500%",
+      "type": "NUMBER",
+      "start": 196315,
+      "end": 196321
+    },
+    {
+      "text": "2050.8",
+      "type": "NUMBER",
+      "start": 199115,
+      "end": 199121
+    },
+    {
+      "text": "10.19",
+      "type": "NUMBER",
+      "start": 202933,
+      "end": 202938
+    },
+    {
+      "text": "24.1",
+      "type": "NUMBER",
+      "start": 102460,
+      "end": 102464
+    },
+    {
+      "text": "5608",
+      "type": "NUMBER",
+      "start": 407940,
+      "end": 407944
+    },
+    {
+      "text": "10.8",
+      "type": "NUMBER",
+      "start": 156138,
+      "end": 156142
+    },
+    {
+      "text": "270",
+      "type": "NUMBER",
+      "start": 142252,
+      "end": 142255
+    },
+    {
+      "text": "0.0005",
+      "type": "NUMBER",
+      "start": 238419,
+      "end": 238425
+    },
+    {
+      "text": "190",
+      "type": "NUMBER",
+      "start": 142337,
+      "end": 142340
+    },
+    {
+      "text": "4.8",
+      "type": "NUMBER",
+      "start": 153279,
+      "end": 153282
+    },
+    {
+      "text": "405",
+      "type": "NUMBER",
+      "start": 1569,
+      "end": 1572
+    },
+    {
+      "text": "680",
+      "type": "NUMBER",
+      "start": 127349,
+      "end": 127352
+    },
+    {
+      "text": "163",
+      "type": "NUMBER",
+      "start": 129521,
+      "end": 129524
+    },
+    {
+      "text": "54",
+      "type": "NUMBER",
+      "start": 68,
+      "end": 70
+    },
+    {
+      "text": "311",
+      "type": "NUMBER",
+      "start": 154467,
+      "end": 154470
+    },
+    {
+      "text": "173.78",
+      "type": "NUMBER",
+      "start": 166946,
+      "end": 166952
+    },
+    {
+      "text": "$200",
+      "type": "NUMBER",
+      "start": 104200,
+      "end": 104204
+    },
+    {
+      "text": "4.421%",
+      "type": "NUMBER",
+      "start": 200534,
+      "end": 200540
+    },
+    {
+      "text": "095",
+      "type": "NUMBER",
+      "start": 125488,
+      "end": 125491
+    },
+    {
+      "text": "30",
+      "type": "NUMBER",
+      "start": 100598,
+      "end": 100600
+    },
+    {
+      "text": "24.1%",
+      "type": "NUMBER",
+      "start": 111845,
+      "end": 111850
+    },
+    {
+      "text": "1.125%",
+      "type": "NUMBER",
+      "start": 199048,
+      "end": 199054
+    },
+    {
+      "text": "408",
+      "type": "NUMBER",
+      "start": 710,
+      "end": 713
+    },
+    {
+      "text": "797",
+      "type": "NUMBER",
+      "start": 174268,
+      "end": 174271
+    },
+    {
+      "text": "71.7%",
+      "type": "NUMBER",
+      "start": 109965,
+      "end": 109970
+    },
+    {
+      "text": "2051",
+      "type": "NUMBER",
+      "start": 199609,
+      "end": 199613
+    },
+    {
+      "text": "676",
+      "type": "NUMBER",
+      "start": 159354,
+      "end": 159357
+    },
+    {
+      "text": "$52.9",
+      "type": "NUMBER",
+      "start": 114483,
+      "end": 114488
+    },
+    {
+      "text": "662",
+      "type": "NUMBER",
+      "start": 162825,
+      "end": 162828
+    },
+    {
+      "text": "120",
+      "type": "NUMBER",
+      "start": 5241,
+      "end": 5244
+    },
+    {
+      "text": "012",
+      "type": "NUMBER",
+      "start": 154320,
+      "end": 154323
+    },
+    {
+      "text": "996",
+      "type": "NUMBER",
+      "start": 715,
+      "end": 718
+    },
+    {
+      "text": "146",
+      "type": "NUMBER",
+      "start": 104459,
+      "end": 104462
+    },
+    {
+      "text": "886",
+      "type": "NUMBER",
+      "start": 142289,
+      "end": 142292
+    },
+    {
+      "text": "562",
+      "type": "NUMBER",
+      "start": 129119,
+      "end": 129122
+    },
+    {
+      "text": "499",
+      "type": "NUMBER",
+      "start": 130658,
+      "end": 130661
+    },
+    {
+      "text": "740",
+      "type": "NUMBER",
+      "start": 116547,
+      "end": 116550
+    },
+    {
+      "text": "359",
+      "type": "NUMBER",
+      "start": 142769,
+      "end": 142772
+    },
+    {
+      "text": "2021.",
+      "type": "NUMBER",
+      "start": 201054,
+      "end": 201059
+    },
+    {
+      "text": "36743",
+      "type": "NUMBER",
+      "start": 416,
+      "end": 421
+    },
+    {
+      "text": "285",
+      "type": "NUMBER",
+      "start": 107136,
+      "end": 107139
+    },
+    {
+      "text": "44%",
+      "type": "NUMBER",
+      "start": 149356,
+      "end": 149359
+    },
+    {
+      "text": "611",
+      "type": "NUMBER",
+      "start": 127572,
+      "end": 127575
+    },
+    {
+      "text": "16.",
+      "type": "NUMBER",
+      "start": 6642,
+      "end": 6645
+    },
+    {
+      "text": "889",
+      "type": "NUMBER",
+      "start": 130692,
+      "end": 130695
+    },
+    {
+      "text": "44",
+      "type": "NUMBER",
+      "start": 110010,
+      "end": 110012
+    },
+    {
+      "text": "$1.9",
+      "type": "NUMBER",
+      "start": 158389,
+      "end": 158393
+    },
+    {
+      "text": "5.28%",
+      "type": "NUMBER",
+      "start": 161505,
+      "end": 161510
+    },
+    {
+      "text": "138",
+      "type": "NUMBER",
+      "start": 126227,
+      "end": 126230
+    },
+    {
+      "text": "392",
+      "type": "NUMBER",
+      "start": 127741,
+      "end": 127744
+    },
+    {
+      "text": "3.950%",
+      "type": "NUMBER",
+      "start": 200211,
+      "end": 200217
+    },
+    {
+      "text": "10.14",
+      "type": "NUMBER",
+      "start": 202339,
+      "end": 202344
+    },
+    {
+      "text": "1.800%",
+      "type": "NUMBER",
+      "start": 197315,
+      "end": 197321
+    },
+    {
+      "text": "$538",
+      "type": "NUMBER",
+      "start": 122883,
+      "end": 122887
+    },
+    {
+      "text": "1.900%",
+      "type": "NUMBER",
+      "start": 196999,
+      "end": 197005
+    },
+    {
+      "text": "960",
+      "type": "NUMBER",
+      "start": 127563,
+      "end": 127566
+    },
+    {
+      "text": "569",
+      "type": "NUMBER",
+      "start": 173174,
+      "end": 173177
+    },
+    {
+      "text": "1.700%",
+      "type": "NUMBER",
+      "start": 196221,
+      "end": 196227
+    },
+    {
+      "text": "777",
+      "type": "NUMBER",
+      "start": 148025,
+      "end": 148028
+    },
+    {
+      "text": "114",
+      "type": "NUMBER",
+      "start": 109792,
+      "end": 109795
+    },
+    {
+      "text": "125",
+      "type": "NUMBER",
+      "start": 143581,
+      "end": 143584
+    },
+    {
+      "text": "$53.0",
+      "type": "NUMBER",
+      "start": 114462,
+      "end": 114467
+    },
+    {
+      "text": "2.900%",
+      "type": "NUMBER",
+      "start": 197947,
+      "end": 197953
+    },
+    {
+      "text": "165",
+      "type": "NUMBER",
+      "start": 159532,
+      "end": 159535
+    },
+    {
+      "text": "543",
+      "type": "NUMBER",
+      "start": 130823,
+      "end": 130826
+    },
+    {
+      "text": "2018.10",
+      "type": "NUMBER",
+      "start": 201446,
+      "end": 201453
+    },
+    {
+      "text": "2.050%",
+      "type": "NUMBER",
+      "start": 198622,
+      "end": 198628
+    },
+    {
+      "text": "41",
+      "type": "NUMBER",
+      "start": 505,
+      "end": 507
+    },
+    {
+      "text": "4.24",
+      "type": "NUMBER",
+      "start": 199371,
+      "end": 199375
+    },
+    {
+      "text": "52",
+      "type": "NUMBER",
+      "start": 6135,
+      "end": 6137
+    },
+    {
+      "text": "95%",
+      "type": "NUMBER",
+      "start": 122827,
+      "end": 122830
+    },
+    {
+      "text": "222.86",
+      "type": "NUMBER",
+      "start": 102681,
+      "end": 102687
+    },
+    {
+      "text": "375",
+      "type": "NUMBER",
+      "start": 1204,
+      "end": 1207
+    },
+    {
+      "text": "481",
+      "type": "NUMBER",
+      "start": 142837,
+      "end": 142840
+    },
+    {
+      "text": "153",
+      "type": "NUMBER",
+      "start": 154550,
+      "end": 154553
+    },
+    {
+      "text": "4.4",
+      "type": "NUMBER",
+      "start": 194415,
+      "end": 194418
+    },
+    {
+      "text": "62",
+      "type": "NUMBER",
+      "start": 1100,
+      "end": 1102
+    },
+    {
+      "text": "446",
+      "type": "NUMBER",
+      "start": 131064,
+      "end": 131067
+    },
+    {
+      "text": "406",
+      "type": "NUMBER",
+      "start": 143016,
+      "end": 143019
+    },
+    {
+      "text": "690",
+      "type": "NUMBER",
+      "start": 149842,
+      "end": 149845
+    },
+    {
+      "text": "859",
+      "type": "NUMBER",
+      "start": 159573,
+      "end": 159576
+    },
+    {
+      "text": "1991",
+      "type": "NUMBER",
+      "start": 151185,
+      "end": 151189
+    },
+    {
+      "text": "218",
+      "type": "NUMBER",
+      "start": 129209,
+      "end": 129212
+    },
+    {
+      "text": "442",
+      "type": "NUMBER",
+      "start": 142900,
+      "end": 142903
+    },
+    {
+      "text": "140.80",
+      "type": "NUMBER",
+      "start": 167011,
+      "end": 167017
+    },
+    {
+      "text": "519",
+      "type": "NUMBER",
+      "start": 130305,
+      "end": 130308
+    },
+    {
+      "text": "505",
+      "type": "NUMBER",
+      "start": 148324,
+      "end": 148327
+    },
+    {
+      "text": "251",
+      "type": "NUMBER",
+      "start": 110985,
+      "end": 110988
+    },
+    {
+      "text": "$0.25",
+      "type": "NUMBER",
+      "start": 115915,
+      "end": 115920
+    },
+    {
+      "text": "445",
+      "type": "NUMBER",
+      "start": 130297,
+      "end": 130300
+    },
+    {
+      "text": "207",
+      "type": "NUMBER",
+      "start": 104327,
+      "end": 104330
+    },
+    {
+      "text": "638",
+      "type": "NUMBER",
+      "start": 127889,
+      "end": 127892
+    },
+    {
+      "text": "888",
+      "type": "NUMBER",
+      "start": 127841,
+      "end": 127844
+    },
+    {
+      "text": "932",
+      "type": "NUMBER",
+      "start": 111088,
+      "end": 111091
+    },
+    {
+      "text": "4.375%",
+      "type": "NUMBER",
+      "start": 195457,
+      "end": 195463
+    },
+    {
+      "text": "3.850%",
+      "type": "NUMBER",
+      "start": 196720,
+      "end": 196726
+    },
+    {
+      "text": "195509",
+      "type": "NUMBER",
+      "start": 398212,
+      "end": 398218
+    },
+    {
+      "text": "309",
+      "type": "NUMBER",
+      "start": 162058,
+      "end": 162061
+    },
+    {
+      "text": "15.",
+      "type": "NUMBER",
+      "start": 6588,
+      "end": 6591
+    },
+    {
+      "text": "839",
+      "type": "NUMBER",
+      "start": 149955,
+      "end": 149958
+    },
+    {
+      "text": "350",
+      "type": "NUMBER",
+      "start": 168276,
+      "end": 168279
+    },
+    {
+      "text": "186",
+      "type": "NUMBER",
+      "start": 129385,
+      "end": 129388
+    },
+    {
+      "text": "2.4",
+      "type": "NUMBER",
+      "start": 2293,
+      "end": 2296
+    },
+    {
+      "text": "102",
+      "type": "NUMBER",
+      "start": 132102,
+      "end": 132105
+    },
+    {
+      "text": "$20.9",
+      "type": "NUMBER",
+      "start": 102924,
+      "end": 102929
+    },
+    {
+      "text": "533",
+      "type": "NUMBER",
+      "start": 143159,
+      "end": 143162
+    },
+    {
+      "text": "3.B",
+      "type": "NUMBER",
+      "start": 399419,
+      "end": 399422
+    },
+    {
+      "text": "1.2",
+      "type": "NUMBER",
+      "start": 111499,
+      "end": 111502
+    },
+    {
+      "text": "366",
+      "type": "NUMBER",
+      "start": 154485,
+      "end": 154488
+    },
+    {
+      "text": "4.16",
+      "type": "NUMBER",
+      "start": 197613,
+      "end": 197617
+    },
+    {
+      "text": "216",
+      "type": "NUMBER",
+      "start": 104465,
+      "end": 104468
+    },
+    {
+      "text": "250",
+      "type": "NUMBER",
+      "start": 196247,
+      "end": 196250
+    },
+    {
+      "text": "4.15",
+      "type": "NUMBER",
+      "start": 197426,
+      "end": 197430
+    },
+    {
+      "text": "652",
+      "type": "NUMBER",
+      "start": 126675,
+      "end": 126678
+    },
+    {
+      "text": "264555",
+      "type": "NUMBER",
+      "start": 397961,
+      "end": 397967
+    },
+    {
+      "text": "$6.0",
+      "type": "NUMBER",
+      "start": 161307,
+      "end": 161311
+    },
+    {
+      "text": "266",
+      "type": "NUMBER",
+      "start": 130385,
+      "end": 130388
+    },
+    {
+      "text": "Employee Stock Plan\nThe Apple Inc",
+      "type": "ORG",
+      "start": 164937,
+      "end": 164970
+    },
+    {
+      "text": "Incorporation\nApple Asia Limited Hong Kong\nApple Asia LLC",
+      "type": "ORG",
+      "start": 396834,
+      "end": 396891
+    },
+    {
+      "text": "The Nasdaq Stock Market LLC",
+      "type": "ORG",
+      "start": 966,
+      "end": 993
+    },
+    {
+      "text": "Apple \nInc",
+      "type": "ORG",
+      "start": 291521,
+      "end": 291531
+    },
+    {
+      "text": "Technology Supersector Index\nApple Inc",
+      "type": "ORG",
+      "start": 104050,
+      "end": 104088
+    },
+    {
+      "text": "Apple Canada Inc",
+      "type": "ORG",
+      "start": 396907,
+      "end": 396923
+    },
+    {
+      "text": "Apple Inc",
+      "type": "ORG",
+      "start": 422,
+      "end": 431
+    },
+    {
+      "text": "Among Apple Inc",
+      "type": "ORG",
+      "start": 103991,
+      "end": 104006
+    },
+    {
+      "text": "Google \nLLC",
+      "type": "ORG",
+      "start": 79293,
+      "end": 79304
+    },
+    {
+      "text": "Period End \nDate\nApple Inc",
+      "type": "ORG",
+      "start": 195958,
+      "end": 195984
+    },
+    {
+      "text": "March 4, 2022",
+      "type": "DATE",
+      "start": 165756,
+      "end": 165769
+    },
+    {
+      "text": "July 31, 2015",
+      "type": "DATE",
+      "start": 195552,
+      "end": 195565
+    },
+    {
+      "text": "May 24, 2017",
+      "type": "DATE",
+      "start": 197484,
+      "end": 197496
+    },
+    {
+      "text": "August 4, 2024",
+      "type": "DATE",
+      "start": 102475,
+      "end": 102489
+    },
+    {
+      "text": "August 4, 2016",
+      "type": "DATE",
+      "start": 196551,
+      "end": 196565
+    },
+    {
+      "text": "September 26, 2017",
+      "type": "DATE",
+      "start": 201287,
+      "end": 201305
+    },
+    {
+      "text": "August 15, 2025",
+      "type": "DATE",
+      "start": 234973,
+      "end": 234988
+    },
+    {
+      "text": "May 11, 2020",
+      "type": "DATE",
+      "start": 198961,
+      "end": 198973
+    },
+    {
+      "text": "September 12, 2017",
+      "type": "DATE",
+      "start": 197830,
+      "end": 197848
+    },
+    {
+      "text": "September 30, 2023",
+      "type": "DATE",
+      "start": 123390,
+      "end": 123408
+    },
+    {
+      "text": "June 20, 2017",
+      "type": "DATE",
+      "start": 197671,
+      "end": 197684
+    },
+    {
+      "text": "May \n23, 2023",
+      "type": "DATE",
+      "start": 152850,
+      "end": 152863
+    },
+    {
+      "text": "May 10, 2023",
+      "type": "DATE",
+      "start": 200470,
+      "end": 200482
+    },
+    {
+      "text": "August 8, 2022",
+      "type": "DATE",
+      "start": 200098,
+      "end": 200112
+    },
+    {
+      "text": "May 24, 2029",
+      "type": "DATE",
+      "start": 217846,
+      "end": 217858
+    },
+    {
+      "text": "April 1, 2025",
+      "type": "DATE",
+      "start": 190114,
+      "end": 190127
+    },
+    {
+      "text": "November 5, 2018",
+      "type": "DATE",
+      "start": 198325,
+      "end": 198341
+    },
+    {
+      "text": "May 24, 2025",
+      "type": "DATE",
+      "start": 216580,
+      "end": 216592
+    },
+    {
+      "text": "May 11, 2017",
+      "type": "DATE",
+      "start": 197190,
+      "end": 197202
+    },
+    {
+      "text": "August 31, 2024",
+      "type": "DATE",
+      "start": 102493,
+      "end": 102508
+    },
+    {
+      "text": "September  30, 2023",
+      "type": "DATE",
+      "start": 144324,
+      "end": 144343
+    },
+    {
+      "text": "June 30, 2024",
+      "type": "DATE",
+      "start": 102369,
+      "end": 102382
+    },
+    {
+      "text": "August 27, 2024",
+      "type": "DATE",
+      "start": 189135,
+      "end": 189150
+    },
+    {
+      "text": "May 6, 2014",
+      "type": "DATE",
+      "start": 194472,
+      "end": 194483
+    },
+    {
+      "text": "February 9, 2015",
+      "type": "DATE",
+      "start": 194973,
+      "end": 194989
+    },
+    {
+      "text": "March \n24, 2016",
+      "type": "DATE",
+      "start": 196461,
+      "end": 196476
+    },
+    {
+      "text": "September 25, 2020",
+      "type": "DATE",
+      "start": 152705,
+      "end": 152723
+    },
+    {
+      "text": "June 24, 2024",
+      "type": "DATE",
+      "start": 97708,
+      "end": 97721
+    },
+    {
+      "text": "September 24, 2022",
+      "type": "DATE",
+      "start": 139652,
+      "end": 139670
+    },
+    {
+      "text": "November 15, 2031",
+      "type": "DATE",
+      "start": 218708,
+      "end": 218725
+    },
+    {
+      "text": "February 24, 2025",
+      "type": "DATE",
+      "start": 235102,
+      "end": 235119
+    },
+    {
+      "text": "November 13, 2017",
+      "type": "DATE",
+      "start": 198069,
+      "end": 198086
+    },
+    {
+      "text": "August 21, 2018",
+      "type": "DATE",
+      "start": 201569,
+      "end": 201584
+    },
+    {
+      "text": "September 11, 2019",
+      "type": "DATE",
+      "start": 198505,
+      "end": 198523
+    },
+    {
+      "text": "August 3, 2020",
+      "type": "DATE",
+      "start": 193800,
+      "end": 193814
+    },
+    {
+      "text": "September  28, 2024",
+      "type": "DATE",
+      "start": 20777,
+      "end": 20796
+    },
+    {
+      "text": "December 31, 2026",
+      "type": "DATE",
+      "start": 189675,
+      "end": 189692
+    },
+    {
+      "text": "November 1, 2024",
+      "type": "DATE",
+      "start": 206239,
+      "end": 206255
+    },
+    {
+      "text": "September 30, \n2023",
+      "type": "DATE",
+      "start": 139541,
+      "end": 139560
+    },
+    {
+      "text": "August 18, 2020",
+      "type": "DATE",
+      "start": 201842,
+      "end": 201857
+    },
+    {
+      "text": "September 28, \n2024",
+      "type": "DATE",
+      "start": 148490,
+      "end": 148509
+    },
+    {
+      "text": "September 28, 2024",
+      "type": "DATE",
+      "start": 102604,
+      "end": 102622
+    },
+    {
+      "text": "July 31, 2029",
+      "type": "DATE",
+      "start": 218274,
+      "end": 218287
+    },
+    {
+      "text": "February 23, 2016",
+      "type": "DATE",
+      "start": 196068,
+      "end": 196085
+    },
+    {
+      "text": "September 29, 2019",
+      "type": "DATE",
+      "start": 201704,
+      "end": 201722
+    },
+    {
+      "text": "September 10, 2024",
+      "type": "DATE",
+      "start": 152868,
+      "end": 152886
+    },
+    {
+      "text": "September 25, 2021",
+      "type": "DATE",
+      "start": 139767,
+      "end": 139785
+    },
+    {
+      "text": "November  1, 2024",
+      "type": "DATE",
+      "start": 181341,
+      "end": 181358
+    },
+    {
+      "text": "August 15, 2031",
+      "type": "DATE",
+      "start": 235358,
+      "end": 235373
+    },
+    {
+      "text": "February \n24, 2029",
+      "type": "DATE",
+      "start": 235234,
+      "end": 235252
+    },
+    {
+      "text": "February 8, 2021",
+      "type": "DATE",
+      "start": 199430,
+      "end": 199446
+    },
+    {
+      "text": "March 29, 2024",
+      "type": "DATE",
+      "start": 4294,
+      "end": 4308
+    },
+    {
+      "text": "October 1, \n2017",
+      "type": "DATE",
+      "start": 201152,
+      "end": 201168
+    },
+    {
+      "text": "September 27, 2019",
+      "type": "DATE",
+      "start": 103830,
+      "end": 103848
+    },
+    {
+      "text": "September 27, 2020",
+      "type": "DATE",
+      "start": 202108,
+      "end": 202126
+    },
+    {
+      "text": "August 3, 2024",
+      "type": "DATE",
+      "start": 102386,
+      "end": 102400
+    },
+    {
+      "text": "September 30, 2023",
+      "type": "DATE",
+      "start": 105209,
+      "end": 105227
+    },
+    {
+      "text": "May 3, 2013",
+      "type": "DATE",
+      "start": 194185,
+      "end": 194196
+    },
+    {
+      "text": "November 10, 2014",
+      "type": "DATE",
+      "start": 194781,
+      "end": 194798
+    },
+    {
+      "text": "February 13, 2018",
+      "type": "DATE",
+      "start": 201433,
+      "end": 201450
+    },
+    {
+      "text": "July 31, 2042",
+      "type": "DATE",
+      "start": 219120,
+      "end": 219133
+    },
+    {
+      "text": "August 29, 2024",
+      "type": "DATE",
+      "start": 189769,
+      "end": 189784
+    },
+    {
+      "text": "November 10, 2026",
+      "type": "DATE",
+      "start": 216990,
+      "end": 217007
+    },
+    {
+      "text": "September 29, 2024",
+      "type": "DATE",
+      "start": 203038,
+      "end": 203056
+    },
+    {
+      "text": "September 1, 2024",
+      "type": "DATE",
+      "start": 102583,
+      "end": 102600
+    },
+    {
+      "text": "May 13, 2015",
+      "type": "DATE",
+      "start": 195235,
+      "end": 195247
+    },
+    {
+      "text": "January 31, 2016",
+      "type": "DATE",
+      "start": 218408,
+      "end": 218424
+    },
+    {
+      "text": "September 17, 2027",
+      "type": "DATE",
+      "start": 217409,
+      "end": 217427
+    },
+    {
+      "text": "September 30, \n2023",
+      "type": "DATE",
+      "start": 123524,
+      "end": 123543
+    },
+    {
+      "text": "September 25, 2021",
+      "type": "DATE",
+      "start": 166590,
+      "end": 166608
+    },
+    {
+      "text": "March 10, 2015",
+      "type": "DATE",
+      "start": 200808,
+      "end": 200822
+    },
+    {
+      "text": "September 17, 2016",
+      "type": "DATE",
+      "start": 217533,
+      "end": 217551
+    },
+    {
+      "text": "November 15, 2020",
+      "type": "DATE",
+      "start": 216261,
+      "end": 216278
+    },
+    {
+      "text": "September 28, 2024",
+      "type": "DATE",
+      "start": 209,
+      "end": 227
+    },
+    {
+      "text": "August 20, 2024",
+      "type": "DATE",
+      "start": 193897,
+      "end": 193912
+    },
+    {
+      "text": "October 2, 2023",
+      "type": "DATE",
+      "start": 408304,
+      "end": 408319
+    },
+    {
+      "text": "October 18, 2024",
+      "type": "DATE",
+      "start": 4865,
+      "end": 4881
+    },
+    {
+      "text": "November 1, 2024",
+      "type": "DATE",
+      "start": 175763,
+      "end": 175779
+    },
+    {
+      "text": "February 9, 2017",
+      "type": "DATE",
+      "start": 196816,
+      "end": 196832
+    },
+    {
+      "text": "November 9, 2021",
+      "type": "DATE",
+      "start": 201042,
+      "end": 201058
+    },
+    {
+      "text": "April 29, 2013",
+      "type": "DATE",
+      "start": 194008,
+      "end": 194022
+    },
+    {
+      "text": "October 1, 2025",
+      "type": "DATE",
+      "start": 190132,
+      "end": 190147
+    },
+    {
+      "text": "September 25, 2022",
+      "type": "DATE",
+      "start": 202762,
+      "end": 202780
+    },
+    {
+      "text": "September 30, 2024",
+      "type": "DATE",
+      "start": 100588,
+      "end": 100606
+    },
+    {
+      "text": "September 24, 2022",
+      "type": "DATE",
+      "start": 123414,
+      "end": 123432
+    },
+    {
+      "text": "August 5, 2021",
+      "type": "DATE",
+      "start": 199713,
+      "end": 199727
+    },
+    {
+      "text": "August 20, 2020",
+      "type": "DATE",
+      "start": 199194,
+      "end": 199209
+    },
+    {
+      "text": "March 25, 2024",
+      "type": "DATE",
+      "start": 97171,
+      "end": 97185
+    },
+    {
+      "text": "July 15, 2020",
+      "type": "DATE",
+      "start": 152636,
+      "end": 152649
+    },
+    {
+      "text": "January 16, \n2024",
+      "type": "DATE",
+      "start": 100255,
+      "end": 100272
+    },
+    {
+      "text": "November 10, 2015",
+      "type": "DATE",
+      "start": 217112,
+      "end": 217129
+    },
+    {
+      "text": "October 28, 2021",
+      "type": "DATE",
+      "start": 199917,
+      "end": 199933
+    },
+    {
+      "text": "November 15, 2025",
+      "type": "DATE",
+      "start": 216139,
+      "end": 216156
+    },
+    {
+      "text": "May 24, 2018",
+      "type": "DATE",
+      "start": 216692,
+      "end": 216704
+    },
+    {
+      "text": "March 21, 2024",
+      "type": "DATE",
+      "start": 98718,
+      "end": 98732
+    },
+    {
+      "text": "December 15, 2025",
+      "type": "DATE",
+      "start": 190353,
+      "end": 190370
+    },
+    {
+      "text": "November 15, 2019",
+      "type": "DATE",
+      "start": 198768,
+      "end": 198785
+    },
+    {
+      "text": "September 17, 2015",
+      "type": "DATE",
+      "start": 195737,
+      "end": 195755
+    },
+    {
+      "text": "May 2, 2024",
+      "type": "DATE",
+      "start": 102902,
+      "end": 102913
+    }
+  ],
+  "relationships": [
+    {
+      "source": "also lead to",
+      "source_type": "ENTITY",
+      "target": "credit and collectibility",
+      "target_type": "ENTITY",
+      "relation": "increased",
+      "context": "Adverse economic conditions can also lead to increased credit and collectibility risk on the Company’s trade receivables; the \nfailure of derivative counterparties and other financial institutions; limitations on the Company’s ability to issue new debt; reduced \nliquidity; and declines in the fair values of the Company’s financial instruments"
+    },
+    {
+      "source": "restrictions can be",
+      "source_type": "ENTITY",
+      "target": "with little or",
+      "target_type": "ENTITY",
+      "relation": "announced",
+      "context": "Such restrictions can be announced with little or no advance notice, which can create uncertainty, and the Company \nmay not be able to effectively mitigate all adverse impacts from such measures"
+    },
+    {
+      "source": "investigations, has generally",
+      "source_type": "ENTITY",
+      "target": "over time and",
+      "target_type": "ENTITY",
+      "relation": "increased",
+      "context": "The number of claims, legal proceedings and government \ninvestigations involving the Company, and the alleged magnitude of such claims, proceedings and government investigations, \nhas generally increased over time and may continue to increase"
+    },
+    {
+      "source": "to potential liabilities,",
+      "source_type": "ENTITY",
+      "target": "costs and other",
+      "target_type": "ENTITY",
+      "relation": "increased",
+      "context": "The Company is subject to complex and changing laws and regulations worldwide, which exposes the Company to \npotential liabilities, increased costs and other adverse effects on the Company’s business"
+    },
+    {
+      "source": "business may be",
+      "source_type": "ENTITY",
+      "target": "with little or",
+      "target_type": "ENTITY",
+      "relation": "announced",
+      "context": "| 2024  Form 10-K | 13\n\nRegulatory changes and other actions that materially adversely affect the Company’s business may be announced with little or \nno advance notice and the Company may not be able to effectively mitigate all adverse impacts from such measures"
+    },
+    {
+      "source": "to potential liabilities,",
+      "source_type": "ENTITY",
+      "target": "costs, reputational harm,",
+      "target_type": "ENTITY",
+      "relation": "increased",
+      "context": "Expectations relating to environmental, social and governance considerations and related reporting obligations expose \nthe Company to potential liabilities, increased costs, reputational harm, and other adverse effects on the Company’s \nbusiness"
+    },
+    {
+      "source": "of the company’s",
+      "source_type": "ENTITY",
+      "target": "goals and initiatives",
+      "target_type": "ENTITY",
+      "relation": "announced",
+      "context": "Responding to these environmental, social and governance considerations and implementation of the \nCompany’s announced goals and initiatives involves risks and uncertainties, requires investments, and depends in part on third-\nparty performance or data that is outside the Company’s control"
+    },
+    {
+      "source": "will achieve its",
+      "source_type": "ENTITY",
+      "target": "environmental, social and",
+      "target_type": "ENTITY",
+      "relation": "announced",
+      "context": "The Company cannot guarantee that it will achieve its \nannounced environmental, social and governance goals and initiatives"
+    },
+    {
+      "source": "to such pressures;",
+      "source_type": "ENTITY",
+      "target": "competition; the company’s",
+      "target_type": "ENTITY",
+      "relation": "increased",
+      "context": "The Company’s gross \nmargins are subject to volatility and downward pressure due to a variety of factors, including: continued industry-wide global \nproduct pricing pressures and product pricing actions that the Company may take in response to such pressures; increased \ncompetition; the Company’s ability to effectively stimulate demand for certain of its products and services; compressed product \nlife cycles; supply shortages; potential increases in the cost of components, outside manufacturing services, and developing, \nacquiring and delivering content for the Company’s services; the Company’s ability to manage product quality and warranty costs \neffectively; shifts in the mix of products and services, or in the geographic, currency or channel mix, including to the extent that \nregulatory changes require the Company to modify its product and service offerings; fluctuations in foreign exchange rates; \ninflation and other macroeconomic pressures; and the introduction of new products or services, including new products or \nservices with lower profit margins"
+    },
+    {
+      "source": "2024, the commission",
+      "source_type": "ENTITY",
+      "target": "that it had",
+      "target_type": "ENTITY",
+      "relation": "announced",
+      "context": "Legal Pr oceedings\nDigital Markets Act Investigations\nOn March 25, 2024, the Commission announced that it had opened two formal noncompliance investigations against the \nCompany under the DMA"
+    },
+    {
+      "source": "part of publicly",
+      "source_type": "ENTITY",
+      "target": "plans or programsapproximate",
+      "target_type": "ENTITY",
+      "relation": "announced",
+      "context": "Purchases  of Equity Securities by the Issuer and Affiliated Purchasers\nShare repurchase activity during the three months ended September  28, 2024  was as follows (in millions, except number of \nshares, which are reflected in thousands, and per-share amounts):\nPeriodsTotal Number\nof Shares \nPurchasedAverage \nPrice\nPaid Per \nShareTotal Number \nof Shares\nPurchased as \nPart of Publicly\nAnnounced \nPlans or \nProgramsApproximate \nDollar Value of\nShares That May \nYet Be Purchased\nUnder the Plans \nor Programs (1)\nJune 30, 2024 to August 3, 2024:\nOpen market and privately negotiated purchases  35,697 $ 224"
+    },
+    {
+      "source": "share repurchase program",
+      "source_type": "ENTITY",
+      "target": "on may 2,",
+      "target_type": "ENTITY",
+      "relation": "announced",
+      "context": "86  33,653 \nTotal  112,260 $ 89,074 \n(1) As of September 28, 2024 , the Company was authorized by the Board to purchase up to $110 billion  of the Company’s \ncommon stock under a share repurchase program announced on May 2, 2024, of which $20"
+    },
+    {
+      "source": "americas net sales",
+      "source_type": "ENTITY",
+      "target": "during 2024 compared",
+      "target_type": "ENTITY",
+      "relation": "increased",
+      "context": "| 2024  Form 10-K | 21\n\nSegment  Operating Performance\nThe following table shows net sales by reportable segment for 2024 , 2023  and 2022  (dollars in millions):\n2024 Change 2023 Change 2022\nAmericas $ 167,045  3 % $ 162,560  (4) % $ 169,658 \nEurope  101,328  7 %  94,294  (1) %  95,118 \nGreater China  66,952  (8) %  72,559  (2) %  74,200 \nJapan  25,052  3 %  24,257  (7) %  25,977 \nRest of Asia Pacific  30,658  4 %  29,615  1 %  29,375 \nTotal net sales $ 391,035  2 % $ 383,285  (3) % $ 394,328 \nAmericas\nAmericas net sales increased  during 2024  compared to 2023  due primarily to higher net sales of Services"
+    },
+    {
+      "source": "europe net sales",
+      "source_type": "ENTITY",
+      "target": "during 2024 compared",
+      "target_type": "ENTITY",
+      "relation": "increased",
+      "context": "Europe\nEurope net sales increased  during 2024  compared to 2023  due primarily to higher net sales of Services and iPhone"
+    },
+    {
+      "source": "china net sales",
+      "source_type": "ENTITY",
+      "target": "during 2024 compared",
+      "target_type": "ENTITY",
+      "relation": "decreased",
+      "context": "Greater China\nGreater China net sales decreased  during 2024  compared to 2023  due primarily to lower net sales of iPhone and iPad"
+    },
+    {
+      "source": "japan net sales",
+      "source_type": "ENTITY",
+      "target": "during 2024 compared",
+      "target_type": "ENTITY",
+      "relation": "increased",
+      "context": "Japan\nJapan net sales increased  during 2024  compared to 2023  due primarily to higher net sales of iPhone"
+    },
+    {
+      "source": "pacific net sales",
+      "source_type": "ENTITY",
+      "target": "during 2024 compared",
+      "target_type": "ENTITY",
+      "relation": "increased",
+      "context": "Rest of Asia Pacific\nRest of Asia Pacific net sales increased  during 2024  compared to 2023  due primarily to higher net sales of Services"
+    },
+    {
+      "source": "mac net sales",
+      "source_type": "ENTITY",
+      "target": "during 2024 compared",
+      "target_type": "ENTITY",
+      "relation": "increased",
+      "context": "Mac\nMac net sales increased  during 2024  compared to 2023  due primarily to higher net sales of laptops"
+    },
+    {
+      "source": "ipad net sales",
+      "source_type": "ENTITY",
+      "target": "during 2024 compared",
+      "target_type": "ENTITY",
+      "relation": "decreased",
+      "context": "iPad\niPad net sales decreased  during 2024  compared to 2023  due primarily to lower net sales of iPad Pro and the entry-level iPad \nmodels, partially offset by higher net sales of iPad Air"
+    },
+    {
+      "source": "accessories net sales",
+      "source_type": "ENTITY",
+      "target": "during 2024 compared",
+      "target_type": "ENTITY",
+      "relation": "decreased",
+      "context": "Wearables, Home and Accessories\nWearables, Home and Accessories net sales decreased  during 2024  compared to 2023  due primarily to lower net sales of \nWearables and Accessories"
+    },
+    {
+      "source": "services net sales",
+      "source_type": "ENTITY",
+      "target": "during 2024 compared",
+      "target_type": "ENTITY",
+      "relation": "increased",
+      "context": "Services\nServices net sales increased  during 2024  compared to 2023  due primarily to higher net sales from advertising, the App Store® \nand cloud services"
+    },
+    {
+      "source": "gross margin percentage",
+      "source_type": "ENTITY",
+      "target": "during 2024 compared",
+      "target_type": "ENTITY",
+      "relation": "increased",
+      "context": "3% \nProducts Gross Margin\nProducts gross margin and Products gross margin percentage increased during 2024  compared to 2023  due to cost savings, \npartially offset by a different Products mix and the weakness in foreign currencies relative to the U"
+    },
+    {
+      "source": "services gross margin",
+      "source_type": "ENTITY",
+      "target": "during 2024 compared",
+      "target_type": "ENTITY",
+      "relation": "increased",
+      "context": "Services Gross Margin\nServices gross margin increased during 2024  compared to 2023  due primarily to higher Services net sales"
+    },
+    {
+      "source": "gross margin percentage",
+      "source_type": "ENTITY",
+      "target": "during 2024 compared",
+      "target_type": "ENTITY",
+      "relation": "increased",
+      "context": "Services gross margin percentage increased during 2024  compared to 2023  due to a different Services mix"
+    },
+    {
+      "source": "and administrative expense",
+      "source_type": "ENTITY",
+      "target": "$1",
+      "target_type": "ENTITY",
+      "relation": "increased",
+      "context": "Selling, General and Administrative\nSelling, general and administrative expense increased $1"
+    },
+    {
+      "source": ", the company",
+      "source_type": "ENTITY",
+      "target": "a new share",
+      "target_type": "ENTITY",
+      "relation": "announced",
+      "context": "In May 2024 , the Company announced a new share repurchase program of up to $110 billion  and raised its quarterly dividend \nfrom $0"
+    },
+    {
+      "source": "2024, the ecj",
+      "source_type": "ENTITY",
+      "target": "that it had",
+      "target_type": "ENTITY",
+      "relation": "announced",
+      "context": "On September 10, 2024, the ECJ announced that it had set aside the 2020 judgment of the General Court and \nconfirmed the Commission’s 2016 State Aid Decision"
+    },
+    {
+      "source": "amendment is 6",
+      "source_type": "ENTITY",
+      "target": "or becomes effective",
+      "target_type": "ENTITY",
+      "relation": "announced",
+      "context": "000% 2025 Notes and the 2031 \nNotes, introduction of, the laws (or any regulations or rulings promulgated under the laws) of the United States (or any \npolitical subdivision or taxing authority of or in the United States), or any change in, or amendments to, an official \nposition regarding the application or interpretation of such laws, regulations or rulings, which change or amendment is \n6\n\nannounced or becomes effective on or after the date of the applicable prospectus supplement, we become, or based \nupon a written opinion of independent counsel selected by us, will become obligated to pay additional amounts as \ndescribed above under the heading “Payments of Additional Amounts” with respect to a series of the Notes, then we \nmay at our option redeem, in whole, but not in part , in the case of the 2026 Notes, the 2027 Notes, the 3"
+    },
+    {
+      "source": "investigated, and p",
+      "source_type": "ENTITY",
+      "target": "cuted",
+      "target_type": "ENTITY",
+      "relation": "rose",
+      "context": "The reason for the transaction, size of the transaction, or the amount \nof profit received does not have to be significant — even small insider trading violations may be \nmonitored, aggressively investigated, and prosecuted"
+    },
+    {
+      "source": "not been publicly",
+      "source_type": "ENTITY",
+      "target": "and that could",
+      "target_type": "ENTITY",
+      "relation": "announced",
+      "context": "Never buy or sell Apple securities \nwhen aware of information that has not been publicly announced and that could have a material effect \non the value of the securities"
+    }
+  ],
+  "stats": {
+    "num_entities": 1121,
+    "num_relationships": 30
+  }
+}

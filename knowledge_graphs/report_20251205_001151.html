@@ -1,0 +1,117 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Knowledge Graph - report_20251205_001151</title>
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        #mynetwork {
+            width: 100%;
+            height: 800px;
+            border: 1px solid #ddd;
+        }
+        #info {
+            margin-bottom: 20px;
+            padding: 15px;
+            background: #f5f5f5;
+            border-radius: 5px;
+        }
+        .stats {
+            display: flex;
+            gap: 20px;
+        }
+        .stat-item {
+            padding: 10px;
+            background: white;
+            border-radius: 3px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>📊 Knowledge Graph: report_20251205_001151</h1>
+    
+    <div id="info">
+        <div class="stats">
+            <div class="stat-item">
+                <strong>Entities:</strong> 96
+            </div>
+            <div class="stat-item">
+                <strong>Relationships:</strong> 3
+            </div>
+            <div class="stat-item">
+                <strong>Generated:</strong> 2025-12-05 00:11:51
+            </div>
+        </div>
+    </div>
+    
+    <div id="mynetwork"></div>
+    
+    <script type="text/javascript">
+        // 数据
+        var nodes = new vis.DataSet([{"id": "$4.1", "label": "$4.1", "title": "NUMBER", "group": "NUMBER"}, {"id": "2024", "label": "2024", "title": "NUMBER", "group": "NUMBER"}, {"id": "3", "label": "3", "title": "NUMBER", "group": "NUMBER"}, {"id": "1", "label": "1", "title": "NUMBER", "group": "NUMBER"}, {"id": "42", "label": "42", "title": "NUMBER", "group": "NUMBER"}, {"id": "33", "label": "33", "title": "NUMBER", "group": "NUMBER"}, {"id": "22", "label": "22", "title": "NUMBER", "group": "NUMBER"}, {"id": "156", "label": "156", "title": "NUMBER", "group": "NUMBER"}, {"id": "19", "label": "19", "title": "NUMBER", "group": "NUMBER"}, {"id": "$100", "label": "$100", "title": "NUMBER", "group": "NUMBER"}, {"id": "131", "label": "131", "title": "NUMBER", "group": "NUMBER"}, {"id": "6.", "label": "6.", "title": "NUMBER", "group": "NUMBER"}, {"id": "430", "label": "430", "title": "NUMBER", "group": "NUMBER"}, {"id": "113", "label": "113", "title": "NUMBER", "group": "NUMBER"}, {"id": "27", "label": "27", "title": "NUMBER", "group": "NUMBER"}, {"id": "$400", "label": "$400", "title": "NUMBER", "group": "NUMBER"}, {"id": "4.", "label": "4.", "title": "NUMBER", "group": "NUMBER"}, {"id": "910", "label": "910", "title": "NUMBER", "group": "NUMBER"}, {"id": "2016.", "label": "2016.", "title": "NUMBER", "group": "NUMBER"}, {"id": "216", "label": "216", "title": "NUMBER", "group": "NUMBER"}, {"id": "2.", "label": "2.", "title": "NUMBER", "group": "NUMBER"}, {"id": "18", "label": "18", "title": "NUMBER", "group": "NUMBER"}, {"id": "697", "label": "697", "title": "NUMBER", "group": "NUMBER"}, {"id": "322", "label": "322", "title": "NUMBER", "group": "NUMBER"}, {"id": "1B", "label": "1B", "title": "NUMBER", "group": "NUMBER"}, {"id": "224.11", "label": "224.11", "title": "NUMBER", "group": "NUMBER"}, {"id": "89", "label": "89", "title": "NUMBER", "group": "NUMBER"}, {"id": "6", "label": "6", "title": "NUMBER", "group": "NUMBER"}, {"id": "2022", "label": "2022", "title": "NUMBER", "group": "NUMBER"}, {"id": "5.", "label": "5.", "title": "NUMBER", "group": "NUMBER"}, {"id": "301", "label": "301", "title": "NUMBER", "group": "NUMBER"}, {"id": "260", "label": "260", "title": "NUMBER", "group": "NUMBER"}, {"id": "2019", "label": "2019", "title": "NUMBER", "group": "NUMBER"}, {"id": "146", "label": "146", "title": "NUMBER", "group": "NUMBER"}, {"id": "215", "label": "215", "title": "NUMBER", "group": "NUMBER"}, {"id": "074", "label": "074", "title": "NUMBER", "group": "NUMBER"}, {"id": "$110", "label": "$110", "title": "NUMBER", "group": "NUMBER"}, {"id": "$20.9", "label": "$20.9", "title": "NUMBER", "group": "NUMBER"}, {"id": "31", "label": "31", "title": "NUMBER", "group": "NUMBER"}, {"id": "2023.", "label": "2023.", "title": "NUMBER", "group": "NUMBER"}, {"id": "281", "label": "281", "title": "NUMBER", "group": "NUMBER"}, {"id": "30", "label": "30", "title": "NUMBER", "group": "NUMBER"}, {"id": "10", "label": "10", "title": "NUMBER", "group": "NUMBER"}, {"id": "28", "label": "28", "title": "NUMBER", "group": "NUMBER"}, {"id": "653", "label": "653", "title": "NUMBER", "group": "NUMBER"}, {"id": "2", "label": "2", "title": "NUMBER", "group": "NUMBER"}, {"id": "16", "label": "16", "title": "NUMBER", "group": "NUMBER"}, {"id": "$300", "label": "$300", "title": "NUMBER", "group": "NUMBER"}, {"id": "210", "label": "210", "title": "NUMBER", "group": "NUMBER"}, {"id": "4", "label": "4", "title": "NUMBER", "group": "NUMBER"}, {"id": "35", "label": "35", "title": "NUMBER", "group": "NUMBER"}, {"id": "207", "label": "207", "title": "NUMBER", "group": "NUMBER"}, {"id": "155", "label": "155", "title": "NUMBER", "group": "NUMBER"}, {"id": "5", "label": "5", "title": "NUMBER", "group": "NUMBER"}, {"id": "222.86", "label": "222.86", "title": "NUMBER", "group": "NUMBER"}, {"id": "221.39", "label": "221.39", "title": "NUMBER", "group": "NUMBER"}, {"id": "23", "label": "23", "title": "NUMBER", "group": "NUMBER"}, {"id": "24", "label": "24", "title": "NUMBER", "group": "NUMBER"}, {"id": "$500", "label": "$500", "title": "NUMBER", "group": "NUMBER"}, {"id": "25", "label": "25", "title": "NUMBER", "group": "NUMBER"}, {"id": "2023", "label": "2023", "title": "NUMBER", "group": "NUMBER"}, {"id": "21", "label": "21", "title": "NUMBER", "group": "NUMBER"}, {"id": "2020", "label": "2020", "title": "NUMBER", "group": "NUMBER"}, {"id": "17", "label": "17", "title": "NUMBER", "group": "NUMBER"}, {"id": "$200", "label": "$200", "title": "NUMBER", "group": "NUMBER"}, {"id": "20", "label": "20", "title": "NUMBER", "group": "NUMBER"}, {"id": "100", "label": "100", "title": "NUMBER", "group": "NUMBER"}, {"id": "$0", "label": "$0", "title": "NUMBER", "group": "NUMBER"}, {"id": "9", "label": "9", "title": "NUMBER", "group": "NUMBER"}, {"id": "26", "label": "26", "title": "NUMBER", "group": "NUMBER"}, {"id": "10%", "label": "10%", "title": "NUMBER", "group": "NUMBER"}, {"id": "500", "label": "500", "title": "NUMBER", "group": "NUMBER"}, {"id": "2021", "label": "2021", "title": "NUMBER", "group": "NUMBER"}, {"id": "3.", "label": "3.", "title": "NUMBER", "group": "NUMBER"}, {"id": "112", "label": "112", "title": "NUMBER", "group": "NUMBER"}, {"id": "273", "label": "273", "title": "NUMBER", "group": "NUMBER"}, {"id": "Apple Inc", "label": "Apple Inc", "title": "ORG", "group": "ORG"}, {"id": "Among Apple Inc", "label": "Among Apple Inc", "title": "ORG", "group": "ORG"}, {"id": "The Nasdaq Stock Market LLC", "label": "The Nasdaq Stock Market LLC", "title": "ORG", "group": "ORG"}, {"id": "Technology Supersector Index\nApple Inc", "label": "Technology Supersector Index\nApple Inc", "title": "ORG", "group": "ORG"}, {"id": "June 24, 2024", "label": "June 24, 2024", "title": "DATE", "group": "DATE"}, {"id": "October\u00a018, 2024", "label": "October\u00a018, 2024", "title": "DATE", "group": "DATE"}, {"id": "June 30, 2024", "label": "June 30, 2024", "title": "DATE", "group": "DATE"}, {"id": "August 3, 2024", "label": "August 3, 2024", "title": "DATE", "group": "DATE"}, {"id": "September 1, 2024", "label": "September 1, 2024", "title": "DATE", "group": "DATE"}, {"id": "August 31, 2024", "label": "August 31, 2024", "title": "DATE", "group": "DATE"}, {"id": "May 2, 2024", "label": "May 2, 2024", "title": "DATE", "group": "DATE"}, {"id": "March 25, 2024", "label": "March 25, 2024", "title": "DATE", "group": "DATE"}, {"id": "September 30, 2024", "label": "September 30, 2024", "title": "DATE", "group": "DATE"}, {"id": "August 4, 2024", "label": "August 4, 2024", "title": "DATE", "group": "DATE"}, {"id": "September\u00a0 28, 2024", "label": "September\u00a0 28, 2024", "title": "DATE", "group": "DATE"}, {"id": "September\u00a028, 2024", "label": "September\u00a028, 2024", "title": "DATE", "group": "DATE"}, {"id": "September 28, 2024", "label": "September 28, 2024", "title": "DATE", "group": "DATE"}, {"id": "January 16, \n2024", "label": "January 16, \n2024", "title": "DATE", "group": "DATE"}, {"id": "March 21, 2024", "label": "March 21, 2024", "title": "DATE", "group": "DATE"}, {"id": "September\u00a027, 2019", "label": "September\u00a027, 2019", "title": "DATE", "group": "DATE"}]);
+        var edges = new vis.DataSet([{"from": "2024, the commission", "to": "that it had", "label": "announced", "title": "Legal Pr oceedings\nDigital Markets Act Investigations\nOn March 25, 2024, the Commission announced th"}, {"from": "part of publicly", "to": "plans or programsapproximate", "label": "announced", "title": "Purchases  of Equity Securities by the Issuer and Affiliated Purchasers\nShare repurchase activity du"}, {"from": "share repurchase program", "to": "on may 2,", "label": "announced", "title": "86  33,653 \nTotal  112,260 $ 89,074 \n(1) As of September\u00a028, 2024 , the Company was authorized by th"}]);
+        
+        // 容器
+        var container = document.getElementById('mynetwork');
+        var data = {
+            nodes: nodes,
+            edges: edges
+        };
+        
+        // 配置
+        var options = {
+            nodes: {
+                shape: 'dot',
+                size: 16,
+                font: {
+                    size: 14
+                },
+                borderWidth: 2,
+                shadow: true
+            },
+            edges: {
+                width: 2,
+                arrows: {
+                    to: {enabled: true, scaleFactor: 0.5}
+                },
+                smooth: {
+                    type: 'continuous'
+                },
+                font: {
+                    size: 12,
+                    align: 'middle'
+                }
+            },
+            physics: {
+                enabled: true,
+                barnesHut: {
+                    gravitationalConstant: -8000,
+                    springConstant: 0.04,
+                    springLength: 95
+                }
+            },
+            interaction: {
+                hover: true,
+                tooltipDelay: 200
+            }
+        };
+        
+        // 创建网络
+        var network = new vis.Network(container, data, options);
+        
+        // 点击节点事件
+        network.on("click", function(params) {
+            if (params.nodes.length > 0) {
+                var nodeId = params.nodes[0];
+                console.log("Clicked node:", nodeId);
+            }
+        });
+    </script>
+</body>
+</html>
